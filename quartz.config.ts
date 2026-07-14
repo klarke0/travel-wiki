@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "klarke0.github.io/oregon-coast-wiki",
+    baseUrl: "oregon-coast-wiki.netlify.app",
     ignorePatterns: ["private", "templates", ".obsidian", "raw"],
     defaultDateType: "modified",
     theme: {
