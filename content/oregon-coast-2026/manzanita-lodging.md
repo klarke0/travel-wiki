@@ -48,7 +48,7 @@ Best-value hot tub option for a couple. Search Whimstay or Airbnb for "Manzanita
 ---
 
 ### Manzanita Beach Cottage / Lazy Pine
-**Platform:** [Vacasa](https://www.vacasa.com/usa/Oregon/Manzanita/)  
+**Platform:** [Vacasa — direct listing](https://www.vacasa.com/unit/960)  
 **Type:** 2BR/2BA  
 **Rate:** ~$250–350/night in August  
 **2-night est.:** ~$500–700 + fees (~12% Vacasa fee)  
@@ -124,7 +124,7 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 ---
 
 ### Wavewalker (Manzanita Beach Getaway)
-**Platform:** [Manzanita Beach Getaway](https://www.manzanitabeachgetaway.com) / Airbnb / VRBO #4319626  
+**Platform:** [Airbnb](https://www.airbnb.com/rooms/1340865645620303034) · [VRBO](https://www.vrbo.com/4319626) · [Agency page](https://www.manzanitabeachgetaway.com/unit/wavewalker/)  
 **Type:** 4BR oceanfront  
 **Rate:** ~$400–600+/night (August)  
 **2-night est.:** ~$800–1,200+ + fees  
@@ -141,7 +141,7 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 ---
 
 ### WindWard Dream (Vacasa #10045)
-**Platform:** [Vacasa](https://www.vacasa.com/usa/Oregon/Manzanita/)  
+**Platform:** [Vacasa — direct listing](https://www.vacasa.com/unit/10045)  
 **Type:** 4BR/3BA, sleeps 12  
 **Rate:** See Vacasa listing  
 **Hot tub:** Yes  
@@ -154,11 +154,11 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 ---
 
 ### VRBO #925046
-**Platform:** [VRBO](https://www.vrbo.com)  
+**Platform:** [VRBO — direct listing](https://www.vrbo.com/925046)  
 **Type:** 4BR, pet-friendly  
 **Hot tub:** Yes  
 
-Listed under Manzanita hot tub homes. Search VRBO directly by listing number. Same caveat: 4BR pricing for 2 adults.
+Same caveat: 4BR pricing for 2 adults.
 
 ---
 
@@ -338,7 +338,7 @@ No traveler booking fees through Beachcombers NW.
 ### Splurge ($350+/night)
 
 ### 3ONE8 Manzanita ⭐ (Second-Highest Rated Overall)
-**Platform:** [Airbnb](https://www.airbnb.com)  
+**Platform:** [Airbnb](https://www.airbnb.com/s/Manzanita--OR/homes?query=3ONE8) (search "3ONE8 Manzanita")  
 **Type:** 2BR/1BA, 780 sq ft  
 **Rate:** ~$456/night  
 **2-night est.:** ~$912 + fees  
@@ -381,7 +381,7 @@ Search Airbnb for "3ONE8 Manzanita."
 ---
 
 ### Modern Manzanita Retreat
-**Platform:** [Meredith Lodging](https://www.meredithlodging.com)  
+**Platform:** [Meredith Lodging — direct listing](https://www.meredithlodging.com/listings/1012)  
 **Type:** 3BR/2BA, 1,680 sq ft  
 **Rate:** ~$452/night  
 **2-night est.:** ~$904 + fees  
@@ -419,10 +419,10 @@ Search Airbnb for "3ONE8 Manzanita."
 ---
 
 ### VRBO Oceanfront Options
-The following VRBO listing numbers are known Manzanita oceanfront properties — search directly on [vrbo.com](https://www.vrbo.com):
-- **#793657**
-- **#442897**
-- **#399113**
+Known Manzanita oceanfront properties — click directly:
+- [VRBO #793657](https://www.vrbo.com/793657)
+- [VRBO #442897](https://www.vrbo.com/442897)
+- [VRBO #399113](https://www.vrbo.com/399113)
 
 ---
 
@@ -471,7 +471,7 @@ Booking through a local agency often means lower fees than Airbnb/VRBO and direc
 ---
 
 ### Oregon Beach Vacations
-**Website:** [oregonbeachvacations.com](https://www.oregonbeachvacations.com)  
+**Website:** [oregonbeachvacations.com — Manzanita](https://www.oregonbeachvacations.com/destination/manzanita-vacation-rentals)  
 **Notes:** Broader Oregon Coast portfolio; includes Manzanita listings.
 
 ---
