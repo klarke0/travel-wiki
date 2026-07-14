@@ -1,5 +1,8 @@
 # Manzanita
 
+![Manzanita Beach Oregon](https://upload.wikimedia.org/wikipedia/commons/a/ad/Manzanita_Beach_-_Oregon.jpg)
+*Photo: Doug Kerr / CC BY-SA 2.0*
+
 **Summary**: Manzanita is a quiet, locals-oriented beach town 90 miles from Portland — 20 minutes south of Cannon Beach with a completely different vibe. Seven miles of uncrowded beach, great restaurants on Laneda Ave, and easy access to Nehalem Bay, Oswald West State Park, and Wheeler. The anti-Cannon Beach.
 
 **Trip dates**: August 23–25, 2026 (2 nights) | 2 adults
@@ -77,11 +80,17 @@
 ### Manzanita Beach
 Seven miles of hard-packed crescent beach — rarely crowded. Great for walking, kite flying, beachcombing, watching sunsets. Tide pooling at low tide twice daily. **Sneaker waves are real — never turn your back on the ocean near rocks.**
 
+![Manzanita from Neahkahanie Mountain](https://upload.wikimedia.org/wikipedia/commons/8/81/Manzanita_from_Neahkahanie_Mountain_-_panoramio.jpg)
+*Photo: zak11527 / CC BY-SA 3.0*
+
 ### Oswald West State Park (~15 min north on Hwy 101)
 - **Short Sand Beach ("Shorty's")**: Half-mile walk through old-growth Sitka spruce to a sheltered cove — the premiere surf beach in the area. Picnic area on the beach.
 - **Cape Falcon Loop**: ~5 miles round trip, moderate. Temperate rainforest → exposed headland with panoramic ocean views. One of the best coastal hikes in Oregon.
 - **Parking**: $10/day Oregon State Park Pass. Fills fast — arrive before 9 AM or after 4 PM.
 - ⚠️ **Bridge closures (2025–2026)**: Upper Short Sand Creek Trail bridge failed, Necarney Creek suspension bridge removed. Verify current status at [stateparks.oregon.gov](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=139) before going.
+
+![Short Sand Beach at Oswald West State Park](https://images.unsplash.com/photo-1634492483057-9a2d137a98e7?fm=jpg&q=80&w=2000&auto=format&fit=crop)
+*Photo: David Schultz / Unsplash*
 
 ### Nehalem Bay State Park (~4 mi south)
 - **Horseback riding on the beach**: Available Memorial Day–Labor Day. ⚠️ Closed Sundays in July–August — confirm weekend availability. **Reserve at 971-237-6653** well in advance.
@@ -92,6 +101,9 @@ Seven miles of hard-packed crescent beach — rarely crowded. Great for walking,
 
 ### Neahkahnie Mountain Trail
 3–5 miles, moderate, 900–1,000 ft gain. Panoramic views of Nehalem Bay and coast. Trailhead just south of Oswald West on Hwy 101.
+
+![Nehalem Bay sunset](https://upload.wikimedia.org/wikipedia/commons/0/04/Nehalem_bay_sunset.JPG)
+*Photo: Jsayre64 / CC BY-SA 3.0*
 
 ### Wheeler — Kayaking & Crabbing (~8 mi south, 12 min)
 - **Wheeler Marina** (278 Marine Dr): Kayaks, canoes, SUPs, motorboats for crabbing on Nehalem River and Bay. [wheelermarina.com](https://wheelermarina.com/)

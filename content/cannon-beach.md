@@ -1,5 +1,7 @@
 # Cannon Beach
 
+![Haystack Rock at Cannon Beach](https://images.unsplash.com/photo-1603232644162-5ac9e5f0f376?fm=jpg&q=80&w=2000&auto=format&fit=crop)
+
 **Summary**: Cannon Beach is a charming coastal town 80 miles from Portland, anchored by iconic 235-foot Haystack Rock. Peak summer destination — book rentals and restaurants well in advance. Best base for Ecola State Park and Oswald West State Park.
 
 **Trip dates**: August 23–25, 2026 (2 nights) | 2 adults
@@ -97,6 +99,9 @@
 - **HRAP interpretive programs**: Free, mid-February through October during low tides. Spotting scopes, microscopes, live specimens. [haystackrockawareness.com](https://www.haystackrockawareness.com/)
 - **Rules**: No climbing above barnacle line; no collecting; dogs leashed within 300 yards.
 
+![Cannon Beach panorama looking northwest](https://upload.wikimedia.org/wikipedia/commons/7/7a/Cannon_Beach%2C_Oregon_%28looking_northwest%29.jpg)
+*Photo: DiscoverWithDima / CC BY-SA 4.0*
+
 ### Ecola State Park
 
 $5 day-use permit required. Head north on Ecola Park Road, 1.5 miles to fee station. **Note:** Clatsop Loop Trail closed by landslide March 2026; day-use areas reopened April 2026 — confirm trail status at [stateparks.oregon.gov](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=136).
@@ -110,6 +115,9 @@ $5 day-use permit required. Head north on Ecola Park Road, 1.5 miles to fee stat
 - **Indian Beach**: Beginner-friendly surf spot, less crowded.
 - **Crescent Beach**: Rarely visited, surrounded by headlands; low-tide caves and tunnels.
 - **Parking tip**: Arrive before 9 AM — lot fills and rangers turn people away by 10–11 AM on summer weekends.
+
+![Ecola State Park coastal overlook](https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecola_State_Park_-_55173526794.jpg)
+*Photo: Casey Helton / CC BY-SA 4.0*
 
 ### Oswald West State Park
 
