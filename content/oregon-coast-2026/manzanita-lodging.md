@@ -12,6 +12,23 @@ Deep-dive on every lodging option in and around Manzanita for Aug 23–25, 2026 
 
 ---
 
+## Search All Available Units — Aug 23–25, 2026
+
+Pre-filtered links for your exact dates. Open these to see live availability and current pricing:
+
+| Platform | Link | Notes |
+|---|---|---|
+| Airbnb | [Manzanita Aug 23–25, 2 adults](https://www.airbnb.com/s/Manzanita--OR--United-States/homes?checkin=2026-08-23&checkout=2026-08-25&adults=2) | Filter by "Amenities → Hot tub" to narrow |
+| VRBO | [Manzanita Aug 23–25](https://www.vrbo.com/vacation-rentals/usa/oregon/northern-coast/manzanita?from=2026-08-23&to=2026-08-25) | Sort by "Top rated" |
+| Vacasa | [Manzanita Aug 23–25](https://www.vacasa.com/usa/Oregon/Manzanita/?startDate=2026-08-23&endDate=2026-08-25) | Add "Hot Tub" filter |
+| Whimstay | [Manzanita Aug 23–25](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25) | Good aggregator — pulls from multiple platforms |
+| CozyCozy | [Manzanita Aug 23–25](https://www.cozycozy.com/us/manzanita-vacation-rentals?from=2026-08-23&to=2026-08-25) | Another aggregator, often surfaces unlisted gems |
+| Hipcamp | [Glamping near Manzanita](https://www.hipcamp.com/en-US/d/united-states/oregon/manzanita/camping/glamping) | Manual date filter required |
+| Beachcombers NW | [Browse Manzanita properties](https://www.beachcombersnw.com/manzanita-oregon) | Call 503-368-2929 for date availability — no platform fees |
+| Manzanita Beach Getaway | [Browse hot tub homes](https://www.manzanitabeachgetaway.com/property-groups/hot-tub-homes/) | Call 503-368-2929 for 2-night Sunday availability |
+
+---
+
 ## Quick Picks
 
 | Category | Pick | Est. 2 nights | Why |
@@ -65,7 +82,7 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 ---
 
 ### Charming Cottage with Hot Tub
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 3BR, sleeps 9  
 **Rate:** ~$280/night  
 **2-night est.:** ~$560 + fees  
@@ -77,10 +94,12 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 - Fire pit included
 - 35 reviews is a thin sample — verify recent reviews before booking
 
+**How to find:** Open the Whimstay date-filtered link above → filter "Hot tub" → look for the 3BR listing at ~$280/night with fire pit and 4.7 rating (35 reviews). Title contains "Charming Cottage."
+
 ---
 
 ### Charming Hot Tub and Cozy Fire Pit
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 3BR, sleeps 8  
 **Rate:** ~$301/night  
 **2-night est.:** ~$600 + fees  
@@ -91,10 +110,12 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 - Slightly better review sample than the cottage above
 - More space than 2 adults need, but pricing is competitive
 
+**How to find:** Open the Whimstay date-filtered link → filter "Hot tub" → look for the 3BR listing at ~$301/night with 4.7 rating and 62 reviews. Better review sample than the Charming Cottage above — look for "Cozy Fire Pit" in the title.
+
 ---
 
 ### Charming Cabin with Patio and Fire Pit
-**Platform:** [Vacasa](https://www.vacasa.com/usa/Oregon/Manzanita/)  
+**Platform:** [Vacasa Manzanita hot tub filter](https://www.vacasa.com/usa/Oregon/Manzanita/?startDate=2026-08-23&endDate=2026-08-25)  
 **Type:** 3BR/2BA  
 **Rate:** ~$281/night  
 **2-night est.:** ~$560 + fees  
@@ -104,6 +125,8 @@ Search Vacasa Manzanita filter for "hot tub" — this property appears under "La
 - Hot tub + fire pit combination
 - Cabin-style setting
 - Three bedrooms is more than needed, but price stays reasonable
+
+**How to find:** Open the Vacasa date-filtered link → add "Hot Tub" filter → look for the 3BR/2BA cabin at ~$281/night with 4.72 stars. Title contains "Charming Cabin" and "Fire Pit."
 
 ---
 
@@ -250,7 +273,7 @@ No traveler booking fees through Beachcombers NW.
 ---
 
 ### Charming Chalet with Bonus Loft
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 2BR + loft, sleeps 8  
 **Rate:** ~$266/night  
 **2-night est.:** ~$532 + fees  
@@ -259,6 +282,8 @@ No traveler booking fees through Beachcombers NW.
 
 - Loft adds interesting space for 2 adults
 - Strong Whimstay rating
+
+**How to find:** Open the Whimstay date-filtered link → look for the 2BR+loft at ~$266/night with 4.8 rating and 79 reviews. "Bonus Loft" in the title — distinguishable from the Charming Cottage/Cabin listings by the loft mention and higher review count.
 
 ---
 
@@ -294,7 +319,7 @@ No traveler booking fees through Beachcombers NW.
 ---
 
 ### Ocean Access and Scenic Views
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 3BR, sleeps 8  
 **Rate:** ~$295/night  
 **2-night est.:** ~$590 + fees  
@@ -304,10 +329,12 @@ No traveler booking fees through Beachcombers NW.
 - 4.9/5 is an exceptional Whimstay score
 - More space than 2 adults need but competitive price
 
+**How to find:** Open the Whimstay date-filtered link → look for the 3BR at ~$295/night with 4.9 rating and 48 reviews. Title contains "Ocean Access and Scenic Views" — highest non-hot-tub Whimstay score in this price range.
+
 ---
 
 ### Spacious Deck and EV Charger
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 3BR, sleeps 6  
 **Rate:** ~$287/night  
 **2-night est.:** ~$574 + fees  
@@ -316,6 +343,8 @@ No traveler booking fees through Beachcombers NW.
 
 - Perfect score but only 5 reviews — too thin to rely on; verify carefully
 - EV charger is a notable differentiator if relevant
+
+**How to find:** Open the Whimstay date-filtered link → look for the 3BR at ~$287/night with EV charger in the amenities. The EV charger is the unique identifier — very few Manzanita listings will have one. Title contains "Spacious Deck."
 
 ---
 
@@ -355,7 +384,7 @@ Search Airbnb for "3ONE8 Manzanita."
 ---
 
 ### Spindrift Hideaway
-**Platform:** [CozyCozy](https://www.cozycozy.com)  
+**Platform:** [CozyCozy — search by name](https://www.cozycozy.com/us/manzanita-vacation-rentals?from=2026-08-23&to=2026-08-25)  
 **Type:** 3BR/2BA  
 **Rate:** ~$436/night  
 **2-night est.:** ~$872 + fees  
@@ -365,10 +394,12 @@ Search Airbnb for "3ONE8 Manzanita."
 - Gas fireplace
 - Strong rating but only 28 reviews
 
+**How to find:** Search "Spindrift Hideaway Manzanita Oregon" on Google to find the source listing (likely Airbnb or VRBO), or open the CozyCozy date-filtered link and search "Spindrift." The name is specific enough that a direct name search will surface it.
+
 ---
 
 ### The Selkie's Song
-**Platform:** [CozyCozy](https://www.cozycozy.com)  
+**Platform:** [CozyCozy — search by name](https://www.cozycozy.com/us/manzanita-vacation-rentals?from=2026-08-23&to=2026-08-25)  
 **Type:** 3BR/2BA  
 **Rate:** ~$437/night  
 **2-night est.:** ~$874 + fees  
@@ -377,6 +408,8 @@ Search Airbnb for "3ONE8 Manzanita."
 
 - Perfect score with meaningful review volume
 - No details on specific amenities but the ratings speak
+
+**How to find:** Search "The Selkie's Song Manzanita Oregon" on Google or Airbnb to find the source listing, or open CozyCozy date-filtered link and search "Selkie." The mythological name is unique — only one property will have it.
 
 ---
 
@@ -394,7 +427,7 @@ Search Airbnb for "3ONE8 Manzanita."
 ---
 
 ### Charming Coastal Retreat
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 4BR, sleeps 12  
 **Rate:** ~$328/night  
 **2-night est.:** ~$656 + fees  
@@ -403,10 +436,12 @@ Search Airbnb for "3ONE8 Manzanita."
 
 - More house than 2 adults need but one of the lower per-night splurge prices
 
+**How to find:** Open the Whimstay date-filtered link → look for the 4BR at ~$328/night with 4.9 rating and 40 reviews. Title contains "Charming Coastal Retreat" — distinguishable from other Charming properties by the 4BR size.
+
 ---
 
 ### Ocean Views and Game Room
-**Platform:** [Whimstay](https://www.whimstay.com)  
+**Platform:** [Whimstay](https://www.whimstay.com/s/OR/Manzanita?checkIn=2026-08-23&checkOut=2026-08-25)  
 **Type:** 4BR, sleeps 12  
 **Rate:** ~$473/night  
 **2-night est.:** ~$946 + fees  
@@ -415,6 +450,8 @@ Search Airbnb for "3ONE8 Manzanita."
 
 - Game room addition
 - Firmly in "paying for capacity you won't use" territory for 2 adults
+
+**How to find:** Open the Whimstay date-filtered link → look for the 4BR at ~$473/night with game room in the amenities. The game room is the unique identifier — search "game room" in Whimstay filters if available. Title contains "Game Room."
 
 ---
 
