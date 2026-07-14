@@ -33,9 +33,11 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 
 ---
 
-## Vacation Rentals
+## Lodging
 
-> **Book immediately.** August weekends sell out 3–6 months in advance. Many premium agencies impose **7-night minimums** in peak summer — **call the agency directly** to ask about filling a 2-night gap between longer bookings. Manzanita has no chain hotels, so a rental is effectively your only option.
+> 📋 **[[manzanita-lodging|Full Lodging Guide]]** — deep-dive on every option: vacation rentals, hotels, B&Bs, glamping, and Wheeler/Nehalem alternatives with prices, reviews, and booking tips.
+
+> **Book immediately.** August weekends sell out 3–6 months in advance. Many agencies impose 6-night minimums in peak summer — call directly to confirm 2-night Sunday–Tuesday availability. Manzanita has no chain hotels.
 
 ### Hot Tub Rentals by Budget
 
