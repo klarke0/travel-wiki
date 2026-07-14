@@ -17,8 +17,9 @@ Planning a 2-night coast trip August 23–24, 2026. Mom's visit (Aug 22–27 in 
 
 | Location | Distance from Portland | Vibe | Status |
 |---|---|---|---|
-| [[cannon-beach\|Cannon Beach]] | ~1.5–2 hrs | Iconic, busy, scenic | ✅ Researched (x2) |
+| [[cannon-beach\|Cannon Beach]] | ~1.5–2 hrs | Iconic, busy, scenic | ✅ Researched |
 | [[manzanita\|Manzanita]] | ~1h45m | Quiet, locals-oriented, cheaper | ✅ Researched |
+| [[astoria\|Astoria]] | ~2h via US-30 | Historic city, breweries, Columbia River | ✅ Researched |
 | Lincoln City | ~1h40m | Commercial, larger, casino | 🔜 Planned |
 | Seaside | ~1.5 hrs | Classic tourist town | 🔜 Planned |
 | Rockaway Beach | ~1h50m | Small, quiet, budget | 🔜 Planned |
@@ -38,3 +39,4 @@ Planning a 2-night coast trip August 23–24, 2026. Mom's visit (Aug 22–27 in 
 - [[itinerary|📅 Itinerary]] — day-by-day plan for Aug 23–25
 - [[cannon-beach|Cannon Beach]] — rentals, Haystack Rock, Ecola SP, restaurants
 - [[manzanita|Manzanita]] — rentals, Nehalem Bay, Wheeler, Oswald West, restaurants
+- [[astoria|Astoria]] — historic city, Fort George Brewery, Goonies house, Peter Iredale shipwreck
