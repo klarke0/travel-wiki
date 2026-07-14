@@ -22,7 +22,7 @@ Planning a 2-night coast trip August 23–24, 2026. Mom's visit (Aug 22–27 in 
 | [[astoria\|Astoria]] | ~2h via US-30 | Historic city, breweries, Columbia River | ✅ Researched |
 | Lincoln City | ~1h40m | Commercial, larger, casino | 🔜 Planned |
 | Seaside | ~1.5 hrs | Classic tourist town | 🔜 Planned |
-| Rockaway Beach | ~1h50m | Small, quiet, budget | 🔜 Planned |
+| [[rockaway-beach\|Rockaway Beach]] | ~1h50m | Small, quiet, budget | ✅ Researched |
 
 ---
 
@@ -40,3 +40,4 @@ Planning a 2-night coast trip August 23–24, 2026. Mom's visit (Aug 22–27 in 
 - [[cannon-beach|Cannon Beach]] — rentals, Haystack Rock, Ecola SP, restaurants
 - [[manzanita|Manzanita]] — rentals, Nehalem Bay, Wheeler, Oswald West, restaurants
 - [[astoria|Astoria]] — historic city, Fort George Brewery, Goonies house, Peter Iredale shipwreck
+- [[rockaway-beach|Rockaway Beach]] — small quiet town, 7 miles of beach, Pelican Brewing, honest Mon/Tue dining warning
