@@ -4,7 +4,7 @@ title: Itinerary — August 23–25, 2026
 
 # Itinerary — August 23–25, 2026
 
-**2 nights · 2 adults · Oregon Coast**
+**2 nights · 2 adults · Manzanita, Oregon**
 Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ---
@@ -16,71 +16,63 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ---
 
-## Saturday, August 23 — Drive to the Coast
+## Saturday, August 23 — Drive to Manzanita
 
 | Time | Activity |
 |---|---|
 | **7:30 AM** | Leave Portland on US-26 West |
-| **~9:30 AM** | Arrive at rental, check in / drop bags |
-| **10 AM** | Breakfast at **Yolk** (if Manzanita) or **Cannon Beach Bakery** (if CB) |
-| **11 AM – 3 PM** | **Oswald West State Park** — Short Sand Beach + Cape Falcon hike (15–20 min from either location) |
-| **3 PM** | Beach time / settle in / explore town |
-| **4–7 PM** | **Manzanita Farmers Market** *(if Manzanita — Fridays 4–7 PM)* |
-| **7 PM** | Dinner — see restaurant recommendations |
-| **Evening** | Hot tub at rental |
+| **~9:30 AM** | Arrive Manzanita area — too early for check-in (4 PM) |
+| **10 AM** | Breakfast at **Yolk** (Laneda Ave) |
+| **11 AM – 2 PM** | **Oswald West State Park** — Short Sand Beach + Cape Falcon trail (~15 min south on US-101) |
+| **2–3:30 PM** | Beach walk on Manzanita beach, browse Laneda Ave |
+| **4:00 PM** | **Check in** — Sea Star #2 (contactless, get code from Mom) |
+| **5 PM** | Settle in, unpack, deck time with ocean views |
+| **7 PM** | Dinner — **Manznita Restaurant** or **Left Coast Siesta** |
 
-> 💡 **Tip:** Depart Portland by 8 AM latest to beat US-26 summer traffic and arrive at parks before lots fill.
+> 💡 Depart Portland by 7:30 AM to beat US-26 summer traffic. Check-in isn't until 4 PM — Oswald West fills that gap perfectly.
 
 ---
 
-## Sunday, August 24 — Full Day at the Coast
+## Sunday, August 24 — Full Day
 
 | Time | Activity |
 |---|---|
-| **Morning** | Leisurely breakfast at rental or local café |
-| **10 AM** | Low-tide tidepool walk (check NOAA tide chart) |
-| **Mid-morning** | **Horseback riding** at Nehalem Bay State Park *(Manzanita option — reserve at 971-237-6653, check Sunday availability)* |
-| **Afternoon** | **Wheeler Marina** — kayak or crab on Nehalem Bay, OR Ecola State Park hike (Cannon Beach) |
-| **Late afternoon** | Downtown browsing — Laneda Ave (Manzanita) or Hemlock St (Cannon Beach) |
-| **4 PM** | Early dinner at **The Salmonberry** in Wheeler *(walk-in only — arrive at opening)*, or dinner reservation in CB |
-| **Evening** | Hot tub + optional nightcap at MacGregor's Whiskey Bar |
+| **Morning** | Sunrise beach walk from rental (1-min to Sunset Beach) |
+| **9 AM** | Coffee at **Manzanita News & Espresso** |
+| **10 AM** | Low-tide tidepool walk (check NOAA tide chart) or **Cape Falcon hike** (Oswald West, 5 mi loop) |
+| **Mid-morning** | Optional: **Wheeler Marina** kayak or crabbing on Nehalem Bay |
+| **Afternoon** | **Nehalem Bay Winery** tasting (34965 Hwy 53, daily 10–5, $10 for 5 pours) or Laneda Ave shopping |
+| **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
+| **Evening** | Deck BBQ from **Manzanita Fresh Foods** + nightcap at **MacGregor's Whiskey Bar** |
 
 ---
 
-## Monday, August 25 — Drive Home
+## Monday, August 25 — Check Out & Drive Home
 
 | Time | Activity |
 |---|---|
-| **Morning** | Sunrise beach walk (best time — almost no one out) |
-| **8–9 AM** | Coffee + pastry — **Manzanita News & Espresso** or **Cannon Beach Bakery** |
-| **10 AM** | Check out |
-| **10:30 AM** | Optional stop: **Tillamook Creamery** (US-101 south → US-6 east to Portland) |
-| **~1 PM** | Back in Portland |
+| **7 AM** | Sunrise beach walk |
+| **8–9 AM** | Coffee + breakfast — **Manzanita News & Espresso** |
+| **10:00 AM** | **Check out** |
+| **10:30 AM** | Optional day trip: **Cannon Beach** (20 min north) — Haystack Rock tidepools before heading home |
+| **~11:30 AM** | Drive home via US-101 S → US-6 E → US-26 E |
+| **~12:30 PM** | Optional stop: **Tillamook Creamery** (ice cream + cheese to take home) |
+| **~2 PM** | Back in Portland |
 
 ---
 
-## Key Reservations to Make
+## Key Reservations
 
 | | What | Contact | Notes |
 |---|---|---|---|
-| ☐ | **Vacation rental with hot tub** | VRBO / Airbnb / local agency | Book now — fills 3–6 months out |
-| ☐ | **Horseback riding** (if Manzanita) | 971-237-6653 | Closed Sundays in July/August — confirm |
-| ☐ | **Dinner reservations** | Wayfarer (CB): [thewayfarer.com](https://www.thewayfarer.com) | Especially for Saturday dinner in CB |
-
----
-
-## Location Options
-
-Still choosing between:
-- [[cannon-beach|Cannon Beach]] — iconic, more to do, more crowded in August, pricier rentals
-- [[manzanita|Manzanita]] — quieter, cheaper, better restaurants, Haystack Rock is 20 min away
-
-**Recommendation:** Manzanita for a relaxed adult trip. See [[cannon-beach|Cannon Beach]] for a morning on Sat or Sun.
+| ✅ | **Sea Star #2 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
+| ☐ | **Horseback riding** | 971-237-6653 | Closed Sundays — skip or call ahead to confirm Mon Aug 24 |
+| ☐ | **Nehalem Bay Winery tasting** | [nehalembaywinery.com](https://www.nehalembaywinery.com/) | Walk-in fine, but call if going as a group |
 
 ---
 
 ## Related Pages
 
-- [[cannon-beach|Cannon Beach — Full Research]]
-- [[manzanita|Manzanita — Full Research]]
+- [[manzanita|Manzanita — Full Guide]]
+- [[cannon-beach|Cannon Beach — Day Trip]]
 - [[index|Trip Overview]]

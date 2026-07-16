@@ -6,103 +6,13 @@ title: Cannon Beach — Oregon Coast
 
 ![Haystack Rock at Cannon Beach](https://images.unsplash.com/photo-1603232644162-5ac9e5f0f376?fm=jpg&q=80&w=2000&auto=format&fit=crop)
 
-The Oregon coast's headline act: a charming, gallery-lined village fronting three miles of wide sand and the unmistakable 235-foot silhouette of Haystack Rock. It's the most iconic — and in August, the most crowded — town on the north coast, so the trick is booking early and moving early. Base here for tidepools at the rock, the old-growth trails of Ecola and Oswald West, and Arch Cape's quieter beaches five minutes south.
+**Day trip from Manzanita — 20 min north on US-101.** The Oregon coast's headline act: a charming, gallery-lined village fronting three miles of wide sand and the unmistakable 235-foot silhouette of Haystack Rock. Worth a morning stop, especially for tidepools at the rock.
 
-**Distance from Portland:** ~1.5–2h (2.5–3h on summer weekends) via US-26 W → US-101 S
+**Distance from Manzanita:** ~20 min north on US-101
+**Distance from Portland:** ~1.5–2h via US-26 W → US-101 S
 **Vibe:** Iconic, charming, art-forward, genuinely busy in summer
-**Beach:** 3 miles of wide, walkable sand
-**Trip dates:** August 23–25, 2026 (2 nights, 2 adults) · **Hot tub required**
 
 **Last updated:** 2026-07-14
-
----
-
-## At a Glance — Cannon Beach vs. Manzanita
-
-| | Cannon Beach | Manzanita (20 min S) |
-|---|---|---|
-| Vibe | Iconic, polished, gallery town | Low-key, sleepy, local |
-| Summer crowds | Heavy — peak coast destination | Moderate |
-| Rental prices | Higher (premium market) | ~20–30% cheaper |
-| Dining | Wide range, fine dining present | Small but strong |
-| Signature sight | Haystack Rock + tidepools | Neahkahnie Mountain views |
-| Parking | Genuinely difficult in August | Easier |
-
-> **Budget move:** Arch Cape (5 mi south of Cannon Beach) and Manzanita both run cheaper than Cannon Beach proper for the same beach quality. Arch Cape sections below.
-
----
-
-## Vacation Rentals with Hot Tubs
-
-> **Book immediately.** August weekends in Cannon Beach sell out 3–6 months out. All prices below are **approximate averages from listing snippets — not live quotes** for Aug 23–25. Direct-fetch of listing pages is blocked, so confirm real totals (add ~$150–350 in cleaning + service fees) by entering your dates on each link.
-
-### Budget — Under $350/night
-
-| Property | Location | Beds / Guests | Est. Nightly | Hot Tub & Features | Link |
-|---|---|---|---|---|---|
-| ⭐ **Ocean Views, Quiet, Unique Artistry** | Arch Cape | 2BR, sleeps 4–6 | ~$205 | Outdoor hot tub, fireplace, W/D; 1986 artist-built cabin, very quiet | [vrbo.com/377251](https://www.vrbo.com/377251) |
-| **Van Buren Cottage w/ Hot Tub** | Cannon Beach | Cottage (couple-sized) | Get live quote | Private hot tub cottage — good fit for 2 | [airbnb.com/rooms/21438023](https://www.airbnb.com/rooms/21438023) |
-| **2BR Dog-Friendly, Hot Tub, Deck, Tennis** | Cannon Beach | 2BR | Get live quote | Hot tub, deck, tennis, W/D, dog-friendly | [airbnb.com/rooms/16996152](https://www.airbnb.com/rooms/16996152) |
-
-The Arch Cape cabin (**~$205**) is the standout value and right-sized for two.
-
-### Mid-Range — $350–$600/night
-
-| Property | Location | Beds / Guests | Est. Nightly | Hot Tub & Features | Link |
-|---|---|---|---|---|---|
-| **The Wave** | Cannon Beach | Large home (~3,000 sqft) | ~$385 | Indoor hot tub, ocean view, pet-friendly, 2.5 blocks to beach | [airbnb.com/rooms/10592134](https://www.airbnb.com/rooms/10592134) |
-| **New Modern 3BR Home, Hot Tub** | Cannon Beach | 3BR | ~mid | Outdoor hot tub, modern build, deck, pet-friendly | [airbnb.com/rooms/1282840439422865163](https://www.airbnb.com/rooms/1282840439422865163) |
-| **Oceanfront — Hot Tub Facing Ocean** | Arch Cape | 4BR, sleeps 10 | ~$385 | Hot tub facing the ocean, oceanfront, fireplace, pets | [vrbo.com/248775](https://www.vrbo.com/248775) |
-
-Oversized for two, but priced in this tier — worth a look if you want extra space.
-
-### Splurge — $600+/night
-
-| Property | Location | Beds / Guests | Est. Nightly | Hot Tub & Features | Link |
-|---|---|---|---|---|---|
-| **On the Rocks at Haystack** | Cannon Beach | 4BR, sleeps 8 | ~$622 | 4-person hot tub + firepit on lower deck, direct Haystack Rock & Needles views, gourmet kitchen, two balconies | [vrbo.com/896370](https://www.vrbo.com/896370) |
-| **Chapman Point Cottage** | Cannon Beach | 3BR, sleeps 8 | Upper tier | Hot tub, fully renovated 2024, 1 block to private beach access, 3 blocks to Ecola | [vrbo.com/1834155](https://www.vrbo.com/1834155) |
-
-> **On the Rocks** is the treat-yourself pick — an actual Haystack Rock view from a deck hot tub with a firepit. Oversized for two, but the view is the point.
-
-### Arch Cape (5 mi South — Better Value)
-
-Same beach quality as Cannon Beach, meaningfully cheaper, and much quieter — rentals here start around $163/night vs. Cannon Beach's higher averages. Ten minutes to downtown Cannon Beach dining and Haystack Rock. Best for a couple who wants a hot tub and calm over walkability.
-
-- **[vrbo.com/377251](https://www.vrbo.com/377251)** — 2BR artist cabin, ~$205, hot tub, quiet. **Best couple's value on this whole page.**
-- **[vrbo.com/248775](https://www.vrbo.com/248775)** — 4BR oceanfront, ~$385, hot tub facing the ocean, dog-friendly.
-- **[vrbo.com/484948](https://www.vrbo.com/484948)** — Oceanfront dog-friendly home, private hot tub, ocean views (price not captured — request quote).
-- **Whaletopia** (Beachcomber-managed) — 4BR oceanfront, two jacuzzi tubs, outdoor hot showers, beach access (large / splurge).
-
-### Airbnb Picks with Hot Tubs
-
-- **Van Buren Cottage** — [airbnb.com/rooms/21438023](https://www.airbnb.com/rooms/21438023) — couple-sized cottage with private hot tub; best Airbnb fit for two.
-- **The Wave** — [airbnb.com/rooms/10592134](https://www.airbnb.com/rooms/10592134) — indoor hot tub, ocean view, pet-friendly.
-- **New Modern 3BR** — [airbnb.com/rooms/1282840439422865163](https://www.airbnb.com/rooms/1282840439422865163) — modern build, outdoor hot tub.
-- **2BR Dog-Friendly** — [airbnb.com/rooms/16996152](https://www.airbnb.com/rooms/16996152) — hot tub, deck, tennis, dog-friendly.
-- **Filter:** [Airbnb — Cannon Beach hot tubs](https://www.airbnb.com/cannon-beach-or/stays/hot-tub)
-
-### Local Booking Agencies
-
-Often have inventory not on the big platforms, and can price a right-sized couple's cottage better than the aggregators for a 2-night stay.
-
-| Agency | Phone | Website | Notes |
-|---|---|---|---|
-| **Beachcomber Vacation Homes** | 855-219-4758 / 503-436-4500 | [beachcombervacationhomes.com](https://www.beachcombervacationhomes.com/hot-tub/) | 90+ properties across Cannon Beach + Arch Cape, hot-tub filterable. Running "10% off new weekly summer stays through Sept 7." **Best first call.** |
-| **Meredith Lodging** | 541-418-4555 / 503-436-0940 | [meredithlodging.com](https://www.meredithlodging.com/arch-cape-vacation-rentals) | Strong Arch Cape inventory, cottages + pet-friendly |
-| **Haystack Luxury Vacation Rentals** | (971) 287-1907 | [haystackluxuryvacationrentals.com](https://www.haystackluxuryvacationrentals.com/rentals-with-a-hot-tub/) | Luxury homes, dedicated hot-tub category |
-| **Cannon Beach Property Mgmt (CBPM)** | 503-436-2021 | [cbpm.com](https://www.cbpm.com/) | 40-year local operator |
-| **Vacasa** | 800-544-0300 | [vacasa.com/Cannon-Beach](https://www.vacasa.com/usa/Oregon/Cannon-Beach) | Large managed portfolio, hot-tub filter |
-| **VRBO hot-tub filter** | — | [vrbo.com — Cannon Beach hot tubs](https://www.vrbo.com/vacation-rentals/hot-tub/usa/oregon/northern-coast/cannon-beach) | 300+ results |
-
-### Hotels with Hot Tub Access (Backup)
-
-| Hotel | Rating | Notes |
-|---|---|---|
-| **Surfsand Resort** | 4.7/5 | Indoor pool + hot tub, steps from Haystack Rock; houses The Wayfarer |
-| **Hallmark Resort** | 4.6/5 | Suite balconies, family-friendly |
-| **Tolovana Inn** | 4.3/5 | Pool, hot tub, sauna; south end |
-| **Stephanie Inn** | — | Adults-only boutique, in-room jacuzzi tubs; priciest, top dining room |
 
 ---
 
@@ -207,13 +117,6 @@ All-independent downtown along **Hemlock Street** — walkable end-to-end in ~20
 
 Park once and walk — downtown parking is scarce midday.
 
-### Day Trips from Cannon Beach
-
-- **Manzanita** (20 min S) — sleepy, cheaper beach town; Neahkahnie Mountain trailhead en route.
-- **Arch Cape** (5 min S) — quiet beaches, your budget-rental zone.
-- **Astoria** (30 min N) — riverfront town, Astoria Column, breweries, *Goonies* history.
-- **Seaside** (15 min N) — boardwalk/arcade family town.
-
 ---
 
 ## August 2026 Events
@@ -228,27 +131,16 @@ Official calendar: [cannonbeach.org/events-and-festivals](https://www.cannonbeac
 
 ---
 
-## Suggested Itinerary
+## Day Trip from Manzanita (20 min)
 
-### Sunday, Aug 23 — Arrive & settle
-- **Depart Portland by 8am** to beat US-26 weekend traffic.
-- Late-morning check the day's low tide; if it's a morning low, head straight to **Haystack Rock tidepools** before parking fills.
-- Lunch at **Ecola Seafoods** (fish & chips) or **Mo's**.
-- Afternoon: browse **Hemlock St galleries** and Bruce's Candy Kitchen; catch the **History Center** (open Sat) if you want it.
-- Dinner: **The Wayfarer** (reserve a window seat) or **Driftwood**.
-- Evening soak in the rental hot tub.
+Best as a Monday Aug 25 morning stop on the way home, or a half-day Sunday detour.
 
-### Monday, Aug 24 — Parks day
-- **Arrive at Ecola State Park before 10am** (lot fills) — Ecola Point views, walk to Indian Beach.
-- Or drive 20 min south to **Oswald West** for **Short Sand Beach** and **Cape Falcon** (arrive before 9am).
-- Lunch: **Public Coast** or **Bill's Tavern** back in town.
-- Afternoon: beach time; if low tide is afternoon, walk to **Chapman Point** (mind the incoming tide).
-- Dinner: **Stephanie Inn Dining Room** (reserve ahead) for a splurge, or **The Irish Table** (arrive early, no reservations).
-
-### Tuesday, Aug 25 — Checkout
-- Early **Cannon Beach Bakery** run (Haystack Bread + morning buns before they sell out) or **Sea Level Bakery**.
-- One last low-tide beach walk to Haystack Rock.
-- Catch the **Tuesday Farmers Market** only if you extend; otherwise head out mid-morning to beat traffic.
+- **Arrive before 10am** — parking fills fast on summer weekends
+- **Haystack Rock tidepools** — check low tide timing, arrive 1 hr before low
+- **Cannon Beach Bakery** — Haystack Bread + morning buns (sell out early)
+- **Ecola Seafoods** — fish & chips for lunch (208 N Spruce, daily 10am–8pm)
+- **Hemlock St** — window shop galleries and Bruce's Candy Kitchen (~20 min walk end to end)
+- **Ecola State Park** — Ecola Point views, walk to Indian Beach (1.5 mi one way); $5 day-use · ⚠️ west Clatsop Loop section closed summer 2026
 
 ---
 
@@ -259,10 +151,8 @@ Official calendar: [cannonbeach.org/events-and-festivals](https://www.cannonbeac
 - **August weather:** highs ~67–68°F, lows ~52°F, very little rain. Morning marine fog burns off by noon; 10–15°F drop and wind after sunset. Pack a light jacket/hoodie, wind-blocker, and sunscreen (UV stays high through thin cloud).
 - **Two closures to plan around:** **Hug Point is fully closed**, and **Ecola's Clatsop Loop west section is closed** — neither is accessible in summer 2026.
 - **Low Tide Timing:** critical for tidepools and Chapman Point access. Pull the exact Aug 23–25 chart before you go — [NOAA Tide Predictions for Cannon Beach](https://www.cannonbeach.org/things-to-do/beaches-and-parks/tide-charts/) — and aim mornings at the low tide.
-- **Manzanita is 20 min south** if you want a quieter, cheaper comparison base — see [[manzanita]].
-
 ---
 
 ## Related Pages
 
-[[index|Trip Overview]] · [[manzanita|Manzanita]] · [[astoria|Astoria]] · [[itinerary|Full Itinerary]] · [[oregon-coast|Oregon Coast]]
+[[index|Trip Overview]] · [[manzanita|Manzanita]] · [[itinerary|Full Itinerary]]

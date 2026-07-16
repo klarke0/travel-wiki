@@ -7,68 +7,12 @@ title: Astoria — Oregon's Oldest City
 ![Astoria and the Astoria–Megler Bridge over the Columbia River](https://upload.wikimedia.org/wikipedia/commons/1/1a/Astoria%2C_Oregon.jpg)
 *Photo: M.O. Stevens / Wikimedia Commons, CC BY-SA 3.0*
 
-**Summary**: Astoria isn't a beach town — it's a working river city at the mouth of the Columbia, the oldest American settlement west of the Rockies (founded 1811). Think Victorian mansions on hillside streets, a genuinely excellent craft-beer and food scene, the *Goonies* house, and a 6-mile riverwalk with a vintage trolley. The Pacific beaches are a 20-minute drive west. If you want *more than a beach*, Astoria is the pick.
+**Day trip from Manzanita — 1h30m north.** Astoria isn't a beach town — it's a working river city at the mouth of the Columbia, the oldest American settlement west of the Rockies (founded 1811). Think Victorian mansions, an excellent craft-beer and food scene, the *Goonies* house, and a 6-mile riverwalk with a vintage trolley. Worth a full day if you want a break from beach and sand.
 
-**Trip dates**: August 23–25, 2026 (2 nights) | 2 adults
-**Drive from Portland**: ~2h (US-30 West, straight up the Columbia — no coast-range summit)
-**Vibe**: Historic city, craft breweries, riverfront · **Note**: River city — the ocean beaches are 20–25 min west at Fort Stevens
+**Distance from Manzanita:** ~1h30m north on US-101
+**Vibe**: Historic city, craft breweries, riverfront
 
 **Last updated**: 2026-07-14
-
----
-
-## Is Astoria Right for You?
-
-| | Astoria | Cannon Beach / Manzanita |
-|---|---|---|
-| Setting | Columbia River waterfront, hillside city | Directly on the Pacific |
-| Beach access | 20–25 min west (Fort Stevens) | Steps from your rental |
-| Hot-tub rentals | Rare — it's a city, mostly hotels/B&Bs | Common in vacation homes |
-| Food & drink | **Standout** — best on the north coast | Good, smaller |
-| Things to do | Museums, breweries, history, hikes | Beach, tidepools, galleries |
-| Rain-day friendly | Excellent (museums, pubs) | Limited |
-
-**Astoria is great for:** history buffs, beer/food lovers, unique lodging (a hotel on a pier!), and travelers who get restless doing *only* beach. It rewards curiosity.
-
-**Astoria is not great for:** pure beach relaxation, hot-tub vacation homes, or falling-asleep-to-surf. For that, pick [[manzanita|Manzanita]].
-
-**Split-the-difference option:** Base in Astoria, day-trip to the beach at Fort Stevens (20 min) or Gearhart/Seaside (18–25 min south). You get the food scene *and* sand.
-
----
-
-## Lodging
-
-> Astoria has more **hotels and B&Bs** than vacation homes. Hot tubs are uncommon; the Cannery Pier Hotel has a spa and riverfront hot tub instead. Book Regatta-adjacent weekends early — though note the [Astoria Regatta](#august-2026-events) is **Aug 5–8**, so our Aug 23–25 dates avoid the crush.
-
-### Hotels
-
-| Hotel | Link | Approx. Rate | Key Features |
-|---|---|---|---|
-| **Cannery Pier Hotel & Spa** ★ | [cannerypier.com](https://www.cannerypier.com/) | ~$469+/night | Built on a pier **out over the Columbia River** — watch ships pass from your balcony. Spa, sauna, riverfront hot tub, finnish sauna, complimentary wine hour, vintage-car shuttle. The iconic Astoria splurge. |
-| **Hotel Elliott** | [hotelelliott.com](https://www.hotelelliott.com/) | ~$239+/night | Restored 1924 historic boutique in the heart of downtown. Rooftop terrace with river + column views, wine bar, walkable to everything. |
-| **Commodore Hotel** | [commodoreastoria.com](https://www.commodoreastoria.com/) | ~$125+/night | Hip, minimalist boutique. Some rooms share bath (cheaper); great café/coffee bar in the lobby. Best value-with-style pick. |
-| **Norblad Hotel** | [norbladhotel.com](https://www.norbladhotel.com/) | ~$148+/night | Casual, European-style rooms (some shared bath), downtown. Sister property to the Commodore. |
-| **Holiday Inn Express Astoria** | [ihg.com](https://www.ihg.com/holidayinnexpress/hotels/us/en/astoria/asror/hoteldetail) | ~$180–230/night | Reliable chain, river views, pool, free breakfast. On the west side near the bridge. |
-| **Hampton Inn Astoria** | [hilton.com](https://www.hilton.com/en/hotels/astorhx-hampton-astoria/) | ~$190–250/night | Newer chain option, riverfront, pool, free breakfast. |
-
-★ = the standout, genuinely unique to Astoria.
-
-### Bed & Breakfasts
-
-| B&B | Link | Approx. Rate | Notes |
-|---|---|---|---|
-| **Rose River Inn** | [roseriverinn.com](https://www.roseriverinn.com/) | ~$160–210 | 1912 Craftsman near the river, Finnish sauna, walkable. |
-| **Clementine's B&B** | [clementines-bb.com](https://www.clementines-bb.com/) | ~$150–200 | Victorian on the historic hillside, next to Flavel House. |
-| **Astoria Riverwalk Inn** | [astoriariverwalkinn.com](https://astoriariverwalkinn.com/) | ~$130–180 | Right on the Riverwalk, trolley stops out front. Motel-style but well-located. |
-
-### Vacation Rentals (Airbnb / VRBO)
-
-Fewer than the beach towns, and hot tubs are rare — but they exist for a full-kitchen/quiet stay.
-
-- **Airbnb — Astoria (Aug 23–25, 2 adults):** [airbnb.com/s/Astoria--OR/homes](https://www.airbnb.com/s/Astoria--OR/homes?checkin=2026-08-23&checkout=2026-08-25&adults=2) — filter for **Hot tub** under Amenities; expect only a handful of results.
-- **VRBO — Astoria:** [vrbo.com/search/keywords:astoria-oregon-united-states](https://www.vrbo.com/search/keywords:astoria-oregon-united-states/arrival:2026-08-23/departure:2026-08-25) — historic-home rentals with river views; hillside houses have the best views.
-
-> **Hot tub required?** Astoria will frustrate you. Either book the **Cannery Pier** (has spa/hot tub amenities) or base in [[manzanita|Manzanita]]/[[cannon-beach|Cannon Beach]] where hot-tub homes are the norm, and day-trip to Astoria for a food day.
 
 ---
 
@@ -214,26 +158,17 @@ Astoria itself is on the **river**, not the ocean — for actual surf you head w
 
 ---
 
-## Suggested Itinerary
+## Day Trip from Manzanita (~1h30m)
 
-### Sunday, Aug 23 — Arrive & Explore
-- **~8 AM** depart Portland, US-30 west (~2h, scenic Columbia-side drive).
-- **Late morning:** check the area, drop bags, lunch at **Bowpicker** (get there early before it sells out) or **Fort George**.
-- **Afternoon:** **Columbia River Maritime Museum** (1.5–2 hrs), then walk the **Riverwalk** or ride the **trolley** to Pier 39 (Rogue, Coffee Girl, sea lions).
-- **Golden hour:** drive up to the **Astoria Column**, climb it, fly a glider.
-- **Dinner:** **Bridgewater Bistro** (reserve) or **Silver Salmon Grille**. Nightcap at **Fort George**.
+A long but doable day trip — best on Sunday Aug 24. Leave Manzanita by 9 AM.
 
-### Monday, Aug 24 — Beach + History
-- **Morning:** breakfast at **Blue Scorcher**, then browse the **Astoria Sunday Market** (10–3).
-- **Midday:** drive 20 min west to **Fort Stevens** — **Peter Iredale shipwreck** at low tide (check the tide chart), bunkers, beach walk.
-- **Or history route:** **Fort Clatsop** (Lewis & Clark) + **Flavel House** (Adventure in History Pass).
-- **Dinner:** **Drina Daisy** (Bosnian — call ahead for lamb) or **Columbian Café**. Beers at **Buoy** (Duane St).
-
-### Tuesday, Aug 25 — Drive Home
-- Coffee at **Street 14** or **Commodore** lobby café.
-- **Two ways home:**
-  - **Fast:** US-30 straight back to Portland (~2h).
-  - **Scenic:** US-101 south through **Gearhart/Seaside → Cannon Beach**, see **Haystack Rock**, then US-26 east over the Coast Range home (~3–3.5h with stops). Ties the trip together with the beach towns.
+- **Bowpicker Fish & Chips** — lunch first (cash only, sells out, arrive at open ~11am)
+- **Columbia River Maritime Museum** — 1.5–2 hrs, one of Oregon's best ($18 adult)
+- **Astoria Riverwalk + trolley** — ride to Pier 39, see sea lions at the East Mooring Basin
+- **Astoria Column** — climb 164 steps, buy a balsa glider and launch it from the top
+- **Fort George Brewery** — dinner and a pint; no reservations, great atmosphere
+- **Astoria Sunday Market** (Sundays 10am–3pm) — only if you arrive early enough
+- **Peter Iredale shipwreck at Fort Stevens** (20 min west) — add if you have time; best at low tide
 
 ---
 
@@ -250,7 +185,7 @@ Astoria itself is on the **river**, not the ocean — for actual surf you head w
 
 ## Related Pages
 
-[[index|Trip Overview]] · [[cannon-beach|Cannon Beach]] · [[manzanita|Manzanita]] · [[itinerary|Full Itinerary]]
+[[index|Trip Overview]] · [[manzanita|Manzanita]] · [[itinerary|Full Itinerary]]
 
 ## Links
 

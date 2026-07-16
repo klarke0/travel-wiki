@@ -4,9 +4,9 @@ title: Rockaway Beach — Oregon Coast 2026
 
 # Rockaway Beach
 
-Rockaway Beach is a small, unpretentious beach town of ~1,400 people stretched along a 7-mile strip of wide, flat sand between Highway 101 and the Pacific. It's not polished — the town is essentially a highway strip with motels, a few seafood shacks, and beach access every few blocks. What it offers: uncrowded beach, affordable lodging, easy proximity to Garibaldi (10 min south), Tillamook (20 min south), and the Three Capes Scenic Loop. The corn dog was invented here (~80 years ago), and the Original Pronto Pup stand is still operating.
+**Day trip from Manzanita — 10 min south on US-101.** A small, unpretentious beach town with a 7-mile strip of wide flat sand. Not as polished as Manzanita but worth a detour for the Original Pronto Pup (birthplace of the corn dog), Old Oregon Smokehouse's bread bowl chowder, and easy access to Garibaldi and Tillamook.
 
-**Distance from Portland:** ~1h50m via US-26 W → Hwy 6 → US-101 N | **Last updated:** 2026-07-14
+**Distance from Manzanita:** ~10 min south on US-101 | **Last updated:** 2026-07-14
 
 ---
 
@@ -23,78 +23,6 @@ Rockaway Beach is a small, unpretentious beach town of ~1,400 people stretched a
 > ⚠️ **Trip Date Note (Sun Aug 23 – Tue Aug 25):** Monday and Tuesday are the hardest days to eat well in this corridor. Most of the better Garibaldi and Tillamook restaurants are closed Mon–Tue (Portside Bistro, Jandy's, Crab Rock Pizza, Pacific Restaurant, Sea Baron). Build your dinner plan around Pelican Brewing Rockaway Beach (open daily 11–9), Old Oregon Smokehouse (open daily), or Grumpy's for breakfast. The Rockaway Beach Music Festival was Aug 15–16 — one week before your arrival, so town will be back to normal quiet. The Kite Festival is in June (50th annual was June 19–21, 2026); a tentative fall edition is Sept 11–13 (not confirmed). No major events during your specific dates.
 
 ---
-
-## Lodging
-
-Hot tub inventory is real but finite in a town this size. August is the most competitive booking window — these fill months out. **Rates shown are baseline or off-peak averages; August peak pricing runs 30–60% higher.** Always check live calendars on VRBO/Vacasa for Aug 23–25 availability.
-
-Quick search links:
-- [Vacasa — Rockaway Beach hot tub filter](https://www.vacasa.com/usa/Oregon/Rockaway-Beach/explore/Hot-Tub/) (35+ properties)
-- [VRBO — Rockaway Beach](https://www.vrbo.com/vacation-rentals/usa/oregon/northern-coast/rockaway-beach)
-- [HomeToGo — Rockaway Beach](https://www.hometogo.com/rockaway-beach/) (aggregates VRBO, Airbnb, Vacasa side-by-side)
-- [Beachcombers NW](https://www.beachcombersnw.com/rockaway-oregon) (owner-operated, no traveler booking fee)
-
-### Budget (~$125–$200/night)
-
-**Cabin with Hot Tub** (various via HomeToGo)
-- ~$125–$176/night | 3 BR | Sleeps 6–7 | Hot tub confirmed
-- Search [HomeToGo](https://www.hometogo.com/rockaway-beach/) and filter by hot tub; budget tier fills first
-
-**Wildwood West Beach Retreat** ([Beachcombers NW](https://www.beachcombersnw.com/wildwood-west-beach-retreat))
-- $175–$349/night | 3 BR / 3 BA | Sleeps 8 | Hot tub + game room
-- No booking fee on Beachcombers direct; good value for a 2-person trip splitting a larger house
-
-**Arnold Beach House** ([Beachcombers NW](https://www.beachcombersnw.com/arnold-beach-house-3))
-- $115–$702/night (wide range — August end likely higher) | 3 BR / 2 BA | Sleeps 10 | Hot tub confirmed
-
-**Lakeside Retreat** ([Beach Break](https://beach-break.com/))
-- From $159/night | 3 BR | Sleeps 7 | Hot tub + private dock on the lake
-- Unique option: faces the lake side rather than the ocean
-
-> ⚠️ **Jacuzzi tub vs. outdoor hot tub:** Beach Break's "Fireside Getaway" ($139+) and "Sea the View" ($129+) list "Jacuzzi tub" — this typically means an indoor soaking tub, not an outdoor hot tub. If outdoor matters, verify directly before booking.
-
-### Mid (~$200–$400/night)
-
-**Sunny Beach House with Private Hot Tub** ([Vacasa unit 1005026](https://www.vacasa.com/unit/1005026))
-- Avg ~$197/night off-peak (August likely higher) | 2 BR / 2 BA | Sleeps 10 | Private hot tub
-- 182 reviews at 4.54/5 — highest review count of any hot-tub listing found; foosball, bikes, gas grill
-
-**Blue Heaven Beach House** ([Vacasa unit 1004931](https://www.vacasa.com/unit/1004931))
-- 3 BR / 2 BA | Sleeps 6 | Private covered hot tub | 14 reviews at 4.36/5
-
-**Sand Castle 1** ([Vacasa unit 1613](https://www.vacasa.com/unit/1613))
-- 3 BR / 3 BA | Sleeps 8 | Private hot tub | 94 reviews at 4.37/5 | Ocean/beach access
-
-**Rockaway Getaway — Hot Tub, Game Room, EV Charger** ([Oregon Beach Vacations](https://www.oregonbeachvacations.com/listings/2284))
-- $249–$630/night | 4 BR / 4 BA | Sleeps 10 | Covered hot tub with ocean view
-- Game room (ping pong, foosball), EV charger, fire pit, ocean/lake views
-
-**House with Jacuzzi, Grill & Water View** ([HomeToGo](https://www.hometogo.com/rockaway-beach/))
-- $343–$414/night | 3–4 BR | Sleeps 10 | Hot tub confirmed | 4.3–4.6 (37–91 ratings)
-
-### Splurge ($400+/night)
-
-**Wander Rockaway Beach** ([wander.com](https://www.wander.com/property/wander-rockaway-beach))
-- $665–$1,022/night | 4 BR / 3.5 BA | Sleeps 12 | Balcony hot tub, oceanfront
-- 52 reviews at 4.7/5 | Gourmet kitchen, wet bar, fire pit, pet-friendly | Free cancellation 14 days out
-
-**VRBO — Beachfront Luxury 5 Star** ([vrbo.com/4205023](https://www.vrbo.com/4205023))
-- Est. $977–$2,245/night | 4 king suites | Hot tub + spa + arcade + fire pit | Directly on ocean
-
-**Oceanfront Villa** ([Vacasa unit 1004911](https://www.vacasa.com/unit/1004911))
-- Avg ~$711/night | 3 BR + den + loft / 2.5 BA | Sleeps 18 | Private hot tub
-- Xbox/PlayStation, ping-pong, foosball, piano | 57 reviews at 4.14/5
-
-### Local Rental Agencies
-
-| Agency | Phone | Website | Notes |
-|---|---|---|---|
-| Oregon Beach Vacations | (800) 723-2383 | [oregonbeachvacations.com](https://www.oregonbeachvacations.com/destination/rockaway-beach-vacation-rentals) | Main local operator |
-| Beach Break Vacation Rentals | (971) 257-8493 | [beach-break.com](https://beach-break.com/) | Locally owned, 13+ Rockaway listings |
-| Beach & Beyond Vacation Rentals | (503) 355-2975 | [rockawayrentals.com](https://rockawayrentals.com) | 460 S Lagoon St, in-town local agency |
-| Vacasa — Rockaway Beach | (503) 345-9399 | [vacasa.com/usa/Oregon/Rockaway-Beach](https://www.vacasa.com/usa/Oregon/Rockaway-Beach/) | 206 S 3rd Ave; 35+ hot-tub properties |
-| Beachcombers NW | — | [beachcombersnw.com](https://www.beachcombersnw.com/rockaway-oregon) | Owner-operated, no traveler booking fee |
-| Meredith Lodging | — | [meredithlodging.com](https://www.meredithlodging.com/rockaway-beach-vacation-rentals/hot-tub) | Oregon-wide, hot-tub filter available |
 
 ---
 
@@ -293,32 +221,16 @@ Aug 23–25 is the quietest stretch of the Tillamook Coast summer — major fest
 
 ---
 
-## Suggested Itinerary
+## Day Trip from Manzanita (~10 min south)
 
-### Day 1 — Sunday, Aug 23
+Good as a half-day detour any day of the trip.
 
-- **Morning:** Drive from Portland via US-26 W → Hwy 6 → US-101 N. Stop at Tillamook Creamery (opens 9 AM) — grab a grilled cheese and ice cream, watch the factory through the glass. 1–2 hours.
-- **Midday:** Continue north on 101 to Rockaway Beach (~20 min). Check in to rental. Walk to Twin Rocks to orient yourself — end of Minnehaha St, no effort required.
-- **Optional detour:** Bay City Pearl & Oyster Festival Day 2 is happening in Bay City (~15 min south, free). Kids/talent show day — the big music day was Saturday. Worth a quick swing if you want some coastal-town energy before checking in.
-- **Afternoon:** Long flat walk north or south on the 7-mile beach. Sea Baron Fish & Chips in Garibaldi is open Sunday until 4 PM — excellent fresh halibut. Alternatively: Old Oregon Smokehouse for the bread bowl chowder.
-- **Happy hour:** Pelican Brewing opens 11 AM; good Happy Hour Sun–Thu 3–6 PM. Hot tub back at the rental.
-- **Dinner:** Crab Rock Pizza in Garibaldi (open Sun noon–8 PM, wood-fired Neapolitan pies) or Sand Dollar Restaurant & Lounge for ocean-view drinks and fresh catch. If you want something casual, Bravos Rockaway is open.
-
-### Day 2 — Monday, Aug 24
-
-- **Breakfast:** Grumpy's Cafe (opens 7 AM daily) — big pancakes, biscuits and gravy, no-frills and fast.
-- **Morning:** Cape Meares Lighthouse via Three Capes Scenic Loop (~25–30 min drive). Lighthouse interior opens at 11 AM. Walk to the Octopus Tree. If you want more hiking, add the Cape Meares headland trail for ocean views.
-- **Lunch:** Old Oregon Smokehouse in Rockaway Beach — clam chowder in a bread bowl is the definitive local lunch.
-- **Afternoon:** Cedar Wetlands boardwalk (half-mile, birdwatching), or rent kayaks/crab traps at Garibaldi Marina. The Oregon Coast Scenic Railroad runs at noon, 2 PM, and 4 PM — a 30-minute bayfront ride from Rockaway to Garibaldi, easy and fun.
-- **Late afternoon/evening:** Hot tub. This is why you booked it.
-- **Dinner:** Pelican Brewing Rockaway Beach is your most reliable anchor on a Monday (open until 9 PM). Bunker Grille in Tillamook is also open Monday (11 AM – 9 PM) and is a solid upscale-casual alternative with a full bar.
-
-### Day 3 — Tuesday, Aug 25
-
-- **Breakfast:** Beach Bakeshop for pastries — Sand Dollar hand pie, whatever's fresh. Or back to Grumpy's if you want eggs again.
-- **Morning:** Depending on checkout time — Oswald West State Park is 20 min north (Short Sand Beach, old-growth forest, Cape Falcon trail for the ambitious). Go early, parking fills.
-- **Lunch:** Garibaldi Portside Bistro opens Tuesday at 11:30 AM — this is your one shot at Le Cordon Bleu smoked brisket and the Prime Rib French Dip. Make it happen. Reservations recommended; call (971) 265-1091. After lunch, Garibaldi Farmers Market runs 2–5 PM at the Port if you want to browse before the drive home.
-- **Afternoon:** Drive home via US-101 S → Hwy 6 → US-26 E. Stop in Tillamook if you need supplies. Sunday afternoon is worst for coast traffic; Tuesday afternoon heading home should be clear.
+- **Twin Rocks** — end of Minnehaha St, volcanic sea stacks offshore; quick beach walk
+- **Original Pronto Pup** — birthplace of the corn dog; get one
+- **Old Oregon Smokehouse** — clam chowder in a bread bowl (120 S Hwy 101, daily noon–8pm)
+- **Oregon Coast Scenic Railroad** — 30-min bayfront ride to Garibaldi and back (noon, 2pm, 4pm daily)
+- **Garibaldi Marina** — watch fishing boats, rent crab traps; Sea Baron Fish & Chips food truck (open Sun/Thu–Sat)
+- **Pelican Brewing Rockaway Beach** — most reliable dinner anchor, open daily 11am–9pm
 
 ---
 
@@ -330,8 +242,6 @@ Aug 23–25 is the quietest stretch of the Tillamook Coast summer — major fest
 - **Sneaker waves:** Year-round hazard on the Oregon Coast. Unpredictable surges can sweep flat beaches and rocky outcrops with no warning. Never turn your back on the ocean from rocks or jetties.
 - **Beach bonfires:** Open fires only in designated campground facilities per Siuslaw National Forest restrictions (2026). No beach bonfires.
 - **Water quality:** Oregon Health Authority monitors beaches May–Sept. Check [oregon.gov/oha](https://www.oregon.gov/oha/PH/HealthyEnvironments/Recreation/BeachMonitoring/Pages/index.aspx) before swimming.
-- **vs. Manzanita:** Manzanita is 15 minutes north and is a meaningfully better option for a mid-budget couple trip on almost every dimension. It has a proper walkable village (Laneda Ave), better restaurants (Bread & Ocean, Sand Dune Pub, Left Coast), calmer and sunnier weather (Neah-Kah-Nie Mountain blocks north wind/fog), and a more polished couples vibe. Rockaway Beach is fine as a **day visit** (Twin Rocks, Pronto Pup, long beach walk, Old Oregon Smokehouse) but the town itself is a highway strip — TripAdvisor regulars consistently describe it as "run down." If you're open to comparing, see the [[manzanita]] page. The hot tub inventory situation is similar in both towns.
-
 ---
 
 ## Sources
