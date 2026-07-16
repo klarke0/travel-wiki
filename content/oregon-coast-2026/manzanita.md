@@ -206,7 +206,11 @@ Both are walkable from Sea Star #2.
 
 **SUP Manzanita** — stand-up paddleboard lessons and guided tours on the bay. Good option if you want instruction vs. just renting gear.
 
-**Kelly's Brighton Marina** (just north of Manzanita on Nehalem Bay) — salmon fishing and crabbing, all equipment provided. August crabs run leaner than peak season (Sept–Feb) but crabbing trips are still a fun outing.
+**Kelly's Brighton Marina** — 28200 US-101 N, Nehalem · 📞 (503) 368-5745 · [kellysbrightonmarina.com](https://www.kellysbrightonmarina.com/)
+- Crab rings, bait, and all gear provided — rent by the hour or half/full day
+- Guided salmon and bottom fishing charters also available
+- Ramp access to Nehalem Bay; right on US-101 just north of Manzanita (~5 min)
+- > ⚠️ **August crabbing note:** crab season peaks Sept–Feb. August trips are still a fun outing but expect fewer crabs — don't plan the meal around it.
 
 **Horseback Riding — Nehalem Bay Horse Excursions** — beach riding available Memorial Day–Labor Day.  
 📞 971-237-6653 · 1hr $125/pp · 2hr $175/pp  
