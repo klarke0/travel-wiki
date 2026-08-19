@@ -4,6 +4,10 @@ title: Cannon Beach — Oregon Coast
 
 # Cannon Beach
 
+> 🗺️ **Day-trip option — partly in the plan.** Haystack Rock at dawn on **Tue Aug 25**
+> is scheduled (see [[itinerary]]). Everything else here is researched and available if
+> you want it, not committed. 20 min north of Manzanita.
+
 ![Haystack Rock at Cannon Beach](https://images.unsplash.com/photo-1603232644162-5ac9e5f0f376?fm=jpg&q=80&w=2000&auto=format&fit=crop)
 
 **Day trip from Manzanita — 20 min north on US-101.** The Oregon coast's headline act: a charming, gallery-lined village fronting three miles of wide sand and the unmistakable 235-foot silhouette of Haystack Rock. Worth a morning stop, especially for tidepools at the rock.
