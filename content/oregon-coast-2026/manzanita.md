@@ -370,3 +370,25 @@ Doable, just know it's a deliberate detour rather than something on the way.
 to partly sunny, 59–64°F. Sunday's forecast is mostly sunny, 64°F. Mon/Tue were beyond
 the 7-day window — worth re-checking Thursday.
 
+## Non-drinking alternatives
+
+Added 2026-08-18. Bars and tastings are out, so these fill the same slots:
+
+- **Neahkahnie Mountain** — ~3 mi round trip, 1,000 ft gain, panoramic views from
+  Nehalem Bay to Tillamook Head. Trailhead just south of Oswald West on Hwy 101.
+  **Better bet than Cape Falcon right now** — no bridge problems.
+- **Elk Flats Trail** — ~2 mi round trip to ocean viewpoints and hidden beaches. Short
+  option if the ride leaves you with less time.
+- **Wheeler Marina** — kayak and SUP rental on Nehalem Bay. Calm water, wildlife. The
+  Roy Creek boat ramp → Nehalem City Docks paddle is ~6.5 mi for a proper outing.
+- **Crabbing** off the Wheeler docks — ⚠️ season peaks Sept–Feb, so August is a fun
+  outing rather than a meal plan.
+- **Nehalem Bay State Park bike path** — flat paved loop through the dunes; also the
+  best chance of seeing the resident elk herd.
+- **Laneda Ave** — boutiques, artisanal chocolates, art and toy shops. Walkable from
+  the rental.
+- **Pinball and shops in Nehalem** — 5 min south, low-key rainy-afternoon option.
+- **Hoffman Center for the Arts** — gallery + workshops in Manzanita. Call
+  503-368-3846, hours vary by exhibit.
+- **NCRD Aquatic Center**, Nehalem — indoor pool, open 7 days. Genuine wet-weather
+  fallback. 855-444-6273.
