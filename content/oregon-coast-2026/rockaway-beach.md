@@ -4,6 +4,10 @@ title: Rockaway Beach — Oregon Coast 2026
 
 # Rockaway Beach
 
+> 🗺️ **Day-trip option — not currently scheduled.** Closest of the three at ~10 min
+> south, so it's the easiest one to drop in on a whim. Day-by-day opening hours are
+> already worked out below against your actual dates.
+
 **Day trip from Manzanita — 10 min south on US-101.** A small, unpretentious beach town with a 7-mile strip of wide flat sand. Not as polished as Manzanita but worth a detour for the Original Pronto Pup (birthplace of the corn dog), Old Oregon Smokehouse's bread bowl chowder, and easy access to Garibaldi and Tillamook.
 
 **Distance from Manzanita:** ~10 min south on US-101 | **Last updated:** 2026-07-14

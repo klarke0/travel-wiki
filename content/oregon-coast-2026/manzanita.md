@@ -17,53 +17,28 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 
 ---
 
-## At a Glance
+## Why we're based here
+
+Booked and settled — kept for context, and because the Cannon Beach notes still matter
+if you day-trip up there.
 
 | | Manzanita | Cannon Beach |
 |---|---|---|
 | Crowds | Quiet, locals-oriented | Overrun in summer |
-| Parking | Free, easy | Fills by 10 AM, chaotic |
-| Rental prices | 20–30% cheaper | Peak pricing all summer |
+| Parking | Free, easy | **Fills by 10 AM, chaotic** |
 | Restaurants | Small, intimate, close early | More options, longer waits |
 | Beach | 7 miles, usually spacious | 3 miles, busy near Haystack |
-| Things to do | Nehalem Bay, Wheeler, Oswald West | Ecola SP, Haystack Rock, galleries |
 | Vibe | Low-key, residential, peaceful | Touristy, charming, busy |
 
-**Bottom line:** Cannon Beach has more attractions, but Manzanita delivers a better *experience* in August. Haystack Rock is a 20-minute drive north if you want to see it — do it early, then retreat.
+Manzanita won on experience in August. Haystack Rock is a 20-minute drive north when you
+want it — **go early, then retreat.** See [[cannon-beach]].
 
----
 
-## Our Rental — Sea Star #2
+## Where we're staying
 
-**✅ Booked** · [VRBO #7661784ha](https://www.vrbo.com/7661784ha) · 8.8/10 (66 reviews)
+**Sea Star #2** — full booking details on the [[index|trip index]]. Check-in Sun Aug 23
+4 PM, check-out Tue Aug 25 10 AM. One-minute walk to Sunset Beach.
 
-| | |
-|---|---|
-| **Full name** | Steps To the Ocean, With Panoramic Views, Ocean-View Deck |
-| **Bedrooms** | 3BR / 2BA · sleeps 8 |
-| **Check-in** | Sunday Aug 23 · **4:00 PM** (contactless) |
-| **Check-out** | Tuesday Aug 25 · **10:00 AM** |
-| **Confirmation #** | ⚠️ Get from mom — she made the booking |
-| **Check-in code** | ⚠️ Get from mom before departure |
-| **Parking** | Garage included |
-| **Pets** | Allowed (extra charge may apply) |
-| **Hot tub** | ❌ None |
-| **Beach** | 1-min walk to Sunset Beach |
-
-### Layout
-
-- **Upper level:** Queen bedroom · living room with queen sofa sleeper · dining room · full kitchen · full bath (shower only) · ocean-view deck with BBQ and dining table
-- **Main level:** 2 bedrooms with full beds · full bath · washer/dryer
-
-### Standout Features
-
-- Unobstructed panoramic views from Tillamook Head to Neahkahnie Mountain
-- Wood-burning stove in the living room
-- Outdoor deck with BBQ — ideal for dinner in with grocery haul from Manzanita Fresh Foods
-- Garage parking (rare in Manzanita)
-- Vaulted ceilings, flat-screen TV, stereo
-
----
 
 ## Restaurants
 
@@ -298,34 +273,11 @@ Both are walkable from Sea Star #2.
 
 ---
 
-## Suggested Itinerary
+## Day-by-day plan
 
-### Sunday, Aug 23 — Arrive + Settle In
-- **7:30 AM** — Leave Portland on US-26
-- **~9:30 AM** — Arrive in Manzanita (check-in isn't until 4 PM — bags can wait in the car or ask host about early drop)
-- **10 AM** — **Yolk** for breakfast (open Sun — don't miss it; small room, go at open)
-- **Late morning** — **Oswald West State Park**: Short Sand Beach walk + Cape Falcon hike (~15 min north; check bridge status before going)
-- **Afternoon** — **Manzanita Fresh Foods** (730 Manzanita Ave) — stock the kitchen and grab something for the BBQ deck
-- **4:00 PM** — ✅ **Check in to Sea Star #2** (contactless)
-- **Evening** — **The Salmonberry** in Wheeler (walk-in only; arrive at 4 PM sharp on weekdays or risk a wait) or light dinner on the deck with what you picked up
+The plan lives in **[[itinerary|the itinerary]]** — that's the only place it exists, so it
+can't drift. This page is reference: what's here, when it's open, what it costs.
 
-### Monday, Aug 24 — Full Day
-- **Morning** — **Wanda's Cafe** in Nehalem for breakfast (open daily 8 AM–2 PM — reliable fallback when Yolk is closed Mon)
-
-  > ⚠️ Yolk is open Mon — if you didn't make it Sunday, Monday is your second shot (closes at 2 PM)
-
-- **Mid-morning** — **Horseback riding at Nehalem Bay SP** — Oregon Beach Rides [971-237-6653](tel:+19712376653) · 1hr \$125/pp · 2hr \$200/pp · *Aug 24 is a Monday — open (closed Sundays only)* · Reserve ahead; **cash for the balance** + \$5 park entry
-- **Afternoon** — **Wheeler Marina**: kayak Nehalem Bay or try crabbing; Nehalem antiques on the way back
-- **Late evening** — deck time; the ocean-view deck is the whole point of Sea Star #2
-- **Evening** — **San Dune Pub** (Mon 4–9 PM, live music) or **Big Wave Cafe** (open Mon)
-
-### Tuesday, Aug 25 — Checkout
-- **Sunrise** — beach walk (almost no one out at dawn)
-- **Coffee** — Manzanita News & Espresso (daily 7 AM)
-- **10:00 AM** — ✅ **Check out**
-- **Optional stop** — Tillamook Creamery on the way home (US-101 south → US-6 east to Portland · ~35 min detour, worth it)
-
----
 
 ## Practical Notes
 

@@ -4,6 +4,11 @@ title: Astoria — Oregon's Oldest City
 
 # Astoria
 
+> 🗺️ **Day-trip option — not currently scheduled.** Fully researched and kept for
+> exactly that reason. 1h30m each way from Manzanita, so it's a whole-day commitment;
+> your one free day (Mon Aug 24) currently has the horseback ride and a hike. Here if
+> you want to swap.
+
 ![Astoria and the Astoria–Megler Bridge over the Columbia River](https://upload.wikimedia.org/wikipedia/commons/1/1a/Astoria%2C_Oregon.jpg)
 *Photo: M.O. Stevens / Wikimedia Commons, CC BY-SA 3.0*
 
