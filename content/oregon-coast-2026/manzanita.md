@@ -71,13 +71,13 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 
 ### Breakfast
 
-**Yolk** ⭐ — *Modern American breakfast · $ · 503-368-9655*
+**Yolk** ⭐ — *Modern American breakfast · \$ · 503-368-9655*
 - **Hours:** Fri–Mon 8 AM–2 PM only
 - **Must-order:** lemon-ricotta pancakes; lamb burger with feta
 - The best breakfast in town (TripAdvisor 4.8/5). Small room, fills fast — go at open. Closed Tue–Thu — so **Sunday Aug 23 or Monday Aug 24** only, not your Tuesday checkout morning.
 - 503 Laneda Ave · [Google Maps](https://maps.google.com/?q=Yolk+Manzanita+Oregon)
 
-**Wanda's Cafe + Bakery** ⭐ (Nehalem, ~5 min south) — *Comfort breakfast/bakery · $–$$*
+**Wanda's Cafe + Bakery** ⭐ (Nehalem, ~5 min south) — *Comfort breakfast/bakery · \$–\$\$*
 - **Hours:** daily 8 AM–2 PM
 - **Must-order:** cinnamon French toast; weekend cinnamon rolls; homemade soups
 - The reliable fallback when Yolk is closed (TripAdvisor 4.6/5).
@@ -85,43 +85,43 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 
 ### Lunch & Casual
 
-**Big Wave Cafe** ⭐ — *Contemporary American / seafood · $$–$$$ · 503-368-9283*
+**Big Wave Cafe** ⭐ — *Contemporary American / seafood · \$\$–\$\$\$ · 503-368-9283*
 - **Hours:** Fri–Tue 11 AM–8 PM (closed Wed–Thu)
 - **Must-order:** fish tacos; razor clams; clam chowder
 - Seafood Watch partner; 700+ reviews. Works for both lunch and an early dinner.
 - 822 Laneda Ave · [oregonsbigwavecafe.com](https://www.oregonsbigwavecafe.com/)
 
-**A Mighty Thai** — *Thai / Vietnamese · $$*
+**A Mighty Thai** — *Thai / Vietnamese · \$\$*
 - **Hours:** daily 11 AM–8 PM · full bar
 - **Must-order:** Pad Thai; Mighty Pho; curries
 - One of the few genuinely daily options — useful on a Wed/Thu when half the town is closed.
 - Laneda Ave · [Google Maps](https://maps.google.com/?q=A+Mighty+Thai+Manzanita)
 
-**El Trio Loco** — *Mexican · $$*
+**El Trio Loco** — *Mexican · \$\$*
 - **Hours:** daily 11 AM–8 PM
 - **Must-order:** carne asada tacos; burritos
 - Laneda Ave · [Google Maps](https://maps.google.com/?q=El+Trio+Loco+Manzanita)
 
-**Marzano's Pizza Pie** — *Pizza · $$ · takeout only*
+**Marzano's Pizza Pie** — *Pizza · \$\$ · takeout only*
 - **Hours:** Thu–Mon 4–8 PM
 - **Must-order:** fresh daily-dough pizza — grab a pie for a beach or hot-tub dinner
 - Laneda Ave · [Google Maps](https://maps.google.com/?q=Marzano%27s+Pizza+Manzanita)
 
 ### Dinner
 
-**The Salmonberry** ⭐ (Wheeler, ~10 min south) — *Wood-fired Pacific NW · $$–$$$ · 971-324-0077*
+**The Salmonberry** ⭐ (Wheeler, ~10 min south) — *Wood-fired Pacific NW · \$\$–\$\$\$ · 971-324-0077*
 - **Hours:** Fri–Mon 4–8 PM · **walk-in only, no reservations**
 - **Must-order:** pappardelle with Willapa Bay clams; wood-fired pizza; agnolotti with wild mushrooms
 - The best dinner in the area, on a waterfront deck (pets welcome on the deck). Order at the counter, seat yourself. Arrive right at 4 PM on a weekend or expect a wait.
 - 380 Marine Dr, Wheeler · [salmonberry.fun](https://salmonberry.fun/)
 
-**Offshore Grill** — *Pacific NW / seafood · $$$*
+**Offshore Grill** — *Pacific NW / seafood · \$\$\$*
 - **Hours:** Wed–Tue ~7 AM–8 PM (confirm week-of)
 - **Must-order:** moules frites; hazelnut-crusted rockfish; duck breast
 - The most ambitious kitchen in Manzanita proper. Reservations recommended.
 - Laneda Ave · [Google Maps](https://maps.google.com/?q=Offshore+Grill+Manzanita)
 
-**San Dune Pub** ⭐ — *American pub · $$*
+**San Dune Pub** ⭐ — *American pub · \$\$*
 - **Hours:** Fri–Tue 4–9 PM · live music
 - **Must-order:** Tuesday ribs; smoked salmon chowder; fresh oysters
 - Named to Thrillist's Ten Best Bars in Oregon. The town's default evening hang.
@@ -194,7 +194,7 @@ Both are walkable from Sea Star #2.
 
 **Nehalem Spit Trail** (Nehalem Bay SP) — 5+ miles, easy, flat. Runs along the sand spit between the ocean and Nehalem Bay. Wildlife: deer, elk, shorebirds. Good low-effort option if you want nature without elevation.
 
-**Oswald West logistics** — Parking **$10/day** (or free with Oregon State Parks annual pass). Lots fill fast: **arrive before 9 AM or after 4 PM.**
+**Oswald West logistics** — Parking **\$10/day** (or free with Oregon State Parks annual pass). Lots fill fast: **arrive before 9 AM or after 4 PM.**
 > ⚠️ **Bridge closures (2025–2026):** The Necarney Creek suspension bridge is out (possibly permanently) and the Upper Short Sand Creek Trail bridge has failed. Short Sand Beach and the core Cape Falcon Trail remain accessible. **Verify before going:** [Oswald West notices](https://stateparks.oregon.gov/index.cfm?do=v.notices&parkId=139) · 1-800-551-6949
 
 ![Short Sand Beach at Oswald West State Park](https://images.unsplash.com/photo-1634492483057-9a2d137a98e7?fm=jpg&q=80&w=2000&auto=format&fit=crop)
@@ -225,16 +225,16 @@ Both are walkable from Sea Star #2.
 | **Getting there** | US-101, 1 mile south of Manzanita Junction, turn at **Necarney Rd (Shell station)**, follow signs. ~5–10 min from the rental |
 | **Hours** | Daily **9 AM–5 PM** |
 | **Season** | Memorial Day–Labor Day on-site, **extended to Sept 10 this year** |
-| **1 hour** | **$125/person** — beach trails, dunes, out to the ocean, back around the bay |
-| **2 hours** | **$200/person** — rides the spit to the end, dunes to the bay, seals, eagles, deer, elk |
-| **Deposit** | $25/person to hold a saddle ($50 for two) |
+| **1 hour** | **\$125/person** — beach trails, dunes, out to the ocean, back around the bay |
+| **2 hours** | **\$200/person** — rides the spit to the end, dunes to the bay, seals, eagles, deer, elk |
+| **Deposit** | \$25/person to hold a saddle (\$50 for two) |
 | **Ages** | 6+. Must mount with minimal help, control the reins, ride alone, follow the guide |
 
 > ✅ **Aug 24 is a Monday — they're open.** The only closure is **Sundays in July and August**, so your Sunday arrival day is out but Monday works.
 
 **Things that will catch you out:**
-- **Balance is cash only.** No checks. Paying the balance by card adds **$5/person**. Two people, 1 hour = $250 total, $50 deposit, **$200 cash on the day**
-- **$5 park entry** at the kiosk, separate and also worth having cash for
+- **Balance is cash only.** No checks. Paying the balance by card adds **\$5/person**. Two people, 1 hour = \$250 total, \$50 deposit, **\$200 cash on the day**
+- **\$5 park entry** at the kiosk, separate and also worth having cash for
 - **No backpacks, purses, neck-strap cameras, selfie sticks or drones** — safety rule. Handheld camera is fine, they stop for photos on the beach
 - Reservations encouraged; walk-ups only when they have room. Book ahead for a Monday in August
 
@@ -278,7 +278,7 @@ Both are walkable from Sea Star #2.
 | **Pearl & Oyster Music Festival** | Aug 22–23 | Bay City (~25 min south) | Free outdoor festival, live music, oysters. Aug 23 is Day 2 — could catch afternoon if you're up for the drive |
 | **Oregon Coast Scenic Railroad Moonlight Run** | Aug 22 & **29** | Garibaldi → Wheeler, 21+ | ⚠️ Aug 22 = night before you arrive; Aug 29 = after you leave. Both MISS. |
 
-> ℹ️ **Moonlight Run details** (for future reference): Steam locomotive, 3-hr round trip Garibaldi → Wheeler at sunset and back in the dark. Live music, drinks from local breweries, food from Twins Ranch Café. $57–77 depending on package. [Book at oregoncoastscenic.org](https://oregoncoastscenic.org/train-rides/moonlight-excursion/) — sells out fast.
+> ℹ️ **Moonlight Run details** (for future reference): Steam locomotive, 3-hr round trip Garibaldi → Wheeler at sunset and back in the dark. Live music, drinks from local breweries, food from Twins Ranch Café. \$57–77 depending on package. [Book at oregoncoastscenic.org](https://oregoncoastscenic.org/train-rides/moonlight-excursion/) — sells out fast.
 
 ---
 
@@ -314,7 +314,7 @@ Both are walkable from Sea Star #2.
 
   > ⚠️ Yolk is open Mon — if you didn't make it Sunday, Monday is your second shot (closes at 2 PM)
 
-- **Mid-morning** — **Horseback riding at Nehalem Bay SP** — Oregon Beach Rides [971-237-6653](tel:+19712376653) · 1hr $125/pp · 2hr $200/pp · *Aug 24 is a Monday — open (closed Sundays only)* · Reserve ahead; **cash for the balance** + $5 park entry
+- **Mid-morning** — **Horseback riding at Nehalem Bay SP** — Oregon Beach Rides [971-237-6653](tel:+19712376653) · 1hr \$125/pp · 2hr \$200/pp · *Aug 24 is a Monday — open (closed Sundays only)* · Reserve ahead; **cash for the balance** + \$5 park entry
 - **Afternoon** — **Wheeler Marina**: kayak Nehalem Bay or try crabbing; Nehalem antiques on the way back
 - **Late evening** — deck time; the ocean-view deck is the whole point of Sea Star #2
 - **Evening** — **San Dune Pub** (Mon 4–9 PM, live music) or **Big Wave Cafe** (open Mon)

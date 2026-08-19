@@ -44,7 +44,7 @@ title: Rockaway Beach — Oregon Coast 2026
 
 **Old Oregon Smokehouse** — 120 S Hwy 101 | (503) 355-2817
 - Hours: Daily 12 PM – 7 or 8 PM (open 7 days)
-- Must-order: Clam chowder in a bread bowl (best dish in town), halibut fish & chips (~$29), crab melt (~$33)
+- Must-order: Clam chowder in a bread bowl (best dish in town), halibut fish & chips (~\$29), crab melt (~\$33)
 - Counter service with outdoor picnic tables; 4.3/5 on TripAdvisor (421 reviews); name is misleading — it's a seafood counter, not BBQ
 
 **The Original Pronto Pup** — on the beach strip

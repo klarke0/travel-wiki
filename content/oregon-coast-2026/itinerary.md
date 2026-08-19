@@ -42,7 +42,7 @@ Oregon Beach Rides is closed Sundays in July/August, and Tuesday is checkout.
 |---|---|
 | **~7 AM** | Sunrise beach walk from rental (1-min to Sunset Beach) |
 | **7:45 AM** | Quick coffee at **Manzanita News & Espresso** (opens early) |
-| **8:40 AM** | Drive to **Nehalem Bay State Park** — 5–10 min. $5 park entry at the kiosk |
+| **8:40 AM** | Drive to **Nehalem Bay State Park** — 5–10 min. \$5 park entry at the kiosk |
 | **9:00 AM** | 🐴 **Horseback ride — Oregon Beach Rides.** First slot of the day, and the tide is still low enough for a wide beach. Back ~10:15 (1hr) or ~11:15 (2hr) |
 | **~10:15 AM** | Ride ends — back in Manzanita by 10:30 |
 | **11 AM–2 PM** | **Cape Falcon hike** (Oswald West, 5 mi loop) — ⚠️ verify bridges first, see below. Alternative: **Wheeler Marina** kayak or crabbing on Nehalem Bay |
@@ -71,10 +71,10 @@ Wheeler Marina kayaking or crabbing on Nehalem Bay.
 |---|---|
 | **Ride** | 1 hour — beach trails, dunes, out to the ocean, back around the bay |
 | **Riders** | 2 |
-| **Total** | **$250** ($125 each) |
-| **Deposit** | **$50** ($25 each) to hold the saddles |
-| **Due on the day** | **$200 — CASH.** Card adds $5/person |
-| **Also bring** | **$5 cash** for park entry at the kiosk |
+| **Total** | **\$250** (\$125 each) |
+| **Deposit** | **\$50** (\$25 each) to hold the saddles |
+| **Due on the day** | **\$200 — CASH.** Card adds \$5/person |
+| **Also bring** | **\$5 cash** for park entry at the kiosk |
 
 **Don't bring**: backpacks, purses, neck-strap cameras, selfie sticks, drones. Handheld
 camera is fine — they stop for photos on the beach.
@@ -116,7 +116,7 @@ Tidepooling only works at low tide. The afternoon lows this trip never drop belo
 | | What | Contact | Notes |
 |---|---|---|---|
 | ✅ | **Sea Star #2 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
-| ☐ | **Horseback riding — Oregon Beach Rides** | [971-237-6653](tel:+19712376653) | Open Mon Aug 24 (closed Sundays only). $25/pp deposit, **balance cash only**, +$5 park entry. 1hr $125 / 2hr $200 |
+| ☐ | **Horseback riding — Oregon Beach Rides** | [971-237-6653](tel:+19712376653) | Open Mon Aug 24 (closed Sundays only). \$25/pp deposit, **balance cash only**, +\$5 park entry. 1hr \$125 / 2hr \$200 |
 
 ---
 
