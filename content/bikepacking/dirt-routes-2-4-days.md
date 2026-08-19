@@ -22,11 +22,11 @@ researched 2026-08-18.
 
 | Route | Miles | Days | Unpaved | Difficulty | Drive from PDX |
 |---|---|---|---|---|---|
-| **[[#1. Frog Lake Loop]]** ⭐ | 45 | 2 | 82% | 4/10 | ~1h15m |
-| **[[#2. Lower Deschutes Roller]]** | 119 | 2 | 52% | 6/10 | ~1h45m |
-| **[[#3. Anaxshat Passage]]** | 120 | 3–4 | 53% | Beginner–intermediate MTB | ~1h30m |
-| **[[#4. Pine Mountain Observatory Loop]]** | 79 | 2 | mostly gravel | — | ~3h30m |
-| **[[#5. Cascade Skyline]]** | 173 | 4 | gravel + dirt roads | — | ~2h30m |
+| **[[routes/frog-lake-loop\|Frog Lake Loop]]** ⭐ | 45 | 2 | 82% | 4/10 | ~1h15m |
+| **[[routes/lower-deschutes-roller-overnighter\|Lower Deschutes Roller]]** | 119 | 2 | 52% | 6/10 | ~1h45m |
+| **[[routes/anaxshat-passage\|Anaxshat Passage]]** | 120 | 3–4 | 53% | Beginner–intermediate MTB | ~1h30m |
+| **[[routes/pine-mountain-observatory-loop-overnighter\|Pine Mountain Observatory Loop]]** | 79 | 2 | mostly gravel | — | ~3h30m |
+| **[[routes/cascade-skyline\|Cascade Skyline]]** | 173 | 4 | gravel + dirt roads | — | ~2h30m |
 
 ---
 
@@ -120,5 +120,6 @@ in Mitchell partway. Resupply in Ashwood and Mitchell. Tubeless strongly advised
 
 ## Related pages
 
+- [[index|Full catalogue]] — all 18 routes, GPX, filter views
 - [[beginner-routes-near-portland]] — paved rail-trails, ride from the city
 - [[index|Bikepacking index]]
