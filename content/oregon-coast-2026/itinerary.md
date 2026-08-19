@@ -44,10 +44,11 @@ Oregon Beach Rides is closed Sundays in July/August, and Tuesday is checkout.
 | **7:45 AM** | Quick coffee at **Manzanita News & Espresso** (opens early) |
 | **8:40 AM** | Drive to **Nehalem Bay State Park** — 5–10 min. $5 park entry at the kiosk |
 | **9:00 AM** | 🐴 **Horseback ride — Oregon Beach Rides.** First slot of the day, and the tide is still low enough for a wide beach. Back ~10:15 (1hr) or ~11:15 (2hr) |
-| **Late morning** | *If you took the 1-hour:* **Wheeler Marina** kayak or crabbing on Nehalem Bay, or a shortened Oswald West walk |
-| **Afternoon** | **Nehalem Bay Winery** tasting (34965 Hwy 53, daily 10–5, $10 for 5 pours) or Laneda Ave shopping |
+| **~10:15 AM** | Ride ends — back in Manzanita by 10:30 |
+| **11 AM–2 PM** | **Cape Falcon hike** (Oswald West, 5 mi loop) — ⚠️ verify bridges first, see below. Alternative: **Wheeler Marina** kayak or crabbing on Nehalem Bay |
+| **Afternoon** | Laneda Ave galleries and shops · **Hoffman Center for the Arts** (call 503-368-3846 for exhibit hours) |
 | **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
-| **Evening** | Deck BBQ from **Manzanita Fresh Foods** + nightcap at **MacGregor's Whiskey Bar** |
+| **Evening** | Deck BBQ from **Manzanita Fresh Foods** on the ocean-view deck |
 
 ### Why 9 AM
 
@@ -55,26 +56,28 @@ Monday's tide is low at 5:08 AM and climbs to a **+5.9 ft high at 12:07 PM**. Be
 want exposed hard-packed sand — at 9 AM you get a wide beach, by noon it's the narrowest
 strip of the day. It's also cooler for the horses, and it clears the whole afternoon.
 
-### What this costs you
+### Cape Falcon fits — but check the bridges
 
-**Cape Falcon is out.** The 5-mile loop plus a ride plus the winery plus a 4 PM dinner
-doesn't fit in one day. That's an easier trade than it looks — Necarney Creek bridge is
-out (possibly permanently) and Upper Short Sand Creek bridge failed as of 2025–26, so
-that trail needs verifying before you'd count on it anyway.
+With the winery dropped, the 1-hour ride ends by 10:15 and the afternoon is free, so the
+5-mile Cape Falcon loop does fit (roughly 11–2, comfortably clear of a 4 PM dinner).
 
-If you'd rather hike than ride, flip it: Cape Falcon at 9 AM and skip the horses. There
-isn't a version where both fit.
+⚠️ **Verify the trail first.** Necarney Creek bridge is out — possibly permanently — and
+the Upper Short Sand Creek bridge failed as of 2025–26. If they're still down, swap in
+Wheeler Marina kayaking or crabbing on Nehalem Bay.
 
-### 1 hour or 2?
+### Booked ride: 1 hour, both of you
 
-| | Each | **Both of you** | Deposit | Cash on the day |
-|---|---|---|---|---|
-| **1 hour** | $125 | **$250** | $50 | $200 |
-| **2 hours** | $200 | **$400** | $50 | $350 |
+| | |
+|---|---|
+| **Ride** | 1 hour — beach trails, dunes, out to the ocean, back around the bay |
+| **Riders** | 2 |
+| **Total** | **$250** ($125 each) |
+| **Deposit** | **$50** ($25 each) to hold the saddles |
+| **Due on the day** | **$200 — CASH.** Card adds $5/person |
+| **Also bring** | **$5 cash** for park entry at the kiosk |
 
-Pricing is **per person** — you ride together, it's a guided group ride. The 2-hour goes
-down the spit to the end and over to the bay for seals, eagles, deer and elk; the 1-hour
-is beach, dunes and back. Plus $5 park entry either way, and the balance is **cash only**.
+**Don't bring**: backpacks, purses, neck-strap cameras, selfie sticks, drones. Handheld
+camera is fine — they stop for photos on the beach.
 
 ---
 
@@ -114,7 +117,6 @@ Tidepooling only works at low tide. The afternoon lows this trip never drop belo
 |---|---|---|---|
 | ✅ | **Sea Star #2 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
 | ☐ | **Horseback riding — Oregon Beach Rides** | [971-237-6653](tel:+19712376653) | Open Mon Aug 24 (closed Sundays only). $25/pp deposit, **balance cash only**, +$5 park entry. 1hr $125 / 2hr $200 |
-| ☐ | **Nehalem Bay Winery tasting** | [nehalembaywinery.com](https://www.nehalembaywinery.com/) | Walk-in fine, but call if going as a group |
 
 ---
 

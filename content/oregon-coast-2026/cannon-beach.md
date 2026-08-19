@@ -16,6 +16,9 @@ title: Cannon Beach — Oregon Coast
 
 ---
 
+> ℹ️ **Neither Kevin nor his mom drinks.** Brewpubs below are listed for their **food**
+> — Fort George's pizza, Public Coast's burgers — not the beer. Wine bars are skipped.
+
 ## Restaurants
 
 > **Removed from prior versions:** *Newman's at 988* (permanently closed), *The Lumberyard* (space is now Public Coast Brewing), and *Bardot Bakery* (no Cannon Beach presence — likely a misremembered name). *Sleepy Monk's* cafe storefront is closed; beans are online/wholesale only.
@@ -38,12 +41,11 @@ title: Cannon Beach — Oregon Coast
 - **Driftwood Restaurant & Lounge** — Classic CB seafood/steakhouse since 1944. 179 N Hemlock St · Daily 11:30am–11pm (lounge to midnight) · $$–$$$ · Reservations recommended for dinner; dog-friendly deck. Baked halibut with dill sauce; award-winning clam chowder. [driftwoodcannonbeach.com](https://www.driftwoodcannonbeach.com/)
 - **The Irish Table** — Small, Irish-inspired seafood dinner spot (in the former Sleepy Monk space, ~1235 S Hemlock). Opens 5:30pm, closed a couple midweek days · $$$ · **No reservations, tiny room — arrive early or wait.** Seafood chowder; lamb chops with Dijon reduction. *Call to confirm current days.*
 
-### Drinks, Brewpubs & Wine Bars
+### Brewpubs (for the food)
 
 - **Bill's Tavern & Brewhouse** — Cannon Beach's original brewery (brewing since 1997). 188 N Hemlock St · Mon–Thu & Sat–Sun 11:30am–9pm, Fri to 10pm · $$ · No reservations. House pints; halibut & chips. [billstavernandbrewhouse.com](https://www.billstavernandbrewhouse.com/)
 - **Public Coast Brewing Co.** — Brewpub in the former Lumberyard space. 264 3rd St · Daily 12–8pm · $$ · Kid/dog-friendly patio. Public Coast burger (organic grass-fed Oregon beef); root-beer float with Tillamook. [publiccoastbrewing.com](https://www.publiccoastbrewing.com/)
 - **Pelican Brewing Company — Cannon Beach** — Award-winning coastal brewpub (birthplace is Pacific City; yes, there's a CB location). 1371 S Hemlock St · ~11am–9pm (**verify — hours not fully published**), (503) 908-3377 · $$ · Kiwanda Cream Ale or Tsunami Stout. [pelicanbrewing.com/cannon-beach](https://pelicanbrewing.com/pubs/cannon-beach)
-- **The Wine Shack** — Local wine bar since 1977, voted best wine shop on the coast; weekend tastings, NW focus. Hemlock St.
 
 ### Coffee & Bakeries
 

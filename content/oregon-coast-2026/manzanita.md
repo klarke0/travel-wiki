@@ -131,8 +131,10 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 
 ### Drinks & Bars
 
-- **RustyMoose** *(formerly MacGregor's Whiskey Bar)* — 200+ bottles, charcuterie boards. Best nightcap in town. Thu 6–9, Fri–Sat 2–9, Sun 5–9 PM. 387 Laneda Ave · [Google Maps](https://maps.google.com/?q=RustyMoose+Manzanita+OR)
-- **The Winery at Manzanita** — dog-friendly courtyard, barrel fire pits, locally-made wine. Open daily 12–7 PM.
+> ℹ️ **Neither Kevin nor his mom drinks** — bars, wineries and tasting rooms are not
+> relevant for this trip and have been removed. Brewpubs are kept **only where the food
+> is the draw** (noted individually). Coffee and dessert are below.
+
 - **San Dune Pub** — see above; also the go-to for a casual beer + live music.
 
 ### Coffee & Sweets
@@ -241,19 +243,6 @@ Both are walkable from Sea Star #2.
 
 ---
 
-### Wine Tasting
-
-**Nehalem Bay Winery** ⭐ — *34965 Hwy 53, Nehalem · ~5 min south · (503) 368-9463 · Daily 10 AM–5 PM*
-- 22 wines; $10 tasting (5 pours, credited toward bottle purchase)
-- Set back in the Coast Range hills — a different vibe from the beachfront options
-- [nehalembaywinery.com](https://www.nehalembaywinery.com)
-
-**The Winery at Manzanita** — *Laneda Ave · Daily 12–7 PM*
-- Dog-friendly courtyard with barrel fire pits; s'mores kits available
-- Wine flights, by-the-glass, small plates
-- Easy walk from the rental
-
----
 
 ### Arts, Culture & Wellness
 
@@ -276,7 +265,6 @@ Both are walkable from Sea Star #2.
 - **Manzanita Sweets** — saltwater taffy, chocolate, fudge
 - **Toylandia** — toy shop
 - **Wild Grocery** — health foods, deli, juice bar, tea, coffee
-- **RustyMoose** *(formerly MacGregor's Whiskey Bar)* — 200+ whiskey bottles, charcuterie (387 Laneda Ave)
 
 **Nehalem antiques** (~5 min south): Nehalem Riverside Trading Company, Pete's Antiques, North Coast Antique Mall, Little White Church Antiques.
 
@@ -328,8 +316,8 @@ Both are walkable from Sea Star #2.
 
 - **Mid-morning** — **Horseback riding at Nehalem Bay SP** — Oregon Beach Rides [971-237-6653](tel:+19712376653) · 1hr $125/pp · 2hr $200/pp · *Aug 24 is a Monday — open (closed Sundays only)* · Reserve ahead; **cash for the balance** + $5 park entry
 - **Afternoon** — **Wheeler Marina**: kayak Nehalem Bay or try crabbing; Nehalem antiques on the way back
+- **Late evening** — deck time; the ocean-view deck is the whole point of Sea Star #2
 - **Evening** — **San Dune Pub** (Mon 4–9 PM, live music) or **Big Wave Cafe** (open Mon)
-- **Late evening** — **RustyMoose** nightcap (387 Laneda Ave · open Mon? confirm — typically Thu–Sun)
 
 ### Tuesday, Aug 25 — Checkout
 - **Sunrise** — beach walk (almost no one out at dawn)

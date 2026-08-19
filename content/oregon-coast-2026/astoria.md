@@ -16,6 +16,9 @@ title: Astoria — Oregon's Oldest City
 
 ---
 
+> ℹ️ **Neither Kevin nor his mom drinks.** Brewpubs below are listed for their **food**
+> — Fort George's pizza, Public Coast's burgers — not the beer. Wine bars are skipped.
+
 ## Restaurants & Bars
 
 Astoria's food scene is the real reason to come — it punches far above a town of 10,000.
