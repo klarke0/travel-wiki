@@ -12,7 +12,7 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 **Distance from Portland:** ~1h45m–2h | **Vibe:** Quiet, locals-oriented | **Beach:** 7 miles, uncrowded
 
 **Trip dates:** August 23–25, 2026 (2 nights) · 2 adults
-**Route:** US-26 West over the Coast Range → US-101 South to Manzanita. Add 30–45 min on summer Friday afternoons; leave Portland by 8 AM Saturday.
+**Route:** US-26 West over the Coast Range → US-101 South to Manzanita. Add 30–45 min on summer Friday afternoons; leave Portland by 7:30 AM **Sunday Aug 23**.
 **Last updated:** 2026-07-14
 
 ---
@@ -74,7 +74,7 @@ Manzanita is the anti–Cannon Beach: a quiet, locals-oriented village fronting 
 **Yolk** ⭐ — *Modern American breakfast · $ · 503-368-9655*
 - **Hours:** Fri–Mon 8 AM–2 PM only
 - **Must-order:** lemon-ricotta pancakes; lamb burger with feta
-- The best breakfast in town (TripAdvisor 4.8/5). Small room, fills fast — go at open. Closed Tue–Thu, so plan Saturday or Monday around it.
+- The best breakfast in town (TripAdvisor 4.8/5). Small room, fills fast — go at open. Closed Tue–Thu — so **Sunday Aug 23 or Monday Aug 24** only, not your Tuesday checkout morning.
 - 503 Laneda Ave · [Google Maps](https://maps.google.com/?q=Yolk+Manzanita+Oregon)
 
 **Wanda's Cafe + Bakery** ⭐ (Nehalem, ~5 min south) — *Comfort breakfast/bakery · $–$$*
@@ -336,3 +336,29 @@ Both are walkable from Sea Star #2.
 ## Related Pages
 
 [[index|Trip Overview]] · [[cannon-beach|Cannon Beach]] · [[astoria|Astoria]] · [[rockaway-beach|Rockaway Beach]]
+
+## While You're There — Sun–Tue Window
+
+Researched 2026-08-18 specifically against the trip's actual days (Sun 23 / Mon 24 / Tue 25).
+
+| Thing | When | Verdict |
+|---|---|---|
+| **Manzanita Farmers Market** | Fridays 4–7 PM | ❌ Miss — prior Fri Aug 21, next Fri Aug 28 |
+| **Cannon Beach Farmers Market** | **Tuesdays 11 AM–3 PM** | ✅ **Falls on your checkout day.** Hemlock & Gower lot, food trucks + live music |
+| **Astoria Sunday Market** | Sundays 10–3 | ❌ Only Sunday is the drive-out day |
+| **Hoffman Center for the Arts** | Manzanita, gallery + workshops | ☎️ Call 503-368-3846 — hours vary by exhibit |
+| **NCRD Aquatic Center** (Nehalem, ~5 min) | Indoor pool, open 7 days | ✅ Available. Good rainy-afternoon fallback — call 855-444-6273 for the public-swim window |
+| **Nehalem Valley Historical Society** | Saturdays 1–4 PM | ❌ Miss |
+
+### The Tuesday question
+
+Haystack Rock tidepools need dawn (5:49 AM low tide). Cannon Beach Farmers Market
+doesn't open until 11 AM, and you check out at 10. So they don't naturally combine —
+you'd drive back north 20 min after checkout to catch the market, then head home.
+
+Doable, just know it's a deliberate detour rather than something on the way.
+
+**Weather note (checked 2026-08-18)**: coastal mornings have been foggy and burning off
+to partly sunny, 59–64°F. Sunday's forecast is mostly sunny, 64°F. Mon/Tue were beyond
+the 7-day window — worth re-checking Thursday.
+

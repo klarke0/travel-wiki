@@ -9,14 +9,14 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ---
 
-## Friday, August 22 — Mom Arrives Portland
+## Saturday, August 22 — Mom Arrives Portland
 
 - Mom arrives — settle in, rest
 - Optional: easy Portland dinner (no planning needed, you're home)
 
 ---
 
-## Saturday, August 23 — Drive to Manzanita
+## Sunday, August 23 — Drive to Manzanita
 
 | Time | Activity |
 |---|---|
@@ -33,13 +33,13 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ---
 
-## Sunday, August 24 — Full Day
+## Monday, August 24 — Full Day
 
 | Time | Activity |
 |---|---|
 | **Morning** | Sunrise beach walk from rental (1-min to Sunset Beach) |
 | **9 AM** | Coffee at **Manzanita News & Espresso** |
-| **10 AM** | Low-tide tidepool walk (check NOAA tide chart) or **Cape Falcon hike** (Oswald West, 5 mi loop) |
+| **10 AM** | **Cape Falcon hike** (Oswald West, 5 mi loop) — *not* tidepooling; tide is rising to a 12:07 PM high, pools will be underwater |
 | **Mid-morning** | Optional: **Wheeler Marina** kayak or crabbing on Nehalem Bay |
 | **Afternoon** | **Nehalem Bay Winery** tasting (34965 Hwy 53, daily 10–5, $10 for 5 pours) or Laneda Ave shopping |
 | **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
@@ -47,19 +47,35 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ---
 
-## Monday, August 25 — Check Out & Drive Home
+## Tuesday, August 25 — Check Out & Drive Home
 
 | Time | Activity |
 |---|---|
-| **7 AM** | Sunrise beach walk |
+| **6:00 AM** | **Leave for Cannon Beach** — Haystack Rock tidepools at dead low tide (5:49 AM, 0.0 ft — lowest of the trip). Shoes that can get wet. |
+| **~7:30 AM** | Back toward Manzanita |
 | **8–9 AM** | Coffee + breakfast — **Manzanita News & Espresso** |
 | **10:00 AM** | **Check out** |
-| **10:30 AM** | Optional day trip: **Cannon Beach** (20 min north) — Haystack Rock tidepools before heading home |
-| **~11:30 AM** | Drive home via US-101 S → US-6 E → US-26 E |
+| **10:30 AM** | Drive home via US-101 S → US-6 E → US-26 E (Haystack already done at dawn — near high tide by now) |
 | **~12:30 PM** | Optional stop: **Tillamook Creamery** (ice cream + cheese to take home) |
 | **~2 PM** | Back in Portland |
 
 ---
+
+---
+
+## Tides — NOAA, Garibaldi station
+
+Tidepooling only works at low tide. The afternoon lows this trip never drop below
++3 ft, so **early morning is the only real window**.
+
+| Day | Low | High | Low | High |
+|---|---|---|---|---|
+| Sun Aug 23 | 4:18 AM (+0.7) | 11:30 AM (+5.6) | 4:02 PM (+4.0) | 10:04 PM (+7.3) |
+| Mon Aug 24 | 5:08 AM (+0.4) | 12:07 PM (+5.9) | 4:57 PM (+3.6) | 10:58 PM (+7.6) |
+| **Tue Aug 25** | **5:49 AM (0.0)** | 12:39 PM (+6.3) | 5:44 PM (+3.1) | 11:46 PM (+7.8) |
+
+**Tue 5:49 AM is the lowest tide of the trip** — that's the Haystack Rock window.
+
 
 ## Key Reservations
 

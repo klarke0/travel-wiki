@@ -133,7 +133,7 @@ Official calendar: [cannonbeach.org/events-and-festivals](https://www.cannonbeac
 
 ## Day Trip from Manzanita (20 min)
 
-Best as a Monday Aug 25 morning stop on the way home, or a half-day Sunday detour.
+Best as a **Tuesday Aug 25** morning stop on the way home (go at dawn for the tidepools), or a half-day detour on Monday Aug 24.
 
 - **Arrive before 10am** — parking fills fast on summer weekends
 - **Haystack Rock tidepools** — check low tide timing, arrive 1 hr before low

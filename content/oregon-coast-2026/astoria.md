@@ -152,7 +152,7 @@ Astoria itself is on the **river**, not the ocean — for actual surf you head w
 ## August 2026 Events
 
 - **Astoria Regatta Festival** — **Aug 5–8, 2026** (the oldest festival in Oregon, since 1894). Sailboat races, land & Highwater boat parades, Regatta Square block party, food. **This is *before* our Aug 23–25 dates**, so we miss it — which also means fewer crowds and easier lodging. [astoriaregatta.com](https://www.astoriaregatta.com/)
-- **Astoria Sunday Market** — **every Sunday through October**, 10 AM–3 PM on 12th St downtown. Local produce, crafts, food, live music. **Our Sunday Aug 24 lands on a market day** — a great morning. [astoriasundaymarket.com](https://www.astoriasundaymarket.com/)
+- **Astoria Sunday Market** — **every Sunday through October**, 10 AM–3 PM on 12th St downtown. Local produce, crafts, food, live music. ⚠️ **Does NOT line up.** Aug 24 is a **Monday**. The only Sunday of the trip is **Aug 23**, which is the drive-out/check-in day — so the market is only possible as a stop on the way, not from Manzanita. [astoriasundaymarket.com](https://www.astoriasundaymarket.com/)
 - **Second Saturday Art Walk** — downtown galleries; Aug 8 (before our trip).
 - Check the chamber's calendar closer to the date: [oldoregon.com/events](https://www.oldoregon.com/events/)
 
@@ -160,14 +160,14 @@ Astoria itself is on the **river**, not the ocean — for actual surf you head w
 
 ## Day Trip from Manzanita (~1h30m)
 
-A long but doable day trip — best on Sunday Aug 24. Leave Manzanita by 9 AM.
+A long but doable day trip — the free day is **Monday Aug 24**. Leave Manzanita by 9 AM. Note the Sunday Market won't be running on a Monday.
 
 - **Bowpicker Fish & Chips** — lunch first (cash only, sells out, arrive at open ~11am)
 - **Columbia River Maritime Museum** — 1.5–2 hrs, one of Oregon's best ($18 adult)
 - **Astoria Riverwalk + trolley** — ride to Pier 39, see sea lions at the East Mooring Basin
 - **Astoria Column** — climb 164 steps, buy a balsa glider and launch it from the top
 - **Fort George Brewery** — dinner and a pint; no reservations, great atmosphere
-- **Astoria Sunday Market** (Sundays 10am–3pm) — only if you arrive early enough
+- **Astoria Sunday Market** (Sundays 10am–3pm) — ⚠️ not available; the trip's only Sunday is the drive-out day
 - **Peter Iredale shipwreck at Fort Stevens** (20 min west) — add if you have time; best at low tide
 
 ---
