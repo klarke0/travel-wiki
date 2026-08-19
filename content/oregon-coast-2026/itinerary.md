@@ -82,7 +82,7 @@ Tidepooling only works at low tide. The afternoon lows this trip never drop belo
 | | What | Contact | Notes |
 |---|---|---|---|
 | ✅ | **Sea Star #2 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
-| ☐ | **Horseback riding** | 971-237-6653 | Closed Sundays — skip or call ahead to confirm Mon Aug 24 |
+| ☐ | **Horseback riding — Oregon Beach Rides** | [971-237-6653](tel:+19712376653) | Open Mon Aug 24 (closed Sundays only). $25/pp deposit, **balance cash only**, +$5 park entry. 1hr $125 / 2hr $200 |
 | ☐ | **Nehalem Bay Winery tasting** | [nehalembaywinery.com](https://www.nehalembaywinery.com/) | Walk-in fine, but call if going as a group |
 
 ---

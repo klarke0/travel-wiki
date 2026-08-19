@@ -212,9 +212,29 @@ Both are walkable from Sea Star #2.
 - Ramp access to Nehalem Bay; right on US-101 just north of Manzanita (~5 min)
 - > ⚠️ **August crabbing note:** crab season peaks Sept–Feb. August trips are still a fun outing but expect fewer crabs — don't plan the meal around it.
 
-**Horseback Riding — Nehalem Bay Horse Excursions** — beach riding available Memorial Day–Labor Day.  
-📞 971-237-6653 · 1hr $125/pp · 2hr $175/pp  
-> ⚠️ **Closed Sundays in July–August.** Aug 24 (Monday) is available — reserve well in advance.
+**Horseback Riding — Oregon Beach Rides** ⭐ — guided beach and dune rides from inside Nehalem Bay State Park.
+
+*Verified against oregonbeachrides.com, 2026-08-18.*
+
+| | |
+|---|---|
+| **Phone** | **971-237-6653** · oregonbeachrides@hotmail.com |
+| **Where** | NBSP Day Use Area, 34600 Garey St, Nehalem — past the airport and boat ramp |
+| **Getting there** | US-101, 1 mile south of Manzanita Junction, turn at **Necarney Rd (Shell station)**, follow signs. ~5–10 min from the rental |
+| **Hours** | Daily **9 AM–5 PM** |
+| **Season** | Memorial Day–Labor Day on-site, **extended to Sept 10 this year** |
+| **1 hour** | **$125/person** — beach trails, dunes, out to the ocean, back around the bay |
+| **2 hours** | **$200/person** — rides the spit to the end, dunes to the bay, seals, eagles, deer, elk |
+| **Deposit** | $25/person to hold a saddle ($50 for two) |
+| **Ages** | 6+. Must mount with minimal help, control the reins, ride alone, follow the guide |
+
+> ✅ **Aug 24 is a Monday — they're open.** The only closure is **Sundays in July and August**, so your Sunday arrival day is out but Monday works.
+
+**Things that will catch you out:**
+- **Balance is cash only.** No checks. Paying the balance by card adds **$5/person**. Two people, 1 hour = $250 total, $50 deposit, **$200 cash on the day**
+- **$5 park entry** at the kiosk, separate and also worth having cash for
+- **No backpacks, purses, neck-strap cameras, selfie sticks or drones** — safety rule. Handheld camera is fine, they stop for photos on the beach
+- Reservations encouraged; walk-ups only when they have room. Book ahead for a Monday in August
 
 ![Nehalem Bay sunset](https://upload.wikimedia.org/wikipedia/commons/0/04/Nehalem_bay_sunset.JPG)
 *Photo: Jsayre64 / CC BY-SA 3.0*
@@ -306,7 +326,7 @@ Both are walkable from Sea Star #2.
 
   > ⚠️ Yolk is open Mon — if you didn't make it Sunday, Monday is your second shot (closes at 2 PM)
 
-- **Mid-morning** — **Horseback riding at Nehalem Bay SP** — Oregon Beach Rides [(503) 801-7433](tel:+15038017433) · 1hr $125/pp · 2hr $175/pp · *Aug 24 is a Monday — rides available (restriction is Sundays only)* · Reserve in advance
+- **Mid-morning** — **Horseback riding at Nehalem Bay SP** — Oregon Beach Rides [971-237-6653](tel:+19712376653) · 1hr $125/pp · 2hr $200/pp · *Aug 24 is a Monday — open (closed Sundays only)* · Reserve ahead; **cash for the balance** + $5 park entry
 - **Afternoon** — **Wheeler Marina**: kayak Nehalem Bay or try crabbing; Nehalem antiques on the way back
 - **Evening** — **San Dune Pub** (Mon 4–9 PM, live music) or **Big Wave Cafe** (open Mon)
 - **Late evening** — **RustyMoose** nightcap (387 Laneda Ave · open Mon? confirm — typically Thu–Sun)
@@ -325,7 +345,7 @@ Both are walkable from Sea Star #2.
 - **Check-in 4 PM / Check-out 10 AM** — can't get in early without host approval; plan Sunday activities to fill the morning.
 - **Deck BBQ** — Sea Star #2 has an ocean-view deck with BBQ. Manzanita Fresh Foods (730 Manzanita Ave, daily 8 AM–8 PM) is the spot for Painted Hills steaks or local seafood to cook in.
 - **No hot tub at the rental** — nearest hotel hot tub option is Coast Cabins Spa Cabin #5 (503-368-7113) if you want that experience as a day-use add-on.
-- **Horseback riding** — reserve at Oregon Beach Rides [(503) 801-7433](tel:+15038017433); closed Sundays in July/Aug. **Aug 24 is a Monday — rides should be available.** Book ahead.
+- **Horseback riding** — reserve at Oregon Beach Rides [971-237-6653](tel:+19712376653); closed Sundays in July/Aug. **Aug 24 is a Monday — open.** Book ahead, bring cash for the balance.
 - **The Salmonberry** — walk-in only; arrive at opening (4 PM) on weekdays to avoid a wait.
 - **Oswald West bridges** — Necarney Creek bridge out (possibly permanent) and Upper Short Sand Creek bridge failed as of 2025–2026. Verify trail status before planning the hike.
 - **Yolk hours** — open Fri–Mon only; Sun and Mon are your shots. Go at opening — small room fills fast.
