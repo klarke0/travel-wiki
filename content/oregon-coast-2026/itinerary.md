@@ -35,15 +35,46 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ## Monday, August 24 — Full Day
 
+**Built around the 9 AM horseback ride.** Monday is the only day it's possible —
+Oregon Beach Rides is closed Sundays in July/August, and Tuesday is checkout.
+
 | Time | Activity |
 |---|---|
-| **Morning** | Sunrise beach walk from rental (1-min to Sunset Beach) |
-| **9 AM** | Coffee at **Manzanita News & Espresso** |
-| **10 AM** | **Cape Falcon hike** (Oswald West, 5 mi loop) — *not* tidepooling; tide is rising to a 12:07 PM high, pools will be underwater |
-| **Mid-morning** | Optional: **Wheeler Marina** kayak or crabbing on Nehalem Bay |
+| **~7 AM** | Sunrise beach walk from rental (1-min to Sunset Beach) |
+| **7:45 AM** | Quick coffee at **Manzanita News & Espresso** (opens early) |
+| **8:40 AM** | Drive to **Nehalem Bay State Park** — 5–10 min. $5 park entry at the kiosk |
+| **9:00 AM** | 🐴 **Horseback ride — Oregon Beach Rides.** First slot of the day, and the tide is still low enough for a wide beach. Back ~10:15 (1hr) or ~11:15 (2hr) |
+| **Late morning** | *If you took the 1-hour:* **Wheeler Marina** kayak or crabbing on Nehalem Bay, or a shortened Oswald West walk |
 | **Afternoon** | **Nehalem Bay Winery** tasting (34965 Hwy 53, daily 10–5, $10 for 5 pours) or Laneda Ave shopping |
 | **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
 | **Evening** | Deck BBQ from **Manzanita Fresh Foods** + nightcap at **MacGregor's Whiskey Bar** |
+
+### Why 9 AM
+
+Monday's tide is low at 5:08 AM and climbs to a **+5.9 ft high at 12:07 PM**. Beach rides
+want exposed hard-packed sand — at 9 AM you get a wide beach, by noon it's the narrowest
+strip of the day. It's also cooler for the horses, and it clears the whole afternoon.
+
+### What this costs you
+
+**Cape Falcon is out.** The 5-mile loop plus a ride plus the winery plus a 4 PM dinner
+doesn't fit in one day. That's an easier trade than it looks — Necarney Creek bridge is
+out (possibly permanently) and Upper Short Sand Creek bridge failed as of 2025–26, so
+that trail needs verifying before you'd count on it anyway.
+
+If you'd rather hike than ride, flip it: Cape Falcon at 9 AM and skip the horses. There
+isn't a version where both fit.
+
+### 1 hour or 2?
+
+| | Each | **Both of you** | Deposit | Cash on the day |
+|---|---|---|---|---|
+| **1 hour** | $125 | **$250** | $50 | $200 |
+| **2 hours** | $200 | **$400** | $50 | $350 |
+
+Pricing is **per person** — you ride together, it's a guided group ride. The 2-hour goes
+down the spit to the end and over to the bay for seals, eagles, deer and elk; the 1-hour
+is beach, dunes and back. Plus $5 park entry either way, and the balance is **cash only**.
 
 ---
 
