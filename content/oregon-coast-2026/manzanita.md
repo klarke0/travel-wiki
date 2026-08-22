@@ -357,7 +357,9 @@ quarter mile to a viewpoint is no problem, three miles with a climb isn't.
 | Thing | Walking | Notes |
 |---|---|---|
 | 🚂 **Oregon Coast Scenic Railroad** | None | **Rockaway Beach (10 min)** or Garibaldi (20 min). 30 min each way + 30 min layover. \$36 adult / \$32 senior 65+. 503-842-7972 |
-| 🌲 **Munson Creek Falls** | ¼ mile, flat | 319 ft, tallest in the Coast Range. Old-growth forest. Daily 8 AM–8 PM. ~40 min |
+| 🌲 **Munson Creek Falls** | ¼ mile, flat | 319 ft, tallest in the Coast Range. Old-growth forest. Daily 8 AM–8 PM. ~40 min — **now on the Tuesday drive home** |
+| 🏛️ **Garibaldi Maritime Museum** | Indoor | 112 Garibaldi Ave · **Thu–Mon 10–4**, last entry 3:30 · 503-322-8411. Open Monday |
+| ⚓ **Garibaldi Boardwalk & Landing** | Flat, few blocks | Working marina, Fishpeople Seafood Market, boats offloading |
 | 🔭 **Cape Meares viewpoint + Octopus Tree** | 0.1 mile | Open daily 7 AM–dusk. ⚠️ **Lighthouse is Thu–Sun only — shut on Monday** |
 | 🗺️ **Three Capes Scenic Loop** | Driving + stops | 70-mile loop — Cape Meares, Cape Lookout, Cape Kiwanda |
 | 🏖️ **Manzanita beach** | As much or little as you like | 7 miles of flat hard-packed sand, 1 min from the rental. Turn around whenever |

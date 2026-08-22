@@ -39,62 +39,71 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 ## Monday, August 24 — Full Day
 
-**Forecast: sunny, 66°F** — the best day of the three. Built around the steam train.
-Short walks throughout, nothing longer than about a quarter mile.
+**Forecast: sunny, 66°F** — the best day of the three. Built around the steam train, with
+a proper stop in Garibaldi. Short walks throughout, nothing longer than a few blocks.
 
 | Time | Activity |
 |---|---|
 | Morning | Slow start · coffee at **Manzanita News & Espresso** (daily 7 AM) |
-| **~10:15 AM** | Drive to **Rockaway Beach** — 10 min south on US-101 (Garibaldi is the other option, 20 min) |
-| **late morning** | 🚂 **Oregon Coast Scenic Railroad** — steam train along Tillamook Bay. 30 min each way + 30 min layover |
-| **~1:30 PM** | 🌲 **Munson Creek Falls** — 20 min further south. **¼-mile accessible trail**, no climb |
-| **Afternoon** | Back via **Tillamook** if you want the Creamery, or straight home |
+| **~10:30 AM** | Drive to **Rockaway Beach** — 10 min south on US-101 |
+| **~11 AM** | 🚂 **Board the steam train to Garibaldi** — 30 min along Tillamook Bay |
+| **Garibaldi** | 🏛️ **Maritime Museum** · 🍽️ lunch on the water · ⚓ **boardwalk** along the marina |
+| **2:00 PM** | 🚂 **Return train to Rockaway** — back in Manzanita ~2:45 |
 | **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
 | **Evening** | Deck BBQ from **Manzanita Fresh Foods** on the ocean-view deck |
 
-### 🚂 The train
+### 🚂 The train — ✅ BOOKED
 
-**\$36 adult · \$32 senior (65+)** · 90 min round trip minimum
-📞 **503-842-7972** · [oregoncoastscenic.org](https://oregoncoastscenic.org/train-rides/oregon-coast-excursion/)
+| | |
+|---|---|
+| **Depart** | Rockaway Beach, **11:00 AM** · booking **#374184659** |
+| **Return** | to Rockaway Beach, **2:00 PM** · booking **#374184666** |
+| **Tickets** | 2 × **Open Top Car** |
+| **Paid** | **\$68.00**, Apple Pay, 8/22 |
+| **Phone** | 503-842-7972 |
 
-**Either station works.** **Rockaway Beach is closer** — 10 minutes from Manzanita versus
-20 to Garibaldi. Worth knowing only if it ever becomes relevant: the portable mobility
-lift is at Garibaldi station only, so if step-up boarding were ever a problem, that's the
-station with assistance.
+Tickets are a **QR code** — print them or have them on your phone for the ticket agent.
+If they go missing they can look the booking up by name.
 
-Car choices: enclosed **Coach** and **Table** cars with windows, or the **Covered Open
-Car** and **Open Top Car** for open air. On a sunny 66° day the covered open car is the
-nice one.
+⚠️ **Open Top Car has no roof.** The forecast is sunny and 66°, but this is an open
+coastal train in motion — the apparent wind makes it a good deal colder than 66 feels
+standing still. **Take jackets, and a hat that won't blow off.**
 
-☎️ **Still to confirm**: Monday departure times. It runs daily through Sept 27 but the
-timetable isn't published online — worth a call before driving down.
+Leave Manzanita around **10:45** — Rockaway is 10 minutes south — and aim to be at the
+station 15–20 minutes before departure.
 
-### 🌲 Munson Creek Falls
+### 🏛️ Garibaldi — what's there
 
-319 ft over several tiers — **the tallest waterfall in the Coast Range**. The trail is a
-**quarter mile, flat, and rated accessible for all ages**, through old-growth forest.
-Open daily 8 AM–8 PM. Roughly 40 min from Manzanita, near Tillamook.
+All within a few flat blocks of the depot.
 
-### Also easy, if you want more
-
-- **Three Capes Scenic Loop** — 70-mile drive with short stops, mostly seeing from the car
-- **Cape Meares viewpoint + Octopus Tree** — 0.1 mile from the car park, open daily 7 AM–dusk.
-  ⚠️ The **lighthouse itself is Thu–Sun only — closed Monday**. Viewpoint still worth it.
-- **Laneda Ave** shops and galleries, flat and walkable
-- **NCRD indoor pool**, Nehalem — wet-weather fallback, open 7 days
+- **Garibaldi Maritime Museum** — 112 Garibaldi Ave · **Thu–Mon 10–4**, last entry 3:30 ·
+  503-322-8411. ✅ **Open Monday.** Captain Robert Gray, the Columbia, town history.
+  Indoor — the wet-weather fallback if it turns.
+- **Historic Garibaldi Boardwalk** — flat waterfront path along the marina. A working
+  fishing port, so there are real boats working
+- **Fishpeople Seafood Market**, Garibaldi Landing — tuna, rockfish, crab, shellfish.
+  You can watch boats offloading
+- **Lunch** — Portside Bistro (1300 7th St) · Fisherman's Korner · Garibaldi's Hook Line
+  'n Sinker · Bayfront Bakery & Deli · Source Oyster & Wine Bar
 
 
 ## Tuesday, August 25 — Check Out & Drive Home
 
 | Time | Activity |
 |---|---|
-| **6:00 AM** | *Optional:* **Haystack Rock tidepools** at dead low tide (5:49 AM, 0.0 ft — lowest of the trip). ⚠️ Wet rock and uneven footing — fine if you go alone, worth thinking about with company. Shoes that can get wet |
-| **~7:30 AM** | Back toward Manzanita |
+| **6:00 AM** | *Optional:* **Haystack Rock tidepools** at dead low tide (5:49 AM, 0.0 ft — lowest of the trip). ⚠️ Wet rock and uneven footing — fine alone, worth a thought with company. Shoes that can get wet |
 | **8–9 AM** | Coffee + breakfast — **Manzanita News & Espresso** |
 | **10:00 AM** | **Check out** |
-| **10:30 AM** | Drive home via US-101 S → US-6 E → US-26 E (Haystack already done at dawn — near high tide by now) |
-| **~12:30 PM** | Optional stop: **Tillamook Creamery** (ice cream + cheese to take home) |
-| **~2 PM** | Back in Portland |
+| **10:30 AM** | Drive south on US-101 |
+| **~11:15 AM** | 🧀 **Tillamook Creamery** — free self-guided tour + ice cream, cheese to take home |
+| **~12:15 PM** | 🌲 **Munson Creek Falls** — 8 mi further south, then back. **¼-mile flat trail**, 319 ft falls, tallest in the Coast Range. Daily 8 AM–8 PM, free |
+| **~1:15 PM** | Back north, then **US-6 East** to Portland |
+| **~3 PM** | Home |
+
+> 💡 **Munson Creek moved here from Monday.** Taking the 2 PM train back leaves no room
+> before the 4 PM Salmonberry — and the falls are right on this route anyway, a few miles
+> past the Creamery. Nothing lost, one less rushed afternoon.
+
 
 ---
 

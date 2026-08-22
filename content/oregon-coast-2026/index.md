@@ -23,8 +23,8 @@ This is the only place the schedule lives, so it can't drift.
 | | |
 |---|---|
 | **Sun Aug 23** | Drive out · Yolk breakfast · Manzanita beach & Laneda · check in 4 PM |
-| **Mon Aug 24** | ☀️ Sunny 66° · 🚂 Steam train from Garibaldi · Munson Creek Falls · Salmonberry 4 PM |
-| **Tue Aug 25** | 🌅 Haystack tidepools 6 AM · check out 10 AM · Tillamook on the way home |
+| **Mon Aug 24** | ☀️ Sunny 66° · 🚂 Steam train to Garibaldi · museum + boardwalk · Salmonberry 4 PM |
+| **Tue Aug 25** | 🌅 Tidepools 6 AM (optional) · check out 10 · 🧀 Creamery + 🌲 Munson Creek Falls en route |
 
 ---
 
@@ -34,7 +34,7 @@ This is the only place the schedule lives, so it can't drift.
 |---|---|---|
 | ✅ | **Sea Star #2**, Manzanita — [VRBO #7661784ha](https://www.vrbo.com/7661784ha) · 3BR/2BA · steps to Sunset Beach · deck BBQ · garage | Booked by Mom |
 | ⚠️ | Confirmation # and door code | **Get from Mom before leaving** |
-| ⚠️ | **Steam train** — Oregon Coast Scenic RR, 503-842-7972 · \$36 adult / \$32 senior | **Confirm Monday times.** Rockaway Beach is the closer station (10 min) |
+| ✅ | **Steam train** — Oregon Coast Scenic RR | **Booked.** Rockaway dep **11:00**, return **2:00**. 2 × Open Top Car, \$68 paid. #374184659 / #374184666 |
 | — | The Salmonberry | Walk-in only, no booking possible |
 
 **Check-in** Sun Aug 23 · 4:00 PM (contactless) · **Check-out** Tue Aug 25 · 10:00 AM
