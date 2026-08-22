@@ -349,31 +349,30 @@ Added 2026-08-18. Bars and tastings are out, so these fill the same slots:
 - **NCRD Aquatic Center**, Nehalem — indoor pool, open 7 days. Genuine wet-weather
   fallback. 855-444-6273.
 
-## Low-effort options (added 2026-08-22)
+## Shorter walks and easy days
 
-Mom's visit — **hiking is out**, so this is what works without elevation or distance.
+Added 2026-08-22. **Long hikes are out this trip; short walks are fine.** Roughly: a
+quarter mile to a viewpoint is no problem, three miles with a climb isn't.
 
-| Thing | Effort | Notes |
+| Thing | Walking | Notes |
 |---|---|---|
-| 🚂 **Oregon Coast Scenic Railroad** | None | Garibaldi (20 min) → Rockaway. 30 min each way + 30 min layover. \$36 adult / \$32 senior 65+. **Mobility lift is at Garibaldi only** — none at Rockaway, arrive 30 min early if needed. 503-842-7972 |
-| 🌲 **Munson Creek Falls** | ¼ mile, flat | 319 ft, tallest in the Coast Range. Trail rated accessible, old-growth forest. Daily 8 AM–8 PM. ~40 min |
-| 🗺️ **Three Capes Scenic Loop** | Driving | 70-mile loop from Tillamook — Cape Meares, Cape Lookout, Cape Kiwanda |
+| 🚂 **Oregon Coast Scenic Railroad** | None | **Rockaway Beach (10 min)** or Garibaldi (20 min). 30 min each way + 30 min layover. \$36 adult / \$32 senior 65+. 503-842-7972 |
+| 🌲 **Munson Creek Falls** | ¼ mile, flat | 319 ft, tallest in the Coast Range. Old-growth forest. Daily 8 AM–8 PM. ~40 min |
 | 🔭 **Cape Meares viewpoint + Octopus Tree** | 0.1 mile | Open daily 7 AM–dusk. ⚠️ **Lighthouse is Thu–Sun only — shut on Monday** |
-| 🏖️ **Manzanita beach** | Flat | 7 miles of hard-packed sand, 1 min from the rental |
-| 🛍️ **Laneda Ave** | Flat | Boutiques, galleries, chocolates, all walkable |
+| 🗺️ **Three Capes Scenic Loop** | Driving + stops | 70-mile loop — Cape Meares, Cape Lookout, Cape Kiwanda |
+| 🏖️ **Manzanita beach** | As much or little as you like | 7 miles of flat hard-packed sand, 1 min from the rental. Turn around whenever |
+| 🛍️ **Laneda Ave** | Flat, walkable | Boutiques, galleries, chocolates |
+| 🧀 **Tillamook Creamery** | Indoor | Free self-guided tour + ice cream, on the drive home |
 | 🏊 **NCRD pool**, Nehalem | Indoor | Open 7 days, wet-weather fallback. 855-444-6273 |
-| 🧀 **Tillamook Creamery** | Indoor | Free self-guided tour + ice cream. Fits the drive home |
 
-### Not suitable this trip
-
-Kept for reference, but too much for this visit:
+### Too long for this trip
 
 - **Neahkahnie Mountain** — 3 mi, 1,000 ft gain
-- **Cape Falcon / Oswald West** — real elevation, *and* Necarney Creek and Upper Short
-  Sand Creek bridges are out as of 2025–26
-- **Elk Flats** — 2 mi with descent to the beach
-- **Wheeler Marina kayak** — getting in and out of a kayak is the barrier, not the paddling
+- **Cape Falcon** — 5 mi round trip, *and* the Necarney Creek and Upper Short Sand Creek
+  bridges are out as of 2025–26
+- **Elk Flats** — 2 mi with a descent to the beach and the climb back
 
-> 💡 **Beach wheelchairs**: the Manzanita Visitor Center on Laneda loans them free
-> (3-hour limit, first come). [David's Chairs](https://davidsofmanzanita.org/) does track
-> chairs and adaptive equipment. Worth knowing if the beach is otherwise off the table.
+**Borderline, your call**: the walk down to **Short Sand Beach** at Oswald West is about
+a third of a mile, but it's a descent through forest with the climb back up at the end.
+Fine if she's up for it, not if it's a bad day.
+

@@ -31,34 +31,36 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 
 > 💡 Depart Portland by 7:30 AM to beat US-26 summer traffic. Check-in isn't until 4 PM.
 >
-> **Nothing on this trip requires a hike.** Oswald West and Cape Falcon are dropped —
-> both involve real elevation and the Cape Falcon bridges are out anyway.
+> **Short walks are fine — long hikes aren't.** Cape Falcon and Neahkahnie are dropped
+> (3+ miles with real climbing, and Cape Falcon's bridges are out anyway). Anything
+> under about half a mile on easy ground is no problem.
 
 ---
 
 ## Monday, August 24 — Full Day
 
-**Forecast: sunny, 66°F** — the best day of the three. Built around the steam train, and
-deliberately low-effort: no hiking, nothing with a climb.
+**Forecast: sunny, 66°F** — the best day of the three. Built around the steam train.
+Short walks throughout, nothing longer than about a quarter mile.
 
 | Time | Activity |
 |---|---|
 | Morning | Slow start · coffee at **Manzanita News & Espresso** (daily 7 AM) |
-| **~10:00 AM** | Drive to **Garibaldi** — 20 min south on US-101 |
-| **late morning** | 🚂 **Oregon Coast Scenic Railroad** — steam train along Tillamook Bay. 30 min each way + 30 min layover in Rockaway Beach |
+| **~10:15 AM** | Drive to **Rockaway Beach** — 10 min south on US-101 (Garibaldi is the other option, 20 min) |
+| **late morning** | 🚂 **Oregon Coast Scenic Railroad** — steam train along Tillamook Bay. 30 min each way + 30 min layover |
 | **~1:30 PM** | 🌲 **Munson Creek Falls** — 20 min further south. **¼-mile accessible trail**, no climb |
 | **Afternoon** | Back via **Tillamook** if you want the Creamery, or straight home |
 | **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
 | **Evening** | Deck BBQ from **Manzanita Fresh Foods** on the ocean-view deck |
 
-### 🚂 The train — book from Garibaldi, not Rockaway
+### 🚂 The train
 
 **\$36 adult · \$32 senior (65+)** · 90 min round trip minimum
 📞 **503-842-7972** · [oregoncoastscenic.org](https://oregoncoastscenic.org/train-rides/oregon-coast-excursion/)
 
-⚠️ **Depart from Garibaldi.** The portable wheelchair/mobility lift is **at Garibaldi
-station only** — there is none at Rockaway Beach, including for getting on and off during
-the layover. If the lift is needed, **arrive 30 minutes early** so staff can set it up.
+**Either station works.** **Rockaway Beach is closer** — 10 minutes from Manzanita versus
+20 to Garibaldi. Worth knowing only if it ever becomes relevant: the portable mobility
+lift is at Garibaldi station only, so if step-up boarding were ever a problem, that's the
+station with assistance.
 
 Car choices: enclosed **Coach** and **Table** cars with windows, or the **Covered Open
 Car** and **Open Top Car** for open air. On a sunny 66° day the covered open car is the

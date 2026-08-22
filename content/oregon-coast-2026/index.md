@@ -9,8 +9,8 @@ title: Oregon Coast Trip — August 2026
 
 **2 adults · Sun Aug 23 – Tue Aug 25, 2026 · based in Manzanita**
 
-> ♿ **No hiking this trip.** Everything is flat, short, or seen from the car. See
-> [[manzanita#Low-effort options (added 2026-08-22)|low-effort options]].
+> 🚶 **Short walks fine, long hikes out.** Quarter-mile to a viewpoint is no problem;
+> a 3-mile climb is. See [[manzanita#Shorter walks and easy days|shorter walks]].
 Mom arrives Portland Sat Aug 22, departs Thu Aug 27.
 
 ---
@@ -34,7 +34,7 @@ This is the only place the schedule lives, so it can't drift.
 |---|---|---|
 | ✅ | **Sea Star #2**, Manzanita — [VRBO #7661784ha](https://www.vrbo.com/7661784ha) · 3BR/2BA · steps to Sunset Beach · deck BBQ · garage | Booked by Mom |
 | ⚠️ | Confirmation # and door code | **Get from Mom before leaving** |
-| ⚠️ | **Steam train** — Oregon Coast Scenic RR, 503-842-7972 · \$36 adult / \$32 senior | **Confirm Monday times.** Board at Garibaldi — lift is there only |
+| ⚠️ | **Steam train** — Oregon Coast Scenic RR, 503-842-7972 · \$36 adult / \$32 senior | **Confirm Monday times.** Rockaway Beach is the closer station (10 min) |
 | — | The Salmonberry | Walk-in only, no booking possible |
 
 **Check-in** Sun Aug 23 · 4:00 PM (contactless) · **Check-out** Tue Aug 25 · 10:00 AM
