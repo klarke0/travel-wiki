@@ -8,6 +8,9 @@ title: Oregon Coast Trip — August 2026
 *Photo: Karsten Winegeart / Unsplash*
 
 **2 adults · Sun Aug 23 – Tue Aug 25, 2026 · based in Manzanita**
+
+> ♿ **No hiking this trip.** Everything is flat, short, or seen from the car. See
+> [[manzanita#Low-effort options (added 2026-08-22)|low-effort options]].
 Mom arrives Portland Sat Aug 22, departs Thu Aug 27.
 
 ---
@@ -19,8 +22,8 @@ This is the only place the schedule lives, so it can't drift.
 
 | | |
 |---|---|
-| **Sun Aug 23** | Drive out · Yolk breakfast · Oswald West · check in 4 PM |
-| **Mon Aug 24** | 🐴 Horseback 9 AM · Neahkahnie Mountain · Salmonberry 4 PM |
+| **Sun Aug 23** | Drive out · Yolk breakfast · Manzanita beach & Laneda · check in 4 PM |
+| **Mon Aug 24** | ☀️ Sunny 66° · 🚂 Steam train from Garibaldi · Munson Creek Falls · Salmonberry 4 PM |
 | **Tue Aug 25** | 🌅 Haystack tidepools 6 AM · check out 10 AM · Tillamook on the way home |
 
 ---
@@ -31,7 +34,7 @@ This is the only place the schedule lives, so it can't drift.
 |---|---|---|
 | ✅ | **Sea Star #2**, Manzanita — [VRBO #7661784ha](https://www.vrbo.com/7661784ha) · 3BR/2BA · steps to Sunset Beach · deck BBQ · garage | Booked by Mom |
 | ⚠️ | Confirmation # and door code | **Get from Mom before leaving** |
-| ⚠️ | **Horseback ride** — Oregon Beach Rides, 971-237-6653 · 1 hr, 2 riders, \$250 | **Not yet booked** |
+| ⚠️ | **Steam train** — Oregon Coast Scenic RR, 503-842-7972 · \$36 adult / \$32 senior | **Confirm Monday times.** Board at Garibaldi — lift is there only |
 | — | The Salmonberry | Walk-in only, no booking possible |
 
 **Check-in** Sun Aug 23 · 4:00 PM (contactless) · **Check-out** Tue Aug 25 · 10:00 AM

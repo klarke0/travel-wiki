@@ -23,69 +23,70 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 | **7:30 AM** | Leave Portland on US-26 West |
 | **~9:30 AM** | Arrive Manzanita area — too early for check-in (4 PM) |
 | **10 AM** | Breakfast at **Yolk** (Laneda Ave) |
-| **11 AM – 2 PM** | **Oswald West State Park** — Short Sand Beach + Cape Falcon trail (~15 min south on US-101) |
+| **11 AM – 1 PM** | **Manzanita beach + Laneda Ave** — flat, seven miles of hard-packed sand, one minute from the rental. Shops, galleries, coffee |
 | **2–3:30 PM** | Beach walk on Manzanita beach, browse Laneda Ave |
 | **4:00 PM** | **Check in** — Sea Star #2 (contactless, get code from Mom) |
 | **5 PM** | Settle in, unpack, deck time with ocean views |
 | **7 PM** | Dinner — **Manznita Restaurant** or **Left Coast Siesta** |
 
-> 💡 Depart Portland by 7:30 AM to beat US-26 summer traffic. Check-in isn't until 4 PM — Oswald West fills that gap perfectly.
+> 💡 Depart Portland by 7:30 AM to beat US-26 summer traffic. Check-in isn't until 4 PM.
+>
+> **Nothing on this trip requires a hike.** Oswald West and Cape Falcon are dropped —
+> both involve real elevation and the Cape Falcon bridges are out anyway.
 
 ---
 
 ## Monday, August 24 — Full Day
 
-**Built around the 9 AM horseback ride.** Monday is the only day it's possible —
-Oregon Beach Rides is closed Sundays in July/August, and Tuesday is checkout.
+**Forecast: sunny, 66°F** — the best day of the three. Built around the steam train, and
+deliberately low-effort: no hiking, nothing with a climb.
 
 | Time | Activity |
 |---|---|
-| **~7 AM** | Sunrise beach walk from rental (1-min to Sunset Beach) |
-| **7:45 AM** | Quick coffee at **Manzanita News & Espresso** (opens early) |
-| **8:40 AM** | Drive to **Nehalem Bay State Park** — 5–10 min. \$5 park entry at the kiosk |
-| **9:00 AM** | 🐴 **Horseback ride — Oregon Beach Rides.** First slot of the day, and the tide is still low enough for a wide beach. Back ~10:15 (1hr) or ~11:15 (2hr) |
-| **~10:15 AM** | Ride ends — back in Manzanita by 10:30 |
-| **11 AM–2 PM** | **Cape Falcon hike** (Oswald West, 5 mi loop) — ⚠️ verify bridges first, see below. Alternative: **Wheeler Marina** kayak or crabbing on Nehalem Bay |
-| **Afternoon** | Laneda Ave galleries and shops · **Hoffman Center for the Arts** (call 503-368-3846 for exhibit hours) |
+| Morning | Slow start · coffee at **Manzanita News & Espresso** (daily 7 AM) |
+| **~10:00 AM** | Drive to **Garibaldi** — 20 min south on US-101 |
+| **late morning** | 🚂 **Oregon Coast Scenic Railroad** — steam train along Tillamook Bay. 30 min each way + 30 min layover in Rockaway Beach |
+| **~1:30 PM** | 🌲 **Munson Creek Falls** — 20 min further south. **¼-mile accessible trail**, no climb |
+| **Afternoon** | Back via **Tillamook** if you want the Creamery, or straight home |
 | **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
 | **Evening** | Deck BBQ from **Manzanita Fresh Foods** on the ocean-view deck |
 
-### Why 9 AM
+### 🚂 The train — book from Garibaldi, not Rockaway
 
-Monday's tide is low at 5:08 AM and climbs to a **+5.9 ft high at 12:07 PM**. Beach rides
-want exposed hard-packed sand — at 9 AM you get a wide beach, by noon it's the narrowest
-strip of the day. It's also cooler for the horses, and it clears the whole afternoon.
+**\$36 adult · \$32 senior (65+)** · 90 min round trip minimum
+📞 **503-842-7972** · [oregoncoastscenic.org](https://oregoncoastscenic.org/train-rides/oregon-coast-excursion/)
 
-### Cape Falcon fits — but check the bridges
+⚠️ **Depart from Garibaldi.** The portable wheelchair/mobility lift is **at Garibaldi
+station only** — there is none at Rockaway Beach, including for getting on and off during
+the layover. If the lift is needed, **arrive 30 minutes early** so staff can set it up.
 
-With the winery dropped, the 1-hour ride ends by 10:15 and the afternoon is free, so the
-5-mile Cape Falcon loop does fit (roughly 11–2, comfortably clear of a 4 PM dinner).
+Car choices: enclosed **Coach** and **Table** cars with windows, or the **Covered Open
+Car** and **Open Top Car** for open air. On a sunny 66° day the covered open car is the
+nice one.
 
-⚠️ **Verify the trail first.** Necarney Creek bridge is out — possibly permanently — and
-the Upper Short Sand Creek bridge failed as of 2025–26. If they're still down, swap in
-Wheeler Marina kayaking or crabbing on Nehalem Bay.
+☎️ **Still to confirm**: Monday departure times. It runs daily through Sept 27 but the
+timetable isn't published online — worth a call before driving down.
 
-### Booked ride: 1 hour, both of you
+### 🌲 Munson Creek Falls
 
-| | |
-|---|---|
-| **Ride** | 1 hour — beach trails, dunes, out to the ocean, back around the bay |
-| **Riders** | 2 |
-| **Total** | **\$250** (\$125 each) |
-| **Deposit** | **\$50** (\$25 each) to hold the saddles |
-| **Due on the day** | **\$200 — CASH.** Card adds \$5/person |
-| **Also bring** | **\$5 cash** for park entry at the kiosk |
+319 ft over several tiers — **the tallest waterfall in the Coast Range**. The trail is a
+**quarter mile, flat, and rated accessible for all ages**, through old-growth forest.
+Open daily 8 AM–8 PM. Roughly 40 min from Manzanita, near Tillamook.
 
-**Don't bring**: backpacks, purses, neck-strap cameras, selfie sticks, drones. Handheld
-camera is fine — they stop for photos on the beach.
+### Also easy, if you want more
 
----
+- **Three Capes Scenic Loop** — 70-mile drive with short stops, mostly seeing from the car
+- **Cape Meares viewpoint + Octopus Tree** — 0.1 mile from the car park, open daily 7 AM–dusk.
+  ⚠️ The **lighthouse itself is Thu–Sun only — closed Monday**. Viewpoint still worth it.
+- **Laneda Ave** shops and galleries, flat and walkable
+- **NCRD indoor pool**, Nehalem — wet-weather fallback, open 7 days
+
 
 ## Tuesday, August 25 — Check Out & Drive Home
 
 | Time | Activity |
 |---|---|
-| **6:00 AM** | **Leave for Cannon Beach** — Haystack Rock tidepools at dead low tide (5:49 AM, 0.0 ft — lowest of the trip). Shoes that can get wet. |
+| **6:00 AM** | *Optional:* **Haystack Rock tidepools** at dead low tide (5:49 AM, 0.0 ft — lowest of the trip). ⚠️ Wet rock and uneven footing — fine if you go alone, worth thinking about with company. Shoes that can get wet |
 | **~7:30 AM** | Back toward Manzanita |
 | **8–9 AM** | Coffee + breakfast — **Manzanita News & Espresso** |
 | **10:00 AM** | **Check out** |
@@ -116,7 +117,7 @@ Tidepooling only works at low tide. The afternoon lows this trip never drop belo
 | | What | Contact | Notes |
 |---|---|---|---|
 | ✅ | **Sea Star #2 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
-| ☐ | **Horseback riding — Oregon Beach Rides** | [971-237-6653](tel:+19712376653) | Open Mon Aug 24 (closed Sundays only). \$25/pp deposit, **balance cash only**, +\$5 park entry. 1hr \$125 / 2hr \$200 |
+| ☐ | **Oregon Coast Scenic Railroad** | [503-842-7972](tel:+15038427972) | Confirm Monday departure times. **Board at Garibaldi** — lift is there only. \$36 adult / \$32 senior |
 
 ---
 

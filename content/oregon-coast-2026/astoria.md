@@ -6,7 +6,7 @@ title: Astoria — Oregon's Oldest City
 
 > 🗺️ **Day-trip option — not currently scheduled.** Fully researched and kept for
 > exactly that reason. 1h30m each way from Manzanita, so it's a whole-day commitment;
-> your one free day (Mon Aug 24) currently has the horseback ride and a hike. Here if
+> your one free day (Mon Aug 24) has the steam train and Munson Creek Falls. Here if
 > you want to swap.
 
 ![Astoria and the Astoria–Megler Bridge over the Columbia River](https://upload.wikimedia.org/wikipedia/commons/1/1a/Astoria%2C_Oregon.jpg)

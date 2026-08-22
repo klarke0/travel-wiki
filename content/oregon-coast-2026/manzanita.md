@@ -189,7 +189,11 @@ Both are walkable from Sea Star #2.
 - Ramp access to Nehalem Bay; right on US-101 just north of Manzanita (~5 min)
 - > ⚠️ **August crabbing note:** crab season peaks Sept–Feb. August trips are still a fun outing but expect fewer crabs — don't plan the meal around it.
 
-**Horseback Riding — Oregon Beach Rides** ⭐ — guided beach and dune rides from inside Nehalem Bay State Park.
+**Horseback Riding — Oregon Beach Rides** — guided beach and dune rides from inside Nehalem Bay State Park.
+
+> ❌ **Dropped for this trip (2026-08-22)** — problems with the operator's payment setup.
+> Details kept because it's the only riding outfit near Manzanita; the alternatives are
+> M&R Beach Rides and Twin Creeks, both an hour south in Pacific City.
 
 *Verified against oregonbeachrides.com, 2026-08-18.*
 
@@ -285,7 +289,7 @@ can't drift. This page is reference: what's here, when it's open, what it costs.
 - **Check-in 4 PM / Check-out 10 AM** — can't get in early without host approval; plan Sunday activities to fill the morning.
 - **Deck BBQ** — Sea Star #2 has an ocean-view deck with BBQ. Manzanita Fresh Foods (730 Manzanita Ave, daily 8 AM–8 PM) is the spot for Painted Hills steaks or local seafood to cook in.
 - **No hot tub at the rental** — nearest hotel hot tub option is Coast Cabins Spa Cabin #5 (503-368-7113) if you want that experience as a day-use add-on.
-- **Horseback riding** — reserve at Oregon Beach Rides [971-237-6653](tel:+19712376653); closed Sundays in July/Aug. **Aug 24 is a Monday — open.** Book ahead, bring cash for the balance.
+- **Horseback riding** — ❌ dropped for this trip (payment-system problems with the operator). Research retained above.
 - **The Salmonberry** — walk-in only; arrive at opening (4 PM) on weekdays to avoid a wait.
 - **Oswald West bridges** — Necarney Creek bridge out (possibly permanent) and Upper Short Sand Creek bridge failed as of 2025–2026. Verify trail status before planning the hike.
 - **Yolk hours** — open Fri–Mon only; Sun and Mon are your shots. Go at opening — small room fills fast.
@@ -344,3 +348,32 @@ Added 2026-08-18. Bars and tastings are out, so these fill the same slots:
   503-368-3846, hours vary by exhibit.
 - **NCRD Aquatic Center**, Nehalem — indoor pool, open 7 days. Genuine wet-weather
   fallback. 855-444-6273.
+
+## Low-effort options (added 2026-08-22)
+
+Mom's visit — **hiking is out**, so this is what works without elevation or distance.
+
+| Thing | Effort | Notes |
+|---|---|---|
+| 🚂 **Oregon Coast Scenic Railroad** | None | Garibaldi (20 min) → Rockaway. 30 min each way + 30 min layover. \$36 adult / \$32 senior 65+. **Mobility lift is at Garibaldi only** — none at Rockaway, arrive 30 min early if needed. 503-842-7972 |
+| 🌲 **Munson Creek Falls** | ¼ mile, flat | 319 ft, tallest in the Coast Range. Trail rated accessible, old-growth forest. Daily 8 AM–8 PM. ~40 min |
+| 🗺️ **Three Capes Scenic Loop** | Driving | 70-mile loop from Tillamook — Cape Meares, Cape Lookout, Cape Kiwanda |
+| 🔭 **Cape Meares viewpoint + Octopus Tree** | 0.1 mile | Open daily 7 AM–dusk. ⚠️ **Lighthouse is Thu–Sun only — shut on Monday** |
+| 🏖️ **Manzanita beach** | Flat | 7 miles of hard-packed sand, 1 min from the rental |
+| 🛍️ **Laneda Ave** | Flat | Boutiques, galleries, chocolates, all walkable |
+| 🏊 **NCRD pool**, Nehalem | Indoor | Open 7 days, wet-weather fallback. 855-444-6273 |
+| 🧀 **Tillamook Creamery** | Indoor | Free self-guided tour + ice cream. Fits the drive home |
+
+### Not suitable this trip
+
+Kept for reference, but too much for this visit:
+
+- **Neahkahnie Mountain** — 3 mi, 1,000 ft gain
+- **Cape Falcon / Oswald West** — real elevation, *and* Necarney Creek and Upper Short
+  Sand Creek bridges are out as of 2025–26
+- **Elk Flats** — 2 mi with descent to the beach
+- **Wheeler Marina kayak** — getting in and out of a kayak is the barrier, not the paddling
+
+> 💡 **Beach wheelchairs**: the Manzanita Visitor Center on Laneda loans them free
+> (3-hour limit, first come). [David's Chairs](https://davidsofmanzanita.org/) does track
+> chairs and adaptive equipment. Worth knowing if the beach is otherwise off the table.
