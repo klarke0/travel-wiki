@@ -27,7 +27,7 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 | **2–3:30 PM** | Beach walk on Manzanita beach, browse Laneda Ave |
 | **4:00 PM** | **Check in** — Sea Star #2 (contactless, get code from Mom) |
 | **5 PM** | Settle in, unpack, deck time with ocean views |
-| **7 PM** | Dinner — **Manznita Restaurant** or **Left Coast Siesta** |
+| **7 PM** | 🔥 **Deck BBQ** — pick up steaks or seafood from **Manzanita Fresh Foods** (730 Manzanita Ave, daily 8 AM–8 PM) earlier in the day. Easy first night after the drive |
 
 > 💡 Depart Portland by 7:30 AM to beat US-26 summer traffic. Check-in isn't until 4 PM.
 >
@@ -49,8 +49,8 @@ a proper stop in Garibaldi. Short walks throughout, nothing longer than a few bl
 | **~11 AM** | 🚂 **Board the steam train to Garibaldi** — 30 min along Tillamook Bay |
 | **Garibaldi** | 🏛️ **Maritime Museum** · 🍽️ lunch on the water · ⚓ **boardwalk** along the marina |
 | **2:00 PM** | 🚂 **Return train to Rockaway** — back in Manzanita ~2:45 |
-| **4 PM** | Early dinner at **The Salmonberry** in Wheeler (walk-in only, arrive at open) |
-| **Evening** | Deck BBQ from **Manzanita Fresh Foods** on the ocean-view deck |
+| **4 PM** | 🍽️ **The Salmonberry**, Wheeler — **arrive right at 4** |
+| **Evening** | Back to the deck |
 
 ### 🚂 The train — ✅ BOOKED
 
@@ -71,6 +71,19 @@ standing still. **Take jackets, and a hat that won't blow off.**
 
 Leave Manzanita around **10:45** — Rockaway is 10 minutes south — and aim to be at the
 station 15–20 minutes before departure.
+
+### 🍽️ The Salmonberry — no reservations, and Monday's your last chance
+
+**Walk-in only. You can't book it.** That's exactly why the plan says arrive at 4 PM
+sharp — they open at 4, seat yourself, order at the counter, and a weekend queue builds
+fast.
+
+⚠️ **Open Fri–Mon only, 4–8 PM.** It's shut Tue–Thu, so **Monday is the last day of your
+trip it's open.** 380 Marine Dr, Wheeler (~10 min south) · 971-324-0077 ·
+[salmonberry.fun](https://salmonberry.fun/)
+
+Waterfront deck, wood-fired. Pappardelle with Willapa Bay clams, the wood-fired pizza,
+agnolotti with wild mushrooms.
 
 ### 🏛️ Garibaldi — what's there
 
