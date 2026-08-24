@@ -36,7 +36,7 @@ want it — **go early, then retreat.** See [[cannon-beach]].
 
 ## Where we're staying
 
-**Sea Star #2** — full booking details on the [[index|trip index]]. Check-in Sun Aug 23
+**Sea Star #1** — full booking details on the [[index|trip index]]. Check-in Sun Aug 23
 4 PM, check-out Tue Aug 25 10 AM. One-minute walk to Sunset Beach.
 
 
@@ -142,7 +142,7 @@ want it — **go early, then retreat.** See [[cannon-beach]].
 
 ### Beaches
 
-**Manzanita Beach (Sunset Beach)** — Seven miles of hard-packed crescent sand, rarely crowded even in August. Sea Star #2 is a 1-minute walk from here. Great for walking, kite flying, beachcombing, tide pooling at low tide, and long sunset strolls. **Sneaker waves are real — never turn your back on the ocean near rocks.** Free parking at Laneda Ave beach access.
+**Manzanita Beach (Sunset Beach)** — Seven miles of hard-packed crescent sand, rarely crowded even in August. Sea Star #1 is a 1-minute walk from here. Great for walking, kite flying, beachcombing, tide pooling at low tide, and long sunset strolls. **Sneaker waves are real — never turn your back on the ocean near rocks.** Free parking at Laneda Ave beach access.
 
 > 💡 **Beach wheelchair program** — the Manzanita Visitor Center (Laneda Ave) loans beach wheelchairs free (3-hour limit, first-come). [David's Chairs](https://davidsofmanzanita.org/) offers track chairs and adaptive equipment.
 
@@ -157,7 +157,7 @@ want it — **go early, then retreat.** See [[cannon-beach]].
 
 **Bahama Mama's** — Laneda Ave · surfboards, boogie boards, skimboards, wetsuits, beach cruiser bikes  
 **Boards & Beach Fare** — Laneda Ave · kites and kite gear  
-Both are walkable from Sea Star #2.
+Both are walkable from Sea Star #1.
 
 ---
 
@@ -287,7 +287,7 @@ can't drift. This page is reference: what's here, when it's open, what it costs.
 
 - **Cell service is patchy** — download offline maps before leaving Portland; don't rely on data.
 - **Check-in 4 PM / Check-out 10 AM** — can't get in early without host approval; plan Sunday activities to fill the morning.
-- **Deck BBQ** — Sea Star #2 has an ocean-view deck with BBQ. Manzanita Fresh Foods (730 Manzanita Ave, daily 8 AM–8 PM) is the spot for Painted Hills steaks or local seafood to cook in.
+- **Deck BBQ** — Sea Star #1 has an ocean-view deck with BBQ. Manzanita Fresh Foods (730 Manzanita Ave, daily 8 AM–8 PM) is the spot for Painted Hills steaks or local seafood to cook in.
 - **No hot tub at the rental** — nearest hotel hot tub option is Coast Cabins Spa Cabin #5 (503-368-7113) if you want that experience as a day-use add-on.
 - **Horseback riding** — ❌ dropped for this trip (payment-system problems with the operator). Research retained above.
 - **The Salmonberry** — walk-in only; arrive at opening (4 PM) on weekdays to avoid a wait.

@@ -25,7 +25,7 @@ Mom arrives Portland Aug 22. Coast trip Aug 23–25. Mom departs Aug 27.
 | **10 AM** | Breakfast at **Yolk** (Laneda Ave) |
 | **11 AM – 1 PM** | **Manzanita beach + Laneda Ave** — flat, seven miles of hard-packed sand, one minute from the rental. Shops, galleries, coffee |
 | **2–3:30 PM** | Beach walk on Manzanita beach, browse Laneda Ave |
-| **4:00 PM** | **Check in** — Sea Star #2 (contactless, get code from Mom) |
+| **4:00 PM** | **Check in** — Sea Star #1 (contactless, get code from Mom) |
 | **5 PM** | Settle in, unpack, deck time with ocean views |
 | **7 PM** | 🔥 **Deck BBQ** — pick up steaks or seafood from **Manzanita Fresh Foods** (730 Manzanita Ave, daily 8 AM–8 PM) earlier in the day. Easy first night after the drive |
 
@@ -140,7 +140,7 @@ Tidepooling only works at low tide. The afternoon lows this trip never drop belo
 
 | | What | Contact | Notes |
 |---|---|---|---|
-| ✅ | **Sea Star #2 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
+| ✅ | **Sea Star #1 rental** | Mom made booking | Get confirmation # + check-in code from Mom |
 | ☐ | **Oregon Coast Scenic Railroad** | [503-842-7972](tel:+15038427972) | Confirm Monday departure times. **Board at Garibaldi** — lift is there only. \$36 adult / \$32 senior |
 
 ---

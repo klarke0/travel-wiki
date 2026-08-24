@@ -32,7 +32,7 @@ This is the only place the schedule lives, so it can't drift.
 
 | | What | Status |
 |---|---|---|
-| ✅ | **Sea Star #2**, Manzanita — [VRBO #7661784ha](https://www.vrbo.com/7661784ha) · 3BR/2BA · steps to Sunset Beach · deck BBQ · garage | Booked by Mom |
+| ✅ | **Sea Star #1**, Manzanita — [VRBO #7661784ha](https://www.vrbo.com/7661784ha) · 3BR/2BA · steps to Sunset Beach · deck BBQ · garage | Booked by Mom |
 | ⚠️ | Confirmation # and door code | **Get from Mom before leaving** |
 | ✅ | **Steam train** — Oregon Coast Scenic RR | **Booked.** Rockaway dep **11:00**, return **2:00**. 2 × Open Top Car, \$68 paid. #374184659 / #374184666 |
 | — | The Salmonberry | Walk-in only, no booking possible |
