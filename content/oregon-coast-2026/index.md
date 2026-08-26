@@ -7,6 +7,10 @@ title: Oregon Coast Trip — August 2026
 ![Oregon Coast sunset](https://images.unsplash.com/photo-1601699233172-1bb3354b845b?fm=jpg&q=80&w=2000&auto=format&fit=crop)
 *Photo: Karsten Winegeart / Unsplash*
 
+> ✅ **Trip complete** — Aug 23–25, 2026. Archived below as it was planned.
+> Kept for the restaurant, activity and day-trip research, which is still good
+> next time you're on the north coast.
+
 **2 adults · Sun Aug 23 – Tue Aug 25, 2026 · based in Manzanita**
 
 > 🚶 **Short walks fine, long hikes out.** Quarter-mile to a viewpoint is no problem;

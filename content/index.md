@@ -11,7 +11,7 @@ trip so it's there next time.
 
 | Trip | Dates | Base | Status |
 |---|---|---|---|
-| [[oregon-coast-2026/index\|🌊 Oregon Coast]] | Aug 23–25, 2026 | Manzanita | 🟢 **Upcoming** |
+| [[oregon-coast-2026/index\|🌊 Oregon Coast]] | Aug 23–25, 2026 | Manzanita | ✅ Complete |
 
 ## Routes & research
 
