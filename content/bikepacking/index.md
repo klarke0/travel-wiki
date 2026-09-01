@@ -75,6 +75,7 @@ All 18 routes, shortest first.
 
 ## Also here
 
+- [[more-oregon-routes|More Oregon routes]] — the state's 17 signed Scenic Bikeways, the Oregon Timber Trail broken into its 4 ridable tiers, the long rail trails, and the Adventure Cycling network. Everything not on bikepacking.com
 - [[dirt-routes-2-4-days|Dirt & gravel, 2–4 days]] — the detailed shortlist with hazards and seasons
 - [[beginner-routes-near-portland|Beginner overnights near Portland]] — paved rail-trails, ride from the city
 
