@@ -11,6 +11,7 @@ trip so it's there next time.
 
 | Trip | Dates | Base | Status |
 |---|---|---|---|
+| [[mlk-mas-2027/index\|🎄 MLK-mas]] | Jan 15–18, 2027 | Bermuda **or** Puerto Rico | 🔍 Researching |
 | [[oregon-coast-2026/index\|🌊 Oregon Coast]] | Aug 23–25, 2026 | Manzanita | ✅ Complete |
 
 ## Routes & research
