@@ -96,7 +96,7 @@ as a standalone weekend.
 
 **173 mi · 4 days** · classic gravel and dirt roads through what bikepacking.com calls
 Oregon's most iconic scenery. The biggest of the shortlist and the one to graduate to.
-[Route →](https://bikepacking.com/routes/the-cascade-skyline/)
+[Route →](https://bikepacking.com/routes/cascade-skyline/)
 
 ---
 

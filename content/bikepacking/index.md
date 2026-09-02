@@ -4,10 +4,10 @@ title: Bikepacking
 
 # Oregon Bikepacking Catalogue
 
-![Gravel road in the Oregon high desert](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Steens_Mountain_Loop_Road.jpg/1280px-Steens_Mountain_Loop_Road.jpg)
-*Steens Mountain Loop Road, SE Oregon · Photo: BLM Oregon, public domain*
+![Steens Mountain, east side, SE Oregon](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Steens_Mountain%2C_East_Side_%2833087172153%29.jpg/1280px-Steens_Mountain%2C_East_Side_%2833087172153%29.jpg)
+*Steens Mountain, east side, SE Oregon · Photo: Bureau of Land Management, public domain*
 
-**18 routes**, all with stats and GPX. Sourced from
+**19 routes**, all with stats and GPX. Sourced from
 [bikepacking.com's Oregon route database](https://bikepacking.com/locations/oregon/) —
 follow any route link for the full guide, photos and trip reports.
 
@@ -19,6 +19,7 @@ follow any route link for the full guide, photos and trip reports.
 | 🎚️ **[[by-difficulty\|By difficulty]]** | 1–10 scale: easy through serious |
 | 🗺️ **[[by-region\|By region]]** | Sorted by drive time from Portland |
 | 🚵 **[[by-surface\|By surface]]** | Singletrack-heavy · gravel · mixed |
+| 🗓️ **[[long-weekend-routes\|Long weekend]]** | 1–3 days · **Washington + eastern Oregon** |
 
 ---
 
@@ -48,7 +49,7 @@ these — including why the Lower Deschutes is a spring/fall route, not a summer
 
 ## Everything
 
-All 18 routes, shortest first.
+All 19 routes, shortest first.
 
 | Route | Mi | Days | Diff | Unpaved | ST | Region | Drive | GPX |
 |---|---|---|---|---|---|---|---|---|
@@ -59,6 +60,7 @@ All 18 routes, shortest first.
 | [[routes/lower-deschutes-roller-overnighter\|Lower Deschutes Roller Overnighter]] | 119 | 2 | 6 | 52% | 0% | North-central | 1h45m | [⬇](https://bikepacking.com/wp-content/uploads/2025/05/Lower-Deschutes-Roller-Overnighter-bikepacking-route.gpx) |
 | [[routes/anaxshat-passage\|The Anaxshat Passage - Oregon Timber Trail’s Hood Tier Loop]] | 120 | 3-4 | 3 | 53% | 13% | Mt Hood | 1h30m | — |
 | [[routes/central-oregon-backcountry-explorer\|Central Oregon Backcountry Explorer]] | 152 | 3-5 | 6 | 60% | 0% | Central / Prineville | 3h | [⬇](https://bikepacking.com/wp-content/uploads/2017/01/Bikepacking-Route-Central-Oregon-Backcountry-Explorer.gpx) |
+| [[routes/gunsight-ridge\|Gunsight Ridge - Mount Hood's Finest]] | 154 | 4 | 6 | 75% | — | Mt Hood | 1h30m | [⬇](https://bikepacking.com/wp-content/uploads/2014/09/Bikepacking-Route-Gunsight-Ridge.gpx) |
 | [[routes/cascade-skyline\|The Cascade Skyline, Oregon]] | 173 | 4 | 5 | 75% | 0% | Cascades | 2h30m | [⬇](https://bikepacking.com/wp-content/uploads/2017/09/Bikepacking-Route-Cascade-Skyline-Oregon.gpx) |
 | [[routes/hart-sheldon-hot-springs\|Hart Sheldon Hot Springs Bikepacking Route]] | 241 | 5 | 8 | 80% | 0% | SE Oregon | 6h | [⬇](https://bikepacking.com/wp-content/uploads/2014/09/Bikepacking-Route-Hart-Sheldon-Hot-Springs.gpx) |
 | [[routes/norcal-outback\|Norcal Outback]] | 319 | 6 | 5 | 52% | 0% | South / CA border | 5h | [⬇](https://bikepacking.com/wp-content/uploads/2025/09/Norcal-Outback.gpx) |
@@ -75,6 +77,7 @@ All 18 routes, shortest first.
 
 ## Also here
 
+- [[long-weekend-routes|Long weekend routes]] — Washington and eastern Oregon, everything that fits in 1–3 days. Seven weekend-sized WA routes, the Palouse to Cascades sections, and the Steens Mountain Loop
 - [[more-oregon-routes|More Oregon routes]] — the state's 17 signed Scenic Bikeways, the Oregon Timber Trail broken into its 4 ridable tiers, the long rail trails, and the Adventure Cycling network. Everything not on bikepacking.com
 - [[dirt-routes-2-4-days|Dirt & gravel, 2–4 days]] — the detailed shortlist with hazards and seasons
 - [[beginner-routes-near-portland|Beginner overnights near Portland]] — paved rail-trails, ride from the city
