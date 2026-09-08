@@ -6,144 +6,118 @@ tags:
 
 # MLK-mas 2027
 
-The families' alternate Christmas, over MLK weekend. **Puerto Rico.**
+The families' alternate Christmas. **Four of us, in Puerto Rico.**
+
+> 🟡 **Planning phase: deciding length and dates.** Nothing booked. Two decisions are
+> blocking everything else, both below.
+
+---
+
+## Where we're at
 
 | | |
 |---|---|
-| **Dates** | **Under review.** Long weekend or a full week — [[week-long\|see the week-long version]] |
-| **Destination** | 🇵🇷 **Puerto Rico** — [[puerto-rico\|full page]] |
-| **Party** | 4, flying in from three cities |
-| **Length** | **Possibly a week**, given how far everyone's travelling |
-| **Budget** | Room to go nicer |
-| **Status** | 🔍 Picking dates + lodging — nothing booked |
-
-Three nights. Two full days on the ground once travel is accounted for.
-
-**Bermuda was the other option and is [[bermuda\|ruled out on temperature]]** (66°F sea,
-60–69°F air). The research is kept, not deleted.
+| ✅ **Destination** | **Puerto Rico.** [[bermuda\|Bermuda]] ruled out on temperature |
+| ✅ **Party** | 4 — Kevin, Steve, Nicole, Mom |
+| ✅ **Budget** | Room to go nicer |
+| ❓ **Length** | Long weekend or a full week — **decide first** |
+| ❓ **Dates** | Depends on length and on the bio bay |
+| ❓ **Lodging** | Depends on dates. **Books out fastest** |
+| ⬜ **Flights** | Nobody books until dates are fixed |
+| ⬜ **Activities** | Plenty of time |
 
 ---
 
-## Who's coming from where
+## 🔴 Decision 1 — how long?
 
-| Traveller | From | To San Juan |
+**Everything else waits on this.** Everyone's flying a long way, so a week is genuinely on
+the table.
+
+| | Long weekend | Full week |
 |---|---|---|
-| **Steve & Nicole** | Boston (BOS) | **Nonstop, about 4 hours.** JetBlue runs the route ~64x a week, departures all day |
-| **Mom** | Phoenix (PHX) | **No nonstop.** One stop, 7–8 hours, usually via Dallas, Miami or Atlanta |
-| **Kevin** | Portland (PDX) | **No nonstop.** One stop, under 10 hours, via Atlanta, Dallas or Miami |
+| **Time off** | 0–1 days | 5–6 days |
+| **Real days there** | 2 | 5–6 |
+| **Bio bay** | One night's gamble on the moon | Pick the darkest night in the week |
+| **Fits** | One or two big outings | Everything, plus downtime |
+| **Bases** | One | Two, east then west |
 
-> ℹ️ Assuming the four are Kevin, Steve, Nicole and Mom. Say if there's a fifth and the
-> lodging maths changes.
+**[[week-long|The week-long version →]]** has the shape of it.
 
-### What that means for the Friday
-
-**The arrivals will be badly staggered and it's worth planning around.** Boston is a
-four-hour hop with flights all day, so Steve and Nicole can be on the beach by lunchtime.
-Phoenix and Portland are both connecting all-day journeys, so Kevin and Mom will land
-tired and late.
-
-Three things follow from that:
-
-1. **Don't schedule anything real for Friday evening.** Make it dinner wherever you're
-   staying, or delivery.
-2. **Phoenix and Portland should book the earliest sensible departure.** A late morning
-   connection out of PHX or PDX turns Friday into a full travel day and costs a night.
-3. **Steve and Nicole are the ones who should collect the rental car**, since they land
-   first and with the least travel behind them.
-
-Saturday and Sunday are the real days. Monday is a fly-home day for everyone.
+**Who decides:** everyone, since it's their vacation days.
 
 ---
 
-## Open decisions
+## 🔴 Decision 2 — which dates?
 
-- **Lodging.** Two rooms or one multi-bedroom place. If MLK-mas means presents and a
-  morning together, you want a living room and a kitchen, which means a villa or a
-  residence rather than hotel rooms. Options on the [[puerto-rico\|Puerto Rico page]]
-- **Where to base.** Condado or Old San Juan for walkable, Dorado or Río Grande for
-  resort-quiet. Full comparison on the destination page
-- **Rental car.** Probably one for the group. Not needed inside San Juan, needed for
-  El Yunque
+**Only the bio bay cares about the date.** Everything else works any week.
 
----
+**[[dates|Full analysis →]]**
 
-## ⏳ Long weekend, or a week?
+| If... | Then |
+|---|---|
+| **Week + bio bay matters** | **Mon Feb 8 → Mon Feb 15** ⭐ Two dark nights, ends on Presidents' Day |
+| Weekend + bio bay matters | Feb 5–8 (perfect moon, no holiday) |
+| Bio bay is a nice-to-have | Keep **MLK Jan 15–18**, or Presidents' Day Feb 12–15 |
 
-Everyone's flying a long way, so a week is on the table. **It changes the answer to
-almost everything**, including the dates.
+⚠️ **Avoid the MLK week (Jan 18–25) if it's a week.** The moon runs 84–100% every single
+night. Worst week of the quarter for the bay.
 
-**[[week-long|The week-long version →]]**
-
-Short version: a week only needs **one** dark night for the bio bay rather than gambling
-on a single Saturday, so the moon stops being a constraint. **But a week anchored on MLK
-doesn't fix it** — the moon runs 84–100% across Jan 18–25, with a full moon on Jan 22.
-
-**The week to take is Mon Feb 8 → Mon Feb 15.** Two properly dark nights at the start
-(6% and 12%), it ends on Presidents' Day so it's six days off rather than seven, and it's
-peak humpback season.
-
-A week also means [[culebra|Culebra]], [[mosquito-bay|Mosquito Bay]] and
-[[el-yunque|El Yunque]] stop competing for the same day, and
-[[la-parguera|La Parguera]] — the only bio bay you can swim in — becomes reachable.
+**The one question that settles it: is the bio bay a must-do, or a nice-to-have?**
 
 ---
 
-## 📅 If it stays a long weekend — moon vs holiday
+## 🟡 Decision 3 — lodging (starts once dates are fixed)
 
-Kevin is considering moving the weekend so the **bioluminescent bay** actually works.
-Mosquito Bay only performs on a dark night, so this comes down to moon phase. I ran the
-numbers for every Fri–Mon weekend in early 2027. **Percentage is how lit the moon is on
-the Saturday night.**
+**The real question is one place with a kitchen, or two hotel rooms.** If MLK-mas means
+presents and a morning together, you need a living room, and that rules out hotels.
 
-| Weekend | Moon | Verdict | Holiday? |
-|---|---|---|---|
-| Jan 8–11 | **4%** | ★ excellent | no |
-| **Jan 15–18** | **66%** | **poor** | ✅ **MLK Day** |
-| Jan 22–25 | 99% | bad | no |
-| Jan 29–Feb 1 | 42% | ok | no |
-| **Feb 5–8** | **0%** | ★ **perfect** | no |
-| **Feb 12–15** | **50%** | **ok** | ✅ **Presidents' Day** |
-| Feb 19–22 | 100% | bad | no |
-| Mar 5–8 | 2% | ★ excellent | no |
+**[[lodging|All options, priced →]]**
 
-### What this actually means
+| | / night | |
+|---|---|---|
+| [[palmas-del-mar\|Palmas del Mar villa]] | \$300–600 | Best value. Kitchen, pool |
+| [[condado-vanderbilt\|Condado Vanderbilt]] | \$300–500/room | Walkable, on a beach |
+| [[dorado-beach\|Dorado Beach]] | \$1,700–2,100 | The splurge |
+| [[el-convento\|El Convento]] | \$250–400/room | Old city, no beach |
 
-**You can have the holiday Monday, or you can have a dark bay. Not both.**
-
-- **Keep MLK (Jan 15–18):** 66% moon. The bay will be dim. Everything else about the trip
-  is unaffected, and nobody burns a vacation day.
-- **Move to Presidents' Day (Feb 12–15):** 50% moon, still a **three-day weekend**, and
-  it's **peak whale season off Rincón**. This is the best compromise by some distance and
-  it costs nobody a day off.
-- **Move to Feb 5–8:** **0% moon, a genuine new moon.** The bay at its absolute best. But
-  it's an ordinary weekend, so everyone burns the Monday.
-
-**My read: Presidents' Day.** You keep the free Monday, the bay is workable rather than
-washed out, February is drier, and the humpbacks are in. Going all the way to Feb 5–8 buys
-you a better bay at the cost of four vacation days across the group, which only makes
-sense if the bio bay is the reason for the trip.
-
-Worth asking the group directly: **is the bio bay a must-do, or a nice-to-have?** The
-answer picks the weekend.
+⏰ **This is the time-sensitive one.** Peak season, holiday weekend, four people. Good
+villas go first, and **[[vieques|Vieques]] has very few places at all** — book that before
+anything else if a bio bay night is happening.
 
 ---
 
-## ⚠️ Book lodging early either way
+## ✈️ Travellers and arrivals
 
-Whichever weekend wins, mid-January and February are peak season in Puerto Rico and this
-is a four-person booking. The good villas and two-bedroom suites go first. Vieques in
-particular has very few decent places, so **if a bio bay night is happening, book that
-before anything else.**
+| Who | From | To San Juan |
+|---|---|---|
+| **Steve & Nicole** | Boston | **Nonstop, ~4 hrs.** JetBlue, ~64 flights a week |
+| **Mom** | Phoenix | One stop, 7–8 hrs, via DFW / MIA / ATL |
+| **Kevin** | Portland | One stop, under 10 hrs, via ATL / DFW / MIA |
+
+**Arrivals will be badly staggered.** Boston is a short hop; Phoenix and Portland are
+all-day connecting journeys.
+
+1. **Keep the first evening empty.** Kevin and Mom will land late and wrecked
+2. **Phoenix and Portland: book the earliest sensible departure**, or day one is gone
+3. **Steve and Nicole take the rental car**, since they land first and freshest
+
+---
+
+## What we need from the group
+
+1. **Can you take the week?** That unblocks everything
+2. **Is the bio bay a must-do?** That picks the dates
+3. **One house together, or separate rooms?**
 
 ---
 
 ## Pages
 
-**Planning:** [[week-long\|The week-long version]] · [[lodging\|Lodging]]
+**Planning:** [[dates\|Dates]] · [[week-long\|The week-long version]] · [[lodging\|Lodging]]
 
 **Destination:** [[puerto-rico\|🇵🇷 Puerto Rico]] (hub) · [[bermuda\|🇧🇲 Bermuda]] (ruled out)
 
-**Lodging:** [[lodging\|All options]] · [[dorado-beach\|Dorado Beach]] · [[palmas-del-mar\|Palmas del Mar]] · [[condado-vanderbilt\|Condado Vanderbilt]] · [[el-convento\|El Convento]]
+**Stay:** [[dorado-beach\|Dorado Beach]] · [[palmas-del-mar\|Palmas del Mar]] · [[condado-vanderbilt\|Condado Vanderbilt]] · [[el-convento\|El Convento]]
 
 **Bio bays:** [[bio-bays\|Compare all three]] · [[mosquito-bay\|Mosquito Bay]] · [[laguna-grande\|Laguna Grande]] · [[la-parguera\|La Parguera]]
 
