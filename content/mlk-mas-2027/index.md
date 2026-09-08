@@ -115,8 +115,13 @@ before anything else.**
 
 ---
 
-## Related
+## Pages
 
-- [[puerto-rico\|🇵🇷 Puerto Rico]] — lodging, places to go, getting around
-- [[bermuda\|🇧🇲 Bermuda]] — ruled out, research kept
+**Destination:** [[puerto-rico\|🇵🇷 Puerto Rico]] (hub) · [[bermuda\|🇧🇲 Bermuda]] (ruled out)
+
+**Lodging:** [[lodging\|All options]] · [[dorado-beach\|Dorado Beach]] · [[palmas-del-mar\|Palmas del Mar]] · [[condado-vanderbilt\|Condado Vanderbilt]] · [[el-convento\|El Convento]]
+
+**Places:** [[mosquito-bay\|Mosquito Bay]] · [[vieques\|Vieques]] · [[old-san-juan\|Old San Juan]] · [[el-yunque\|El Yunque]] · [[culebra\|Culebra]] · [[rincon\|Rincón]] · [[guavate\|Guavate]]
+
+## Related
 - [[../index\|Travel wiki home]]
