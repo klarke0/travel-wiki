@@ -10,11 +10,11 @@ The families' alternate Christmas, over MLK weekend. **Puerto Rico.**
 
 | | |
 |---|---|
-| **Dates** | **Fri Jan 15 – Mon Jan 18, 2027** (MLK Day is Mon Jan 18) |
+| **Dates** | **Under review.** MLK Jan 15–18, or move for the bio bay — [see below](#-the-date-question--moon-vs-holiday) |
 | **Destination** | 🇵🇷 **Puerto Rico** — [[puerto-rico\|full page]] |
 | **Party** | 4, flying in from three cities |
 | **Budget** | Room to go nicer |
-| **Status** | 🔍 Researching lodging — nothing booked |
+| **Status** | 🔍 Picking dates + lodging — nothing booked |
 
 Three nights. Two full days on the ground once travel is accounted for.
 
@@ -66,18 +66,54 @@ Saturday and Sunday are the real days. Monday is a fly-home day for everyone.
 
 ---
 
-## ⚠️ Two things that are time-sensitive
+## 📅 The date question — moon vs holiday
 
-**Book lodging now.** Mid-January is peak season in Puerto Rico and this is a
-four-person booking over a US holiday weekend. The good villas and two-bedroom suites go
-first.
+Kevin is considering moving the weekend so the **bioluminescent bay** actually works.
+Mosquito Bay only performs on a dark night, so this comes down to moon phase. I ran the
+numbers for every Fri–Mon weekend in early 2027. **Percentage is how lit the moon is on
+the Saturday night.**
 
-**The bio bay will be poor that weekend.** Mosquito Bay on Vieques is the brightest
-bioluminescent bay in the world and only works on a dark night. New moon is **Jan 7**,
-full moon is **Jan 22**, so **Jan 15–18 lands at roughly 60–85% illuminated**. Close to
-the worst timing in the month. Tours run anyway, they're just much dimmer. If the bio bay
-is a must-do for anyone, that's an argument for moving the weekend rather than picking a
-different tour.
+| Weekend | Moon | Verdict | Holiday? |
+|---|---|---|---|
+| Jan 8–11 | **4%** | ★ excellent | no |
+| **Jan 15–18** | **66%** | **poor** | ✅ **MLK Day** |
+| Jan 22–25 | 99% | bad | no |
+| Jan 29–Feb 1 | 42% | ok | no |
+| **Feb 5–8** | **0%** | ★ **perfect** | no |
+| **Feb 12–15** | **50%** | **ok** | ✅ **Presidents' Day** |
+| Feb 19–22 | 100% | bad | no |
+| Mar 5–8 | 2% | ★ excellent | no |
+
+### What this actually means
+
+**You can have the holiday Monday, or you can have a dark bay. Not both.**
+
+- **Keep MLK (Jan 15–18):** 66% moon. The bay will be dim. Everything else about the trip
+  is unaffected, and nobody burns a vacation day.
+- **Move to Presidents' Day (Feb 12–15):** 50% moon, still a **three-day weekend**, and
+  it's **peak whale season off Rincón**. This is the best compromise by some distance and
+  it costs nobody a day off.
+- **Move to Feb 5–8:** **0% moon, a genuine new moon.** The bay at its absolute best. But
+  it's an ordinary weekend, so everyone burns the Monday.
+
+**My read: Presidents' Day.** You keep the free Monday, the bay is workable rather than
+washed out, February is drier, and the humpbacks are in. Going all the way to Feb 5–8 buys
+you a better bay at the cost of four vacation days across the group, which only makes
+sense if the bio bay is the reason for the trip.
+
+Worth asking the group directly: **is the bio bay a must-do, or a nice-to-have?** The
+answer picks the weekend.
+
+---
+
+## ⚠️ Book lodging early either way
+
+Whichever weekend wins, mid-January and February are peak season in Puerto Rico and this
+is a four-person booking. The good villas and two-bedroom suites go first. Vieques in
+particular has very few decent places, so **if a bio bay night is happening, book that
+before anything else.**
+
+---
 
 ## Related
 

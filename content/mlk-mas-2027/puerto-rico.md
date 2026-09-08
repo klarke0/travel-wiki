@@ -35,35 +35,51 @@ point is to sit still somewhere nice.
 
 ---
 
-## Lodging for four
+## Lodging — 4 people
 
-Two shapes to choose between: **two hotel rooms** or **one two-bedroom unit**. If
-MLK-mas means presents and a morning together, you want a living room and a kitchen,
-which pushes toward a villa or a residence rather than hotel rooms.
+Everything below sleeps **four**. Prices are **ballpark nightly rates found in 2026** and
+are there to show you the tiers, not to be quoted at anyone. **January is peak season on
+a holiday weekend, so assume the top of each range or above.**
 
-### The nicer end
+### Option A — one place, kitchen, everyone together
 
-| Property | Where | Why |
+Best if MLK-mas means presents and a morning in pyjamas.
+
+| Property | Where | Size | Ballpark / night | |
+|---|---|---|---|---|
+| **Dorado Beach, a Ritz-Carlton Reserve** — Residences | Dorado, 40 min from SJU | **2 bed**, full kitchen | **\$1,700–2,100** | [link](https://www.ritzcarlton.com/en/hotels/sjudo-dorado-beach-a-ritz-carlton-reserve/rooms/residences/) |
+| **Four Seasons Resort & Residences** | Bahía Beach, Río Grande, 30 min | 1–3 bed residences | **\$1,200+** est. | [link](https://www.fourseasons.com/puertorico/) |
+| **Palmas del Mar villas** | Humacao, ~1 hr east | 2–3 bed, kitchen, pool | **\$300–600** | [Vrbo](https://www.vrbo.com/vacation-rentals/puerto-rico/palmas-del-mar) |
+| **Old San Juan apartment** | Old San Juan | 2 bed in a colonial building | **\$250–450** | [Airbnb](https://www.airbnb.com/old-san-juan-puerto-rico/stays) |
+
+**Dorado is the splurge.** 50 acres of the old Rockefeller estate, butler service, three
+golf courses. At \$1,700–2,100 a night it's roughly \$425–525 per person per night for
+four, which is the honest way to look at it.
+
+**Palmas del Mar is the value play.** A private villa with a kitchen and a pool for less
+than two hotel rooms cost, and you get a car anyway.
+
+### Option B — two rooms, someone else cooks
+
+| Property | Where | Ballpark / night (per room) | |
+|---|---|---|---|
+| **Condado Vanderbilt** | Condado, San Juan | **\$300–500**, avg around \$415 | [link](https://www.condadovanderbilt.com/) |
+| **Hotel El Convento** | Old San Juan | **\$250–400** | [link](https://elconvento.com/) |
+| **El San Juan Hotel** | Isla Verde, 10 min from SJU | **\$250–400** | [link](https://www.marriott.com/hotels/travel/sjupr-fairmont-el-san-juan-hotel/) |
+
+Two rooms at the Vanderbilt lands around **\$600–1,000 a night for the group**, so it's
+comparable to a villa but with a beach, a bar and no washing up. **El Convento has no
+beach at all**, it's a 350-year-old convent inside the old city, and that's the point.
+
+### If you chase the bio bay — a night on Vieques
+
+| Property | Ballpark / night | |
 |---|---|---|
-| **Dorado Beach, a Ritz-Carlton Reserve** | Dorado | Top of the island. 50 acres of the old Rockefeller estate, butler service, three golf courses, indoor-outdoor rainforest showers. The splurge option |
-| **Four Seasons Resort and Residences Puerto Rico** | Bahía Beach, Río Grande | **This was the St. Regis Bahia Beach** — Four Seasons took over and reopened it late 2025. 483 acres, two miles of beach, El Yunque behind it. Has residences, so a real multi-bedroom option |
-| **Condado Vanderbilt** | Condado, San Juan | 1919 landmark, suites, and you can walk out to dinner. Best mix of nice and convenient |
-| **Hotel El Convento** | Old San Juan | A 350-year-old convent inside the old city. No beach at all — this is the "we came for the place, not the pool" pick |
-| **Royal Isabela** | Isabela, NW coast | Casitas on cliffs, golf. Genuinely remote, ~2h from SJU |
+| **El Blok** | **~\$280** | [link](https://elblok.com/) |
+| **Finca Victoria** | **~\$330** | [link](https://www.lafinca.com/) |
 
-### Worth pricing as an alternative
-
-- **Residences and villas at Dorado Beach** — the way to get Ritz service with bedrooms
-  and a kitchen.
-- **Palmas del Mar**, Humacao — a big residential resort community on the east coast,
-  lots of privately-rented two- and three-bedroom villas. Usually much better value per
-  head than a resort suite, and you get a kitchen.
-- **Old San Juan apartments** — whole colonial-building flats sleeping four. Cheapest
-  route to "nicer" if nicer means *characterful* rather than *serviced*.
-
-> Nothing above is priced. Rates over a peak-season holiday weekend move a lot and
-> anything I quoted now would be wrong by the time you book. Worth pulling live rates on
-> the top three as the next step.
+Vieques is small, the good places are few, and they fill early. If a bio bay night is the
+plan, book this before anything else.
 
 ---
 
@@ -97,51 +113,67 @@ base in San Juan, purely because it makes El Yunque a decision rather than a pro
 
 ---
 
-## Places to go
+## Things to do — with numbers
+
+Ordered roughly by how much of a day each one eats.
+
+| | Time | Cost | Where |
+|---|---|---|---|
+| **Old San Juan + the forts** | Half day | Small NPS fee | In town |
+| **El Yunque rainforest** | Half to full day | Free or a timed-entry fee, see below | 45 min from San Juan |
+| **Mosquito Bay bio bay** | Evening + travel | **\$65 pp** kayak from Vieques, **~\$125 pp** with transport from San Juan | Vieques |
+| **Culebra / Flamenco Beach** | Full day | Ferry cheap, flights not | Off the east coast |
+| **Whale watching** | Full day | Tour pricing varies | Rincón, 2h15m west |
+| **Guavate, the Pork Highway** | Half day | Cheap | 45 min south |
 
 ### Old San Juan
-**El Morro** and **San Cristóbal**, the two Spanish forts, are the headline and are both
-walkable from the old city. Add the **Paseo de la Princesa** along the wall. Half a day,
-easily a full one if you eat your way through it.
+**El Morro** and **San Cristóbal**, the two Spanish forts, both walkable from the old
+city, plus the **Paseo de la Princesa** along the wall. Easy half day, easily a full one
+if you eat your way through it. This is the one thing everyone will enjoy.
 
-### El Yunque National Forest
-The only tropical rainforest in the US Forest System, about 45 minutes from San Juan.
-Waterfalls, short trails, swimming holes.
+### El Yunque
+The only tropical rainforest in the US Forest System. Waterfalls, short trails, swimming
+holes.
 
-> ⚠️ **Check the reservation rules before you go.** Entry to the PR-191 corridor has
-> required a timed reservation through Recreation.gov, booked in advance, but the Forest
-> Service has also published that the corridor is free with no reservation. The guidance
-> is genuinely contradictory right now. Verify on recreation.gov close to the date —
-> turning up without a reservation when one is required means being turned around.
+> ⚠️ **Check the entry rules before you go.** Recreation.gov has required a timed
+> reservation for the PR-191 corridor, but the Forest Service has also published that the
+> corridor is free with no reservation needed. The guidance genuinely contradicts itself
+> right now. Verify close to the date, because turning up without one when it's required
+> means being turned around.
+> [recreation.gov](https://www.recreation.gov/ticket/facility/300017)
 
-### Culebra and Vieques
-Day-trip islands off the east coast. **Flamenco Beach** on Culebra is regularly called
-one of the best beaches anywhere. Reachable by ferry from Ceiba or a short flight; the
-ferry is cheap and unreliable, the flight is neither.
+### Mosquito Bay, Vieques
+**The brightest bioluminescent bay in the world.** You can only go with a licensed
+operator, tours leave from Esperanza, and it's kayak or canoe.
 
-### The bioluminescent bay — bad timing this particular weekend
-**Mosquito Bay on Vieques is the brightest bio bay in the world** and is normally the
-first thing anyone recommends. It only really works on a dark night.
+**\$65 per person** for a 1–2 hour tour from Vieques. **Around \$125 per person** if you
+book one that includes round-trip transport from San Juan.
 
-**New moon is Jan 7 and full moon is Jan 22, so Jan 15–18 sits at roughly 60–85%
-illuminated.** That's near the worst window in the month. Tours still run and you'll
-still see it; it'll be dimmer than the pictures that sold you on it. **Laguna Grande** in
-Fajardo is the easier, closer alternative and has the same problem.
+**It only works on a dark night, which is the whole date problem.** See the
+[[index|dashboard]] for which weekends actually work.
 
-If this is the reason someone wants Puerto Rico, it's worth knowing before the flights
-are booked.
+[Tour operator](https://mosquitobiobaytours.com/) · [Vieques tours](https://www.viequesisland.com/tours)
 
-### Whale watching — genuinely a January thing
-Humpbacks are off the **west coast around Rincón from January through March**, peaking in
-February. Mid-January is early in the run but inside it. It's ~2h15m from San Juan, so
-it's a day committed to driving, or a reason to base west instead.
+### Culebra and Flamenco Beach
+Regularly called one of the best beaches anywhere. Ferry from **Ceiba** is cheap and
+unreliable; the short flight is neither. A full day either way.
 
-### Food
-**Guavate** on the Pork Highway for lechón, roadside and worth the drive. Mofongo
-everywhere. San Juan has a serious restaurant scene now, so book anything good over a
-holiday weekend.
+### Whale watching, Rincón
+**Humpbacks are off the west coast January through March**, peaking in February. This is
+a genuinely seasonal thing you can't do most of the year. It's 2h15m from San Juan, so
+it's a committed day, or a reason to base west for a night.
+
+### Guavate — the Pork Highway
+Roadside lechón, 45 minutes south of San Juan. Worth the drive, cheap, and the most
+Puerto Rican thing on this list.
 
 ---
+
+## Keeping this page useful
+
+This is a living document. **Cull anything the group rules out** rather than leaving it
+to clutter the page, and move confirmed bookings to the top. Prices are 2026 ballparks
+and should be replaced with real quotes as they come in.
 
 ## Related
 
