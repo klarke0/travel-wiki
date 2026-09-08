@@ -121,7 +121,11 @@ before anything else.**
 
 **Lodging:** [[lodging\|All options]] · [[dorado-beach\|Dorado Beach]] · [[palmas-del-mar\|Palmas del Mar]] · [[condado-vanderbilt\|Condado Vanderbilt]] · [[el-convento\|El Convento]]
 
-**Places:** [[mosquito-bay\|Mosquito Bay]] · [[vieques\|Vieques]] · [[old-san-juan\|Old San Juan]] · [[el-yunque\|El Yunque]] · [[culebra\|Culebra]] · [[rincon\|Rincón]] · [[guavate\|Guavate]]
+**Bio bays:** [[bio-bays\|Compare all three]] · [[mosquito-bay\|Mosquito Bay]] · [[laguna-grande\|Laguna Grande]] · [[la-parguera\|La Parguera]]
+
+**Areas:** [[old-san-juan\|Old San Juan]] · [[condado\|Condado & Isla Verde]] · [[luquillo\|Luquillo]] · [[fajardo\|Fajardo]] · [[vieques\|Vieques]] · [[culebra\|Culebra]] · [[rincon\|Rincón]]
+
+**Also:** [[el-yunque\|El Yunque]] · [[guavate\|Guavate]]
 
 ## Related
 - [[../index\|Travel wiki home]]

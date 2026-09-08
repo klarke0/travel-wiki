@@ -30,18 +30,47 @@ The real question is one place with a kitchen versus two hotel rooms.
 
 ## 🗺 Places and things
 
+### 🌊 Bioluminescent bays
+
+**[[bio-bays|There are three, and they're not interchangeable →]]**
+
+| | Brightness | Swim? | From San Juan |
+|---|---|---|---|
+| [[mosquito-bay\|Mosquito Bay]], Vieques | ★★★ brightest in the world | ❌ | Ferry + taxi |
+| [[laguna-grande\|Laguna Grande]], Fajardo | ★★ | ❌ | **~1 hr drive** |
+| [[la-parguera\|La Parguera]], Lajas | ★ | ✅ **only one you can swim** | ~3 hrs |
+
+### 🏝 Areas and islands
+
+| | What's there |
+|---|---|
+| **[[old-san-juan\|Old San Juan]]** | Two forts, Calle Fortaleza, San Sebastián at night, the cathedral, Casa Bacardí across the bay |
+| **[[condado\|Condado & Isla Verde]]** | City beaches, Ashford Ave, the lagoon for paddleboarding, walkable dinner |
+| **[[luquillo\|Luquillo]]** | **60+ food kiosks**, calm beach, La Pared surf break |
+| **[[fajardo\|Fajardo]]** | Seven Seas beach, Cabezas de San Juan reserve, the ferries |
+| **[[vieques\|Vieques]]** | The bio bay, black sand at Playa Negra, wild horses, refuge beaches |
+| **[[culebra\|Culebra]]** | Flamenco Beach, the rusting tanks, Tamarindo snorkelling, Culebrita |
+| **[[rincon\|Rincón]]** | Surf, and **humpback whales Jan–Mar** |
+
+### 🎯 Single things
+
 | | Time | Cost |
 |---|---|---|
-| **[[mosquito-bay\|🌊 Mosquito Bay]]** — brightest bio bay in the world | Evening | \$65–125 pp |
-| [[old-san-juan\|🏰 Old San Juan]] — the forts and the walled city | Half day | Small fee |
 | [[el-yunque\|🌴 El Yunque]] — the rainforest | Half–full day | Free or timed entry |
-| [[culebra\|🏖 Culebra]] — Flamenco Beach | Full day | Ferry or flight |
-| [[rincon\|🐋 Rincón]] — humpback whales, Jan–Mar | Full day | Tour |
 | [[guavate\|🐖 Guavate]] — the Pork Highway | Half day | Cheap |
 
-**On a three-night trip you get two, maybe three of these.** [[mosquito-bay|Mosquito Bay]],
-[[culebra|Culebra]] and [[el-yunque|El Yunque]] each eat most of a day and pull in
-different directions, so they compete rather than combine.
+### Two pairings that work
+
+- **[[el-yunque|El Yunque]] in the morning, [[luquillo|Luquillo]] kiosks in the
+  afternoon.** Fifteen minutes apart, and the classic day out here.
+- **[[fajardo|Fajardo]] beach by day, [[laguna-grande|Laguna Grande]] bio bay after
+  dark.** Same corner of the island, no ferry.
+
+### And one that doesn't
+
+**[[mosquito-bay|Mosquito Bay]], [[culebra|Culebra]] and [[el-yunque|El Yunque]] each eat
+most of a day and pull in different directions.** On three nights you get one or two, not
+all three. Pick early.
 
 ---
 
