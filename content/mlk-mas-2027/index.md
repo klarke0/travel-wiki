@@ -10,9 +10,10 @@ The families' alternate Christmas, over MLK weekend. **Puerto Rico.**
 
 | | |
 |---|---|
-| **Dates** | **Under review.** MLK Jan 15–18, or move for the bio bay — [see below](#-the-date-question--moon-vs-holiday) |
+| **Dates** | **Under review.** Long weekend or a full week — [[week-long\|see the week-long version]] |
 | **Destination** | 🇵🇷 **Puerto Rico** — [[puerto-rico\|full page]] |
 | **Party** | 4, flying in from three cities |
+| **Length** | **Possibly a week**, given how far everyone's travelling |
 | **Budget** | Room to go nicer |
 | **Status** | 🔍 Picking dates + lodging — nothing booked |
 
@@ -66,7 +67,28 @@ Saturday and Sunday are the real days. Monday is a fly-home day for everyone.
 
 ---
 
-## 📅 The date question — moon vs holiday
+## ⏳ Long weekend, or a week?
+
+Everyone's flying a long way, so a week is on the table. **It changes the answer to
+almost everything**, including the dates.
+
+**[[week-long|The week-long version →]]**
+
+Short version: a week only needs **one** dark night for the bio bay rather than gambling
+on a single Saturday, so the moon stops being a constraint. **But a week anchored on MLK
+doesn't fix it** — the moon runs 84–100% across Jan 18–25, with a full moon on Jan 22.
+
+**The week to take is Mon Feb 8 → Mon Feb 15.** Two properly dark nights at the start
+(6% and 12%), it ends on Presidents' Day so it's six days off rather than seven, and it's
+peak humpback season.
+
+A week also means [[culebra|Culebra]], [[mosquito-bay|Mosquito Bay]] and
+[[el-yunque|El Yunque]] stop competing for the same day, and
+[[la-parguera|La Parguera]] — the only bio bay you can swim in — becomes reachable.
+
+---
+
+## 📅 If it stays a long weekend — moon vs holiday
 
 Kevin is considering moving the weekend so the **bioluminescent bay** actually works.
 Mosquito Bay only performs on a dark night, so this comes down to moon phase. I ran the
@@ -116,6 +138,8 @@ before anything else.**
 ---
 
 ## Pages
+
+**Planning:** [[week-long\|The week-long version]] · [[lodging\|Lodging]]
 
 **Destination:** [[puerto-rico\|🇵🇷 Puerto Rico]] (hub) · [[bermuda\|🇧🇲 Bermuda]] (ruled out)
 
