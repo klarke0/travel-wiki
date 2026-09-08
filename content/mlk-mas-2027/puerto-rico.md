@@ -69,10 +69,17 @@ which pushes toward a villa or a residence rather than hotel rooms.
 
 ## Getting there and getting around
 
-**Flights.** No nonstop from Portland. One stop, usually through Atlanta, Dallas or
-Miami, and **total travel time generally comes in under 10 hours**. That is the single
-clearest practical advantage over Bermuda, which runs 10 to 17 hours each way on a
-schedule that only operates a few days a week in January.
+**Flights, by who's flying.** Three origins, three very different journeys.
+
+| From | Route | Time |
+|---|---|---|
+| **Boston** (Steve & Nicole) | **Nonstop.** JetBlue owns the route, ~64 flights a week, departures spread across the day | **~4 hours** |
+| **Phoenix** (Mom) | One stop, usually Dallas, Miami or Atlanta | 7–8 hours |
+| **Portland** (Kevin) | One stop, usually Atlanta, Dallas or Miami | Under 10 hours |
+
+Boston is the easy one by a distance. Phoenix and Portland are both all-day connecting
+journeys, so **the group will not arrive together** and Friday evening should stay empty.
+More on that on the [[index|dashboard]].
 
 No passport needed, US phone plans work, US dollars, and SJU is a normal busy US airport
 rather than a small island one.

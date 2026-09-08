@@ -7,6 +7,14 @@ tags:
 
 # Bermuda
 
+> ## ❌ Ruled out — 2026-09-08
+> **Kevin ruled Bermuda out on temperature.** A 66°F sea and 60–69°F air doesn't work for
+> what this trip is. Research kept in full below rather than deleted, because the flight
+> and transport findings apply any time Bermuda comes up again, and because the reasons
+> it was ruled out are worth being able to check later.
+>
+> The trip is going to **[[puerto-rico|Puerto Rico]]**.
+
 Bermuda in January is not the Bermuda on the postcard, and it's better to know that
 going in than to find out on arrival.
 

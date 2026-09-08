@@ -6,84 +6,81 @@ tags:
 
 # MLK-mas 2027
 
-The families' alternate Christmas, over MLK weekend. **Bermuda or Puerto Rico.**
+The families' alternate Christmas, over MLK weekend. **Puerto Rico.**
 
 | | |
 |---|---|
 | **Dates** | **Fri Jan 15 – Mon Jan 18, 2027** (MLK Day is Mon Jan 18) |
-| **Party** | 4 |
+| **Destination** | 🇵🇷 **Puerto Rico** — [[puerto-rico\|full page]] |
+| **Party** | 4, flying in from three cities |
 | **Budget** | Room to go nicer |
-| **Status** | 🔍 Researching — nothing booked, destination not picked |
+| **Status** | 🔍 Researching lodging — nothing booked |
 
-Three nights if you fly out Friday and back Monday. Realistically two full days on the
-ground, which matters a lot for how far you're willing to fly.
+Three nights. Two full days on the ground once travel is accounted for.
 
----
-
-## The short version
-
-**Puerto Rico is the better trip, and it isn't close.** Two reasons, both about January
-specifically:
-
-1. **Water temperature.** Puerto Rico sits at about **82°F air, 81°F water** in January,
-   and it's one of the driest months. Bermuda is **60–69°F air with 66°F sea** —
-   too cold to swim without a wetsuit. Bermuda's beaches are the reason to go to Bermuda,
-   and in January you can look at them but not really use them.
-2. **Travel time.** There are **no direct flights from PDX to Bermuda**, and the routing
-   through east coast hubs runs **10 to 17 hours each way**. On a three-night trip that's
-   most of two days gone. Puerto Rico is one stop and generally under 10 hours.
-3. **Bermuda's winter flight schedule is thin.** Most gateways run two to five days a
-   week in January. **Boston is the only one that supports flying out Friday and back
-   Monday**, so the whole trip hinges on one leg being available.
-4. **You cannot rent a car in Bermuda.** Non-residents aren't allowed to drive
-   four-wheeled vehicles at all. The visitor rental, a Renault Twizy, seats **two**, so
-   four people need two of them. Realistically it's buses, ferries and taxis.
-
-Bermuda is still a good trip in January if you reframe it — forts, caves, the Railway
-Trail, St George's, and restaurants with nobody in them. It's just not a beach weekend,
-and off-season rates reflect that. Full write-up on both pages either way.
+**Bermuda was the other option and is [[bermuda\|ruled out on temperature]]** (66°F sea,
+60–69°F air). The research is kept, not deleted.
 
 ---
 
-## The two options
+## Who's coming from where
 
-| | [[puerto-rico\|🇵🇷 Puerto Rico]] | [[bermuda\|🇧🇲 Bermuda]] |
+| Traveller | From | To San Juan |
 |---|---|---|
-| **January air** | 82°F day / 72°F night | 60–69°F |
-| **January sea** | **81°F — swimmable** | **66°F — not** |
-| **Rain** | One of the driest months | Wetter, windier |
-| **Flights from PDX** | One stop, **under 10h total** | **No direct; 10–17h each way** |
-| **Flight frequency** | Daily, many routings | **A few days a week in Jan.** Boston is the only gateway that fits Fri→Mon |
-| **Getting around** | Rent a car, or don't bother in San Juan | **Tourists cannot rent cars.** Buses, ferries, taxis, or a 2-seat Twizy |
-| **Season** | Peak. Book early | Off season. Cheaper, quieter |
-| **Passport** | Not needed (US) | **Needed** |
-| **Best for** | Beach, swimming, rainforest, islands | Walking, history, food, empty beaches |
+| **Steve & Nicole** | Boston (BOS) | **Nonstop, about 4 hours.** JetBlue runs the route ~64x a week, departures all day |
+| **Mom** | Phoenix (PHX) | **No nonstop.** One stop, 7–8 hours, usually via Dallas, Miami or Atlanta |
+| **Kevin** | Portland (PDX) | **No nonstop.** One stop, under 10 hours, via Atlanta, Dallas or Miami |
+
+> ℹ️ Assuming the four are Kevin, Steve, Nicole and Mom. Say if there's a fifth and the
+> lodging maths changes.
+
+### What that means for the Friday
+
+**The arrivals will be badly staggered and it's worth planning around.** Boston is a
+four-hour hop with flights all day, so Steve and Nicole can be on the beach by lunchtime.
+Phoenix and Portland are both connecting all-day journeys, so Kevin and Mom will land
+tired and late.
+
+Three things follow from that:
+
+1. **Don't schedule anything real for Friday evening.** Make it dinner wherever you're
+   staying, or delivery.
+2. **Phoenix and Portland should book the earliest sensible departure.** A late morning
+   connection out of PHX or PDX turns Friday into a full travel day and costs a night.
+3. **Steve and Nicole are the ones who should collect the rental car**, since they land
+   first and with the least travel behind them.
+
+Saturday and Sunday are the real days. Monday is a fly-home day for everyone.
+
+---
+
+## Open decisions
+
+- **Lodging.** Two rooms or one multi-bedroom place. If MLK-mas means presents and a
+  morning together, you want a living room and a kitchen, which means a villa or a
+  residence rather than hotel rooms. Options on the [[puerto-rico\|Puerto Rico page]]
+- **Where to base.** Condado or Old San Juan for walkable, Dorado or Río Grande for
+  resort-quiet. Full comparison on the destination page
+- **Rental car.** Probably one for the group. Not needed inside San Juan, needed for
+  El Yunque
 
 ---
 
 ## ⚠️ Two things that are time-sensitive
 
-**The bio bay won't be good that weekend.** Mosquito Bay on Vieques is the brightest
-bioluminescent bay in the world and it's usually the headline Puerto Rico activity. It
-only works on a dark night. New moon is **Jan 7**, full moon is **Jan 22** — so
-**Jan 15–18 lands on a waxing gibbous, roughly 60–85% lit**, close to the worst timing in
-the month. Tours run anyway; they're much dimmer. If the bio bay is a must-do, that's an
-argument for moving the weekend, not for picking a different tour.
+**Book lodging now.** Mid-January is peak season in Puerto Rico and this is a
+four-person booking over a US holiday weekend. The good villas and two-bedroom suites go
+first.
 
-**January is peak season in Puerto Rico**, and this is a four-person booking over a US
-holiday weekend. The good villas and two-bedroom suites go first. If Puerto Rico is the
-pick, booking is the urgent part, not the planning.
-
----
-
-## Open questions
-
-- Bermuda or Puerto Rico
-- Whose house is hosting the Christmas part of it, and does that need a kitchen and a
-  living room, i.e. **villa rather than hotel rooms**
-- Two hotel rooms or one two-bedroom unit
-- Is anyone in the group set on swimming
+**The bio bay will be poor that weekend.** Mosquito Bay on Vieques is the brightest
+bioluminescent bay in the world and only works on a dark night. New moon is **Jan 7**,
+full moon is **Jan 22**, so **Jan 15–18 lands at roughly 60–85% illuminated**. Close to
+the worst timing in the month. Tours run anyway, they're just much dimmer. If the bio bay
+is a must-do for anyone, that's an argument for moving the weekend rather than picking a
+different tour.
 
 ## Related
 
+- [[puerto-rico\|🇵🇷 Puerto Rico]] — lodging, places to go, getting around
+- [[bermuda\|🇧🇲 Bermuda]] — ruled out, research kept
 - [[../index\|Travel wiki home]]
