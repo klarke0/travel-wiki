@@ -31,7 +31,13 @@ specifically:
    and in January you can look at them but not really use them.
 2. **Travel time.** There are **no direct flights from PDX to Bermuda**, and the routing
    through east coast hubs runs **10 to 17 hours each way**. On a three-night trip that's
-   most of two days gone. Puerto Rico is one stop and materially shorter.
+   most of two days gone. Puerto Rico is one stop and generally under 10 hours.
+3. **Bermuda's winter flight schedule is thin.** Most gateways run two to five days a
+   week in January. **Boston is the only one that supports flying out Friday and back
+   Monday**, so the whole trip hinges on one leg being available.
+4. **You cannot rent a car in Bermuda.** Non-residents aren't allowed to drive
+   four-wheeled vehicles at all. The visitor rental, a Renault Twizy, seats **two**, so
+   four people need two of them. Realistically it's buses, ferries and taxis.
 
 Bermuda is still a good trip in January if you reframe it — forts, caves, the Railway
 Trail, St George's, and restaurants with nobody in them. It's just not a beach weekend,
@@ -46,7 +52,9 @@ and off-season rates reflect that. Full write-up on both pages either way.
 | **January air** | 82°F day / 72°F night | 60–69°F |
 | **January sea** | **81°F — swimmable** | **66°F — not** |
 | **Rain** | One of the driest months | Wetter, windier |
-| **Flights from PDX** | One stop | **No direct; 10–17h each way** |
+| **Flights from PDX** | One stop, **under 10h total** | **No direct; 10–17h each way** |
+| **Flight frequency** | Daily, many routings | **A few days a week in Jan.** Boston is the only gateway that fits Fri→Mon |
+| **Getting around** | Rent a car, or don't bother in San Juan | **Tourists cannot rent cars.** Buses, ferries, taxis, or a 2-seat Twizy |
 | **Season** | Peak. Book early | Off season. Cheaper, quieter |
 | **Passport** | Not needed (US) | **Needed** |
 | **Best for** | Beach, swimming, rainforest, islands | Walking, history, food, empty beaches |

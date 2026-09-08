@@ -17,6 +17,7 @@ going in than to find out on arrival.
 | **Season** | Off season. Rates are heavily discounted |
 | **Flights from PDX** | **No direct. 10–17 hours each way** via east coast hubs |
 | **Passport** | Required |
+| **Getting around** | **Tourists cannot rent cars.** Buses, ferries, taxis, scooters, or a 2-seat Twizy |
 
 Also worth knowing: it's **not** in the Caribbean. Bermuda sits out in the North
 Atlantic, level with South Carolina, which is exactly why it's cool in January.
@@ -60,6 +61,68 @@ without booking two separate rooms.
 > Same caveat as the Puerto Rico page: no rates here, because off-season Bermuda pricing
 > swings hard and a number I quote now would be wrong. But this is the cheaper of the two
 > destinations, sometimes dramatically.
+
+---
+
+## ⚠️ You cannot rent a car in Bermuda
+
+This is the single biggest thing to know before planning anything, and it is not a
+formality. **Non-residents are not permitted to own, rent, or drive a four-wheeled car
+on the island.** There is no tourist workaround. It comes from a government cap on
+vehicles per household plus roads that are narrow, winding and left-hand drive.
+
+For a party of four that shapes the whole trip:
+
+| Option | Reality for four people |
+|---|---|
+| **Renault Twizy** | Tiny electric minicar, the most visitor-friendly rental going. **Two seats**, so a group of four needs **two of them**. Capped around 22 mph. Roughly \$90–120 per day each |
+| **Scooters** | The classic Bermuda rental. No driving licence needed, just photo ID and 18+. Two people per scooter at most, and it rains in January |
+| **Buses and ferries** | Genuinely good. 11 bus routes, 14 zones, ferries across the Sound. Passes run from 1 to 31 days, bought through the government's **Shorelink** app |
+| **Taxis** | Everywhere, and the default for four people with luggage. Also the expensive default |
+
+**Practical read:** a group of four on a three-night trip should plan around **buses,
+ferries and taxis**, and treat a Twizy or scooters as a fun half-day rather than the
+transport plan. That in turn argues for staying somewhere walkable, which pushes toward
+**Hamilton** over a resort on a far end of the island.
+
+---
+
+## ⚠️ Winter flights are infrequent, and the gateway decides the trip
+
+There are no direct flights from Portland, so you connect through an east coast city.
+The catch is that **Bermuda's winter schedule is only a few days a week from most
+gateways**, and MLK weekend is a Friday out, Monday back.
+
+| Gateway | January frequency | Works for Fri → Mon? |
+|---|---|---|
+| **Boston** | 4x weekly, **Mon / Thu / Fri / Sun**, Jan–Apr 2027 | ✅ **Yes.** Out Friday, back Monday |
+| Miami | 5x weekly, Mon / Wed / Thu / Fri / Sun, Jan–Mar | ✅ Yes, but a long way round from Portland |
+| Newark | 2x weekly, Thu / Sun | ❌ No Friday departure |
+| LaGuardia | 2x weekly, Wed / Sat | ❌ Neither day works |
+
+**Boston is the gateway that fits.** Book that leg first, because if it's full the trip
+doesn't work at all on those dates. Carriers on the route include BermudAir, Delta,
+JetBlue and American.
+
+---
+
+## Vacation rentals: legal, but licensed
+
+Rentals do exist and are above board, they are just regulated more tightly than you'd
+expect from somewhere like Puerto Rico. The **Vacation Rental Act 2018** requires an
+owner to hold a vacation rental certificate before letting to visitors. Properties with
+an annual rental value above **\$22,800** are licensed by the Bermuda Tourism Authority;
+below that, by Consumer Affairs.
+
+**What that means for booking:** supply is thin compared with a normal island
+destination, and unlicensed listings do appear. It is reasonable to ask a host to
+confirm they hold a current certificate, because an unlicensed rental is the kind that
+gets cancelled on you late.
+
+Given the thin supply and the no-car problem, **a cottage colony is probably the better
+answer than a private rental here.** Cambridge Beaches is the obvious one: separate
+cottages, so four people aren't sharing a hotel room, with a resort's transport and food
+around it.
 
 ---
 

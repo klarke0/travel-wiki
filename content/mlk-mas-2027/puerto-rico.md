@@ -67,6 +67,29 @@ which pushes toward a villa or a residence rather than hotel rooms.
 
 ---
 
+## Getting there and getting around
+
+**Flights.** No nonstop from Portland. One stop, usually through Atlanta, Dallas or
+Miami, and **total travel time generally comes in under 10 hours**. That is the single
+clearest practical advantage over Bermuda, which runs 10 to 17 hours each way on a
+schedule that only operates a few days a week in January.
+
+No passport needed, US phone plans work, US dollars, and SJU is a normal busy US airport
+rather than a small island one.
+
+**Do you need a car?** Depends entirely on where you base.
+
+| Plan | Car? |
+|---|---|
+| Staying in Condado / Old San Juan, eating and walking | **No.** SJU is about 7 miles and 20 minutes out; taxis and rideshare cover the rest |
+| El Yunque, Fajardo, the west coast, Ponce | **Yes.** Public transport does not realistically get you there |
+| Resort in Dorado or Río Grande, staying put | Optional. One car for the group is plenty |
+
+For four people over three nights, one rental car is usually the right call even if you
+base in San Juan, purely because it makes El Yunque a decision rather than a production.
+
+---
+
 ## Places to go
 
 ### Old San Juan
