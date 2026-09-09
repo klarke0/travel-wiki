@@ -31,7 +31,7 @@ of Bend, and an overnight sampler of the Oregon Outback country.
 
 ---
 
-## 🔭 The observatory is the point
+## 🔭 The observatory is the point — but it's closed right now
 
 **Pine Mountain Observatory** is a University of Oregon research facility at about 6,300 ft,
 26 miles southeast of Bend. It runs **public nights where you look through the telescopes**,
@@ -49,18 +49,35 @@ evening on the eyepiece. That's the whole reason this route exists.
 
 The parking lot opens at sunset. **If there's cloud or wildfire smoke, they don't open.**
 
-### ⚠️ Call before you commit to the drive
+### 🔴 CLOSED — confirmed, and it's worse than just the telescopes
 
-Two things need a phone call, and it's the same call:
+**Pine Mountain Observatory has been closed to the public since 1 June 2026.** This is
+posted on the observatory's own homepage, signed by Scott Fisher, Director of PMO. Quoting
+it:
 
-1. **There have been reports of public nights cancelled for road damage**, with the
-   observatory working with the Forest Service on repairs. The official UO page currently
-   shows no closure banner. The two don't agree, and a 3h30m drive is too far to guess.
-2. **"Two weekends a month" isn't a fixed schedule.** Confirm which two.
+> Recent thunderstorms in the area have severely damaged the access road (**NF 2017**) to
+> Pine Mountain Observatory. **Currently there is no access to the observatory or Pine
+> Mountain Campground.** Because of this unfortunate situation, all public facing
+> activities, including our weekend 'Public Nights' programs, are cancelled until further
+> notice.
 
-### 🌑 Moon matters as much as it does for a bio bay
+**Two things this kills, not one:**
 
-A bright moon washes out everything faint. Same problem, same fix: go on a dark night.
+1. **The observatory.** No public nights, no telescopes, no timetable for return
+2. **The campground.** "No access to Pine Mountain Campground" means the overnight stop
+   this route is built around is gone too
+
+The damaged road is **NF 2017**, the access road to both. Anyone planning this loop needs
+to check whether the route as drawn depends on it before setting off, because the GPX
+predates the damage.
+
+**It is worth calling anyway if you're considering it** — the notice is from June and
+Forest Service road repairs do finish. **541-382-8331**, Alton Luken, Operations Manager.
+Ask whether NF 2017 has reopened and whether the campground is accessible. Confirmed
+correct contact: it's on both the observatory homepage and its visiting page.
+
+> ⚠️ **The notice is on pmo.uoregon.edu's homepage, not the Visiting page.** The Visiting
+> page still reads as though everything is running normally. Don't check that one alone.
 
 ## Season for the route itself
 
